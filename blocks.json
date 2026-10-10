@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "version": 1,
+  "blocks": {
+    "minecraft:birch_planks": {
+      "name": "シラカバの板材",
+      "yomi": "しらかばのいたざい"
+    },
+    "minecraft:deepslate": {
+      "name": "深層岩",
+      "yomi": "しんそうがん"
+    },
+    "minecraft:dirt_path": {
+      "name": "土の道",
+      "yomi": "つちのみち",
+      "aliases": ["草の道", "くさのみち"]
+    }
+  }
+}
