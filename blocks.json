@@ -1,6 +1,26 @@
 {
   "formatVersion": 1,
   "blocks": {
+    "minecraft:acacia_button": {
+      "name": "アカシアのボタン",
+      "yomi": "あかしあのぼたん"
+    },
+    "minecraft:acacia_door": {
+      "name": "アカシアのドア",
+      "yomi": "あかしあのどあ"
+    },
+    "minecraft:acacia_fence": {
+      "name": "アカシアのフェンス",
+      "yomi": "あかしあのふぇんす"
+    },
+    "minecraft:acacia_fence_gate": {
+      "name": "アカシアのフェンスゲート",
+      "yomi": "あかしあのふぇんすげーと"
+    },
+    "minecraft:acacia_hanging_sign": {
+      "name": "アカシアの吊り看板",
+      "yomi": "あかしあのつりかんばん"
+    },
     "minecraft:acacia_leaves": {
       "name": "アカシアの葉",
       "yomi": "あかしあのは"
@@ -12,6 +32,34 @@
     "minecraft:acacia_planks": {
       "name": "アカシアの板材",
       "yomi": "あかしあのいたざい"
+    },
+    "minecraft:acacia_pressure_plate": {
+      "name": "アカシアの感圧板",
+      "yomi": "あかしあのかんあつばん"
+    },
+    "minecraft:acacia_sapling": {
+      "name": "アカシアの苗木",
+      "yomi": "あかしあのなえぎ"
+    },
+    "minecraft:acacia_sign": {
+      "name": "アカシアの看板",
+      "yomi": "あかしあのかんばん"
+    },
+    "minecraft:acacia_slab": {
+      "name": "アカシアのハーフブロック",
+      "yomi": "あかしあのはーふぶろっく"
+    },
+    "minecraft:acacia_stairs": {
+      "name": "アカシアの階段",
+      "yomi": "あかしあのかいだん"
+    },
+    "minecraft:acacia_trapdoor": {
+      "name": "アカシアのトラップドア",
+      "yomi": "あかしあのとらっぷどあ"
+    },
+    "minecraft:acacia_wood": {
+      "name": "アカシアの木",
+      "yomi": "あかしあのき"
     },
     "minecraft:air": {
       "name": "空気",
@@ -33,9 +81,61 @@
       "name": "竹ブロック",
       "yomi": "たけぶろっく"
     },
+    "minecraft:bamboo_button": {
+      "name": "竹のボタン",
+      "yomi": "たけのぼたん"
+    },
+    "minecraft:bamboo_door": {
+      "name": "竹のドア",
+      "yomi": "たけのどあ"
+    },
+    "minecraft:bamboo_fence": {
+      "name": "竹のフェンス",
+      "yomi": "たけのふぇんす"
+    },
+    "minecraft:bamboo_fence_gate": {
+      "name": "竹のフェンスゲート",
+      "yomi": "たけのふぇんすげーと"
+    },
+    "minecraft:bamboo_hanging_sign": {
+      "name": "竹の吊り看板",
+      "yomi": "たけのつりかんばん"
+    },
+    "minecraft:bamboo_mosaic": {
+      "name": "竹細工",
+      "yomi": "たけざいく"
+    },
+    "minecraft:bamboo_mosaic_slab": {
+      "name": "竹細工のハーフブロック",
+      "yomi": "たけざいくのはーふぶろっく"
+    },
+    "minecraft:bamboo_mosaic_stairs": {
+      "name": "竹細工の階段",
+      "yomi": "たけざいくのかいだん"
+    },
     "minecraft:bamboo_planks": {
       "name": "竹の板材",
       "yomi": "たけのいたざい"
+    },
+    "minecraft:bamboo_pressure_plate": {
+      "name": "竹の感圧板",
+      "yomi": "たけのかんあつばん"
+    },
+    "minecraft:bamboo_sign": {
+      "name": "竹の看板",
+      "yomi": "たけのかんばん"
+    },
+    "minecraft:bamboo_slab": {
+      "name": "竹のハーフブロック",
+      "yomi": "たけのはーふぶろっく"
+    },
+    "minecraft:bamboo_stairs": {
+      "name": "竹の階段",
+      "yomi": "たけのかいだん"
+    },
+    "minecraft:bamboo_trapdoor": {
+      "name": "竹のトラップドア",
+      "yomi": "たけのとらっぷどあ"
     },
     "minecraft:barrier": {
       "name": "バリアブロック",
@@ -49,6 +149,26 @@
       "name": "岩盤",
       "yomi": "がんばん"
     },
+    "minecraft:birch_button": {
+      "name": "シラカバのボタン",
+      "yomi": "しらかばのぼたん"
+    },
+    "minecraft:birch_door": {
+      "name": "シラカバのドア",
+      "yomi": "しらかばのどあ"
+    },
+    "minecraft:birch_fence": {
+      "name": "シラカバのフェンス",
+      "yomi": "しらかばのふぇんす"
+    },
+    "minecraft:birch_fence_gate": {
+      "name": "シラカバのフェンスゲート",
+      "yomi": "しらかばのふぇんすげーと"
+    },
+    "minecraft:birch_hanging_sign": {
+      "name": "シラカバの吊り看板",
+      "yomi": "しらかばのつりかんばん"
+    },
     "minecraft:birch_leaves": {
       "name": "シラカバの葉",
       "yomi": "しらかばのは"
@@ -60,6 +180,34 @@
     "minecraft:birch_planks": {
       "name": "シラカバの板材",
       "yomi": "しらかばのいたざい"
+    },
+    "minecraft:birch_pressure_plate": {
+      "name": "シラカバの感圧板",
+      "yomi": "しらかばのかんあつばん"
+    },
+    "minecraft:birch_sapling": {
+      "name": "シラカバの苗木",
+      "yomi": "しらかばのなえぎ"
+    },
+    "minecraft:birch_sign": {
+      "name": "シラカバの看板",
+      "yomi": "しらかばのかんばん"
+    },
+    "minecraft:birch_slab": {
+      "name": "シラカバのハーフブロック",
+      "yomi": "しらかばのはーふぶろっく"
+    },
+    "minecraft:birch_stairs": {
+      "name": "シラカバの階段",
+      "yomi": "しらかばのかいだん"
+    },
+    "minecraft:birch_trapdoor": {
+      "name": "シラカバのトラップドア",
+      "yomi": "しらかばのとらっぷどあ"
+    },
+    "minecraft:birch_wood": {
+      "name": "シラカバの木",
+      "yomi": "しらかばのき"
     },
     "minecraft:black_concrete": {
       "name": "黒色のコンクリート",
@@ -137,6 +285,26 @@
       "name": "チェーンコマンドブロック",
       "yomi": "ちぇーんこまんどぶろっく"
     },
+    "minecraft:cherry_button": {
+      "name": "サクラのボタン",
+      "yomi": "さくらのぼたん"
+    },
+    "minecraft:cherry_door": {
+      "name": "サクラのドア",
+      "yomi": "さくらのどあ"
+    },
+    "minecraft:cherry_fence": {
+      "name": "サクラのフェンス",
+      "yomi": "さくらのふぇんす"
+    },
+    "minecraft:cherry_fence_gate": {
+      "name": "サクラのフェンスゲート",
+      "yomi": "さくらのふぇんすげーと"
+    },
+    "minecraft:cherry_hanging_sign": {
+      "name": "サクラの吊り看板",
+      "yomi": "さくらのつりかんばん"
+    },
     "minecraft:cherry_leaves": {
       "name": "サクラの葉",
       "yomi": "さくらのは"
@@ -148,6 +316,34 @@
     "minecraft:cherry_planks": {
       "name": "サクラの板材",
       "yomi": "さくらのいたざい"
+    },
+    "minecraft:cherry_pressure_plate": {
+      "name": "サクラの感圧板",
+      "yomi": "さくらのかんあつばん"
+    },
+    "minecraft:cherry_sapling": {
+      "name": "サクラの苗木",
+      "yomi": "さくらのなえぎ"
+    },
+    "minecraft:cherry_sign": {
+      "name": "サクラの看板",
+      "yomi": "さくらのかんばん"
+    },
+    "minecraft:cherry_slab": {
+      "name": "サクラのハーフブロック",
+      "yomi": "さくらのはーふぶろっく"
+    },
+    "minecraft:cherry_stairs": {
+      "name": "サクラの階段",
+      "yomi": "さくらのかいだん"
+    },
+    "minecraft:cherry_trapdoor": {
+      "name": "サクラのトラップドア",
+      "yomi": "さくらのとらっぷどあ"
+    },
+    "minecraft:cherry_wood": {
+      "name": "サクラの木",
+      "yomi": "さくらのき"
     },
     "minecraft:chiseled_quartz_block": {
       "name": "模様入りのクォーツブロック",
@@ -206,13 +402,61 @@
       "name": "作業台",
       "yomi": "さぎょうだい"
     },
+    "minecraft:crimson_button": {
+      "name": "真紅のボタン",
+      "yomi": "しんくのぼたん"
+    },
+    "minecraft:crimson_door": {
+      "name": "真紅のドア",
+      "yomi": "しんくのどあ"
+    },
+    "minecraft:crimson_fence": {
+      "name": "真紅のフェンス",
+      "yomi": "しんくのふぇんす"
+    },
+    "minecraft:crimson_fence_gate": {
+      "name": "真紅のフェンスゲート",
+      "yomi": "しんくのふぇんすげーと"
+    },
+    "minecraft:crimson_fungus": {
+      "name": "真紅のキノコ",
+      "yomi": "しんくのきのこ"
+    },
+    "minecraft:crimson_hanging_sign": {
+      "name": "真紅の吊り看板",
+      "yomi": "しんくのつりかんばん"
+    },
+    "minecraft:crimson_hyphae": {
+      "name": "真紅の菌糸",
+      "yomi": "しんくのきんし"
+    },
     "minecraft:crimson_planks": {
       "name": "真紅の板材",
       "yomi": "しんくのいたざい"
     },
+    "minecraft:crimson_pressure_plate": {
+      "name": "真紅の感圧板",
+      "yomi": "しんくのかんあつばん"
+    },
+    "minecraft:crimson_sign": {
+      "name": "真紅の看板",
+      "yomi": "しんくのかんばん"
+    },
+    "minecraft:crimson_slab": {
+      "name": "真紅のハーフブロック",
+      "yomi": "しんくのはーふぶろっく"
+    },
+    "minecraft:crimson_stairs": {
+      "name": "真紅の階段",
+      "yomi": "しんくのかいだん"
+    },
     "minecraft:crimson_stem": {
       "name": "真紅の幹",
       "yomi": "しんくのみき"
+    },
+    "minecraft:crimson_trapdoor": {
+      "name": "真紅のトラップドア",
+      "yomi": "しんくのとらっぷどあ"
     },
     "minecraft:crying_obsidian": {
       "name": "泣く黒曜石",
@@ -238,6 +482,26 @@
       "name": "青緑色の羊毛",
       "yomi": "あおみどりいろのようもう"
     },
+    "minecraft:dark_oak_button": {
+      "name": "ダークオークのボタン",
+      "yomi": "だーくおーくのぼたん"
+    },
+    "minecraft:dark_oak_door": {
+      "name": "ダークオークのドア",
+      "yomi": "だーくおーくのどあ"
+    },
+    "minecraft:dark_oak_fence": {
+      "name": "ダークオークのフェンス",
+      "yomi": "だーくおーくのふぇんす"
+    },
+    "minecraft:dark_oak_fence_gate": {
+      "name": "ダークオークのフェンスゲート",
+      "yomi": "だーくおーくのふぇんすげーと"
+    },
+    "minecraft:dark_oak_hanging_sign": {
+      "name": "ダークオークの吊り看板",
+      "yomi": "だーくおーくのつりかんばん"
+    },
     "minecraft:dark_oak_leaves": {
       "name": "ダークオークの葉",
       "yomi": "だーくおーくのは"
@@ -249,6 +513,34 @@
     "minecraft:dark_oak_planks": {
       "name": "ダークオークの板材",
       "yomi": "だーくおーくのいたざい"
+    },
+    "minecraft:dark_oak_pressure_plate": {
+      "name": "ダークオークの感圧板",
+      "yomi": "だーくおーくのかんあつばん"
+    },
+    "minecraft:dark_oak_sapling": {
+      "name": "ダークオークの苗木",
+      "yomi": "だーくおーくのなえぎ"
+    },
+    "minecraft:dark_oak_sign": {
+      "name": "ダークオークの看板",
+      "yomi": "だーくおーくのかんばん"
+    },
+    "minecraft:dark_oak_slab": {
+      "name": "ダークオークのハーフブロック",
+      "yomi": "だーくおーくのはーふぶろっく"
+    },
+    "minecraft:dark_oak_stairs": {
+      "name": "ダークオークの階段",
+      "yomi": "だーくおーくのかいだん"
+    },
+    "minecraft:dark_oak_trapdoor": {
+      "name": "ダークオークのトラップドア",
+      "yomi": "だーくおーくのとらっぷどあ"
+    },
+    "minecraft:dark_oak_wood": {
+      "name": "ダークオークの木",
+      "yomi": "だーくおーくのき"
     },
     "minecraft:dark_prismarine": {
       "name": "ダークプリズマリン",
@@ -403,6 +695,26 @@
       "name": "ジャック・オ・ランタン",
       "yomi": "じゃっくおらんたん"
     },
+    "minecraft:jungle_button": {
+      "name": "ジャングルのボタン",
+      "yomi": "じゃんぐるのぼたん"
+    },
+    "minecraft:jungle_door": {
+      "name": "ジャングルのドア",
+      "yomi": "じゃんぐるのどあ"
+    },
+    "minecraft:jungle_fence": {
+      "name": "ジャングルのフェンス",
+      "yomi": "じゃんぐるのふぇんす"
+    },
+    "minecraft:jungle_fence_gate": {
+      "name": "ジャングルのフェンスゲート",
+      "yomi": "じゃんぐるのふぇんすげーと"
+    },
+    "minecraft:jungle_hanging_sign": {
+      "name": "ジャングルの吊り看板",
+      "yomi": "じゃんぐるのつりかんばん"
+    },
     "minecraft:jungle_leaves": {
       "name": "ジャングルの葉",
       "yomi": "じゃんぐるのは"
@@ -414,6 +726,34 @@
     "minecraft:jungle_planks": {
       "name": "ジャングルの板材",
       "yomi": "じゃんぐるのいたざい"
+    },
+    "minecraft:jungle_pressure_plate": {
+      "name": "ジャングルの感圧板",
+      "yomi": "じゃんぐるのかんあつばん"
+    },
+    "minecraft:jungle_sapling": {
+      "name": "ジャングルの苗木",
+      "yomi": "じゃんぐるのなえぎ"
+    },
+    "minecraft:jungle_sign": {
+      "name": "ジャングルの看板",
+      "yomi": "じゃんぐるのかんばん"
+    },
+    "minecraft:jungle_slab": {
+      "name": "ジャングルのハーフブロック",
+      "yomi": "じゃんぐるのはーふぶろっく"
+    },
+    "minecraft:jungle_stairs": {
+      "name": "ジャングルの階段",
+      "yomi": "じゃんぐるのかいだん"
+    },
+    "minecraft:jungle_trapdoor": {
+      "name": "ジャングルのトラップドア",
+      "yomi": "じゃんぐるのとらっぷどあ"
+    },
+    "minecraft:jungle_wood": {
+      "name": "ジャングルの木",
+      "yomi": "じゃんぐるのき"
     },
     "minecraft:lapis_block": {
       "name": "ラピスラズリブロック",
@@ -499,6 +839,26 @@
       "name": "マグマブロック",
       "yomi": "まぐまぶろっく"
     },
+    "minecraft:mangrove_button": {
+      "name": "マングローブのボタン",
+      "yomi": "まんぐろーぶのぼたん"
+    },
+    "minecraft:mangrove_door": {
+      "name": "マングローブのドア",
+      "yomi": "まんぐろーぶのどあ"
+    },
+    "minecraft:mangrove_fence": {
+      "name": "マングローブのフェンス",
+      "yomi": "まんぐろーぶのふぇんす"
+    },
+    "minecraft:mangrove_fence_gate": {
+      "name": "マングローブのフェンスゲート",
+      "yomi": "まんぐろーぶのふぇんすげーと"
+    },
+    "minecraft:mangrove_hanging_sign": {
+      "name": "マングローブの吊り看板",
+      "yomi": "まんぐろーぶのつりかんばん"
+    },
     "minecraft:mangrove_leaves": {
       "name": "マングローブの葉",
       "yomi": "まんぐろーぶのは"
@@ -510,6 +870,34 @@
     "minecraft:mangrove_planks": {
       "name": "マングローブの板材",
       "yomi": "まんぐろーぶのいたざい"
+    },
+    "minecraft:mangrove_pressure_plate": {
+      "name": "マングローブの感圧板",
+      "yomi": "まんぐろーぶのかんあつばん"
+    },
+    "minecraft:mangrove_propagule": {
+      "name": "マングローブの芽",
+      "yomi": "まんぐろーぶのめ"
+    },
+    "minecraft:mangrove_sign": {
+      "name": "マングローブの看板",
+      "yomi": "まんぐろーぶのかんばん"
+    },
+    "minecraft:mangrove_slab": {
+      "name": "マングローブのハーフブロック",
+      "yomi": "まんぐろーぶのはーふぶろっく"
+    },
+    "minecraft:mangrove_stairs": {
+      "name": "マングローブの階段",
+      "yomi": "まんぐろーぶのかいだん"
+    },
+    "minecraft:mangrove_trapdoor": {
+      "name": "マングローブのトラップドア",
+      "yomi": "まんぐろーぶのとらっぷどあ"
+    },
+    "minecraft:mangrove_wood": {
+      "name": "マングローブの木",
+      "yomi": "まんぐろーぶのき"
     },
     "minecraft:melon": {
       "name": "スイカ",
@@ -551,6 +939,26 @@
       "name": "ネザーラック",
       "yomi": "ねざーらっく"
     },
+    "minecraft:oak_button": {
+      "name": "オークのボタン",
+      "yomi": "おーくのぼたん"
+    },
+    "minecraft:oak_door": {
+      "name": "オークのドア",
+      "yomi": "おーくのどあ"
+    },
+    "minecraft:oak_fence": {
+      "name": "オークのフェンス",
+      "yomi": "おーくのふぇんす"
+    },
+    "minecraft:oak_fence_gate": {
+      "name": "オークのフェンスゲート",
+      "yomi": "おーくのふぇんすげーと"
+    },
+    "minecraft:oak_hanging_sign": {
+      "name": "オークの吊り看板",
+      "yomi": "おーくのつりかんばん"
+    },
     "minecraft:oak_leaves": {
       "name": "オークの葉",
       "yomi": "おーくのは"
@@ -562,6 +970,34 @@
     "minecraft:oak_planks": {
       "name": "オークの板材",
       "yomi": "おーくのいたざい"
+    },
+    "minecraft:oak_pressure_plate": {
+      "name": "オークの感圧板",
+      "yomi": "おーくのかんあつばん"
+    },
+    "minecraft:oak_sapling": {
+      "name": "オークの苗木",
+      "yomi": "おーくのなえぎ"
+    },
+    "minecraft:oak_sign": {
+      "name": "オークの看板",
+      "yomi": "おーくのかんばん"
+    },
+    "minecraft:oak_slab": {
+      "name": "オークのハーフブロック",
+      "yomi": "おーくのはーふぶろっく"
+    },
+    "minecraft:oak_stairs": {
+      "name": "オークの階段",
+      "yomi": "おーくのかいだん"
+    },
+    "minecraft:oak_trapdoor": {
+      "name": "オークのトラップドア",
+      "yomi": "おーくのとらっぷどあ"
+    },
+    "minecraft:oak_wood": {
+      "name": "オークの木",
+      "yomi": "おーくのき"
     },
     "minecraft:obsidian": {
       "name": "黒曜石",
@@ -595,6 +1031,26 @@
       "name": "固めた泥",
       "yomi": "かためたどろ"
     },
+    "minecraft:pale_oak_button": {
+      "name": "ペールオークのボタン",
+      "yomi": "ぺーるおーくのぼたん"
+    },
+    "minecraft:pale_oak_door": {
+      "name": "ペールオークのドア",
+      "yomi": "ぺーるおーくのどあ"
+    },
+    "minecraft:pale_oak_fence": {
+      "name": "ペールオークのフェンス",
+      "yomi": "ぺーるおーくのふぇんす"
+    },
+    "minecraft:pale_oak_fence_gate": {
+      "name": "ペールオークのフェンスゲート",
+      "yomi": "ぺーるおーくのふぇんすげーと"
+    },
+    "minecraft:pale_oak_hanging_sign": {
+      "name": "ペールオークの吊り看板",
+      "yomi": "ぺーるおーくのつりかんばん"
+    },
     "minecraft:pale_oak_leaves": {
       "name": "ペールオークの葉",
       "yomi": "ぺーるおーくのは"
@@ -606,6 +1062,34 @@
     "minecraft:pale_oak_planks": {
       "name": "ペールオークの板材",
       "yomi": "ぺーるおーくのいたざい"
+    },
+    "minecraft:pale_oak_pressure_plate": {
+      "name": "ペールオークの感圧板",
+      "yomi": "ぺーるおーくのかんあつばん"
+    },
+    "minecraft:pale_oak_sapling": {
+      "name": "ペールオークの苗木",
+      "yomi": "ぺーるおーくのなえぎ"
+    },
+    "minecraft:pale_oak_sign": {
+      "name": "ペールオークの看板",
+      "yomi": "ぺーるおーくのかんばん"
+    },
+    "minecraft:pale_oak_slab": {
+      "name": "ペールオークのハーフブロック",
+      "yomi": "ぺーるおーくのはーふぶろっく"
+    },
+    "minecraft:pale_oak_stairs": {
+      "name": "ペールオークの階段",
+      "yomi": "ぺーるおーくのかいだん"
+    },
+    "minecraft:pale_oak_trapdoor": {
+      "name": "ペールオークのトラップドア",
+      "yomi": "ぺーるおーくのとらっぷどあ"
+    },
+    "minecraft:pale_oak_wood": {
+      "name": "ペールオークの木",
+      "yomi": "ぺーるおーくのき"
     },
     "minecraft:pink_concrete": {
       "name": "桃色のコンクリート",
@@ -820,6 +1304,26 @@
       "name": "スポンジ",
       "yomi": "すぽんじ"
     },
+    "minecraft:spruce_button": {
+      "name": "トウヒのボタン",
+      "yomi": "とうひのぼたん"
+    },
+    "minecraft:spruce_door": {
+      "name": "トウヒのドア",
+      "yomi": "とうひのどあ"
+    },
+    "minecraft:spruce_fence": {
+      "name": "トウヒのフェンス",
+      "yomi": "とうひのふぇんす"
+    },
+    "minecraft:spruce_fence_gate": {
+      "name": "トウヒのフェンスゲート",
+      "yomi": "とうひのふぇんすげーと"
+    },
+    "minecraft:spruce_hanging_sign": {
+      "name": "トウヒの吊り看板",
+      "yomi": "とうひのつりかんばん"
+    },
     "minecraft:spruce_leaves": {
       "name": "トウヒの葉",
       "yomi": "とうひのは"
@@ -832,6 +1336,34 @@
       "name": "トウヒの板材",
       "yomi": "とうひのいたざい"
     },
+    "minecraft:spruce_pressure_plate": {
+      "name": "トウヒの感圧板",
+      "yomi": "とうひのかんあつばん"
+    },
+    "minecraft:spruce_sapling": {
+      "name": "トウヒの苗木",
+      "yomi": "とうひのなえぎ"
+    },
+    "minecraft:spruce_sign": {
+      "name": "トウヒの看板",
+      "yomi": "とうひのかんばん"
+    },
+    "minecraft:spruce_slab": {
+      "name": "トウヒのハーフブロック",
+      "yomi": "とうひのはーふぶろっく"
+    },
+    "minecraft:spruce_stairs": {
+      "name": "トウヒの階段",
+      "yomi": "とうひのかいだん"
+    },
+    "minecraft:spruce_trapdoor": {
+      "name": "トウヒのトラップドア",
+      "yomi": "とうひのとらっぷどあ"
+    },
+    "minecraft:spruce_wood": {
+      "name": "トウヒの木",
+      "yomi": "とうひのき"
+    },
     "minecraft:stone": {
       "name": "石",
       "yomi": "いし"
@@ -839,6 +1371,98 @@
     "minecraft:stone_bricks": {
       "name": "石レンガ",
       "yomi": "いしれんが"
+    },
+    "minecraft:stripped_acacia_log": {
+      "name": "樹皮を剥いだアカシアの原木",
+      "yomi": "じゅひをはいだあかしあのげんぼく"
+    },
+    "minecraft:stripped_acacia_wood": {
+      "name": "樹皮を剥いだアカシアの木",
+      "yomi": "じゅひをはいだあかしあのき"
+    },
+    "minecraft:stripped_bamboo_block": {
+      "name": "表皮を剥いだ竹ブロック",
+      "yomi": "ひょうひをはいだたけぶろっく"
+    },
+    "minecraft:stripped_birch_log": {
+      "name": "樹皮を剥いだシラカバの原木",
+      "yomi": "じゅひをはいだしらかばのげんぼく"
+    },
+    "minecraft:stripped_birch_wood": {
+      "name": "樹皮を剥いだシラカバの木",
+      "yomi": "じゅひをはいだしらかばのき"
+    },
+    "minecraft:stripped_cherry_log": {
+      "name": "樹皮を剥いだサクラの原木",
+      "yomi": "じゅひをはいださくらのげんぼく"
+    },
+    "minecraft:stripped_cherry_wood": {
+      "name": "樹皮を剥いだサクラの木",
+      "yomi": "じゅひをはいださくらのき"
+    },
+    "minecraft:stripped_crimson_hyphae": {
+      "name": "表皮を剥いだ真紅の菌糸",
+      "yomi": "ひょうひをはいだしんくのきんし"
+    },
+    "minecraft:stripped_crimson_stem": {
+      "name": "表皮を剥いだ真紅の幹",
+      "yomi": "ひょうひをはいだしんくのみき"
+    },
+    "minecraft:stripped_dark_oak_log": {
+      "name": "樹皮を剥いだダークオークの原木",
+      "yomi": "じゅひをはいだだーくおーくのげんぼく"
+    },
+    "minecraft:stripped_dark_oak_wood": {
+      "name": "樹皮を剥いだダークオークの木",
+      "yomi": "じゅひをはいだだーくおーくのき"
+    },
+    "minecraft:stripped_jungle_log": {
+      "name": "樹皮を剥いだジャングルの原木",
+      "yomi": "じゅひをはいだじゃんぐるのげんぼく"
+    },
+    "minecraft:stripped_jungle_wood": {
+      "name": "樹皮を剥いだジャングルの木",
+      "yomi": "じゅひをはいだじゃんぐるのき"
+    },
+    "minecraft:stripped_mangrove_log": {
+      "name": "樹皮を剥いだマングローブの原木",
+      "yomi": "じゅひをはいだまんぐろーぶのげんぼく"
+    },
+    "minecraft:stripped_mangrove_wood": {
+      "name": "樹皮を剥いだマングローブの木",
+      "yomi": "じゅひをはいだまんぐろーぶのき"
+    },
+    "minecraft:stripped_oak_log": {
+      "name": "樹皮を剥いだオークの原木",
+      "yomi": "じゅひをはいだおーくのげんぼく"
+    },
+    "minecraft:stripped_oak_wood": {
+      "name": "樹皮を剥いだオークの木",
+      "yomi": "じゅひをはいだおーくのき"
+    },
+    "minecraft:stripped_pale_oak_log": {
+      "name": "樹皮を剥いだペールオークの原木",
+      "yomi": "じゅひをはいだぺーるおーくのげんぼく"
+    },
+    "minecraft:stripped_pale_oak_wood": {
+      "name": "樹皮を剥いだペールオークの木",
+      "yomi": "じゅひをはいだぺーるおーくのき"
+    },
+    "minecraft:stripped_spruce_log": {
+      "name": "樹皮を剥いだトウヒの原木",
+      "yomi": "じゅひをはいだとうひのげんぼく"
+    },
+    "minecraft:stripped_spruce_wood": {
+      "name": "樹皮を剥いだトウヒの木",
+      "yomi": "じゅひをはいだとうひのき"
+    },
+    "minecraft:stripped_warped_hyphae": {
+      "name": "表皮を剥いだ歪んだ菌糸",
+      "yomi": "ひょうひをはいだゆがんだきんし"
+    },
+    "minecraft:stripped_warped_stem": {
+      "name": "表皮を剥いだ歪んだ幹",
+      "yomi": "ひょうひをはいだゆがんだみき"
     },
     "minecraft:structure_block": {
       "name": "ストラクチャーブロック",
@@ -865,13 +1489,61 @@
       "name": "凝灰岩",
       "yomi": "ぎょうかいがん"
     },
+    "minecraft:warped_button": {
+      "name": "歪んだボタン",
+      "yomi": "ゆがんだぼたん"
+    },
+    "minecraft:warped_door": {
+      "name": "歪んだドア",
+      "yomi": "ゆがんだどあ"
+    },
+    "minecraft:warped_fence": {
+      "name": "歪んだフェンス",
+      "yomi": "ゆがんだふぇんす"
+    },
+    "minecraft:warped_fence_gate": {
+      "name": "歪んだフェンスゲート",
+      "yomi": "ゆがんだふぇんすげーと"
+    },
+    "minecraft:warped_fungus": {
+      "name": "歪んだキノコ",
+      "yomi": "ゆがんだきのこ"
+    },
+    "minecraft:warped_hanging_sign": {
+      "name": "歪んだ吊り看板",
+      "yomi": "ゆがんだつりかんばん"
+    },
+    "minecraft:warped_hyphae": {
+      "name": "歪んだ菌糸",
+      "yomi": "ゆがんだきんし"
+    },
     "minecraft:warped_planks": {
       "name": "歪んだ板材",
       "yomi": "ゆがんだいたざい"
     },
+    "minecraft:warped_pressure_plate": {
+      "name": "歪んだ感圧板",
+      "yomi": "ゆがんだかんあつばん"
+    },
+    "minecraft:warped_sign": {
+      "name": "歪んだ看板",
+      "yomi": "ゆがんだかんばん"
+    },
+    "minecraft:warped_slab": {
+      "name": "歪んだハーフブロック",
+      "yomi": "ゆがんだはーふぶろっく"
+    },
+    "minecraft:warped_stairs": {
+      "name": "歪んだ階段",
+      "yomi": "ゆがんだかいだん"
+    },
     "minecraft:warped_stem": {
       "name": "歪んだ幹",
       "yomi": "ゆがんだみき"
+    },
+    "minecraft:warped_trapdoor": {
+      "name": "歪んだトラップドア",
+      "yomi": "ゆがんだとらっぷどあ"
     },
     "minecraft:water": {
       "name": "水",
@@ -908,678 +1580,6 @@
     "minecraft:yellow_wool": {
       "name": "黄色の羊毛",
       "yomi": "きいろのようもう"
-    },
-    "minecraft:oak_wood": {
-      "name": "オークの木",
-      "yomi": "おーくのき"
-    },
-    "minecraft:stripped_oak_log": {
-      "name": "樹皮を剥いだオークの原木",
-      "yomi": "じゅひをはいだおーくのげんぼく"
-    },
-    "minecraft:stripped_oak_wood": {
-      "name": "樹皮を剥いだオークの木",
-      "yomi": "じゅひをはいだおーくのき"
-    },
-    "minecraft:oak_slab": {
-      "name": "オークのハーフブロック",
-      "yomi": "おーくのはーふぶろっく"
-    },
-    "minecraft:oak_stairs": {
-      "name": "オークの階段",
-      "yomi": "おーくのかいだん"
-    },
-    "minecraft:oak_fence": {
-      "name": "オークのフェンス",
-      "yomi": "おーくのふぇんす"
-    },
-    "minecraft:oak_fence_gate": {
-      "name": "オークのフェンスゲート",
-      "yomi": "おーくのふぇんすげーと"
-    },
-    "minecraft:oak_door": {
-      "name": "オークのドア",
-      "yomi": "おーくのどあ"
-    },
-    "minecraft:oak_trapdoor": {
-      "name": "オークのトラップドア",
-      "yomi": "おーくのとらっぷどあ"
-    },
-    "minecraft:oak_pressure_plate": {
-      "name": "オークの感圧板",
-      "yomi": "おーくのかんあつばん"
-    },
-    "minecraft:oak_button": {
-      "name": "オークのボタン",
-      "yomi": "おーくのぼたん"
-    },
-    "minecraft:oak_sign": {
-      "name": "オークの看板",
-      "yomi": "おーくのかんばん"
-    },
-    "minecraft:oak_hanging_sign": {
-      "name": "オークの吊り看板",
-      "yomi": "おーくのつりかんばん"
-    },
-    "minecraft:oak_sapling": {
-      "name": "オークの苗木",
-      "yomi": "おーくのなえぎ"
-    },
-    "minecraft:spruce_wood": {
-      "name": "トウヒの木",
-      "yomi": "とうひのき"
-    },
-    "minecraft:stripped_spruce_log": {
-      "name": "樹皮を剥いだトウヒの原木",
-      "yomi": "じゅひをはいだとうひのげんぼく"
-    },
-    "minecraft:stripped_spruce_wood": {
-      "name": "樹皮を剥いだトウヒの木",
-      "yomi": "じゅひをはいだとうひのき"
-    },
-    "minecraft:spruce_slab": {
-      "name": "トウヒのハーフブロック",
-      "yomi": "とうひのはーふぶろっく"
-    },
-    "minecraft:spruce_stairs": {
-      "name": "トウヒの階段",
-      "yomi": "とうひのかいだん"
-    },
-    "minecraft:spruce_fence": {
-      "name": "トウヒのフェンス",
-      "yomi": "とうひのふぇんす"
-    },
-    "minecraft:spruce_fence_gate": {
-      "name": "トウヒのフェンスゲート",
-      "yomi": "とうひのふぇんすげーと"
-    },
-    "minecraft:spruce_door": {
-      "name": "トウヒのドア",
-      "yomi": "とうひのどあ"
-    },
-    "minecraft:spruce_trapdoor": {
-      "name": "トウヒのトラップドア",
-      "yomi": "とうひのとらっぷどあ"
-    },
-    "minecraft:spruce_pressure_plate": {
-      "name": "トウヒの感圧板",
-      "yomi": "とうひのかんあつばん"
-    },
-    "minecraft:spruce_button": {
-      "name": "トウヒのボタン",
-      "yomi": "とうひのぼたん"
-    },
-    "minecraft:spruce_sign": {
-      "name": "トウヒの看板",
-      "yomi": "とうひのかんばん"
-    },
-    "minecraft:spruce_hanging_sign": {
-      "name": "トウヒの吊り看板",
-      "yomi": "とうひのつりかんばん"
-    },
-    "minecraft:spruce_sapling": {
-      "name": "トウヒの苗木",
-      "yomi": "とうひのなえぎ"
-    },
-    "minecraft:birch_wood": {
-      "name": "シラカバの木",
-      "yomi": "しらかばのき"
-    },
-    "minecraft:stripped_birch_log": {
-      "name": "樹皮を剥いだシラカバの原木",
-      "yomi": "じゅひをはいだしらかばのげんぼく"
-    },
-    "minecraft:stripped_birch_wood": {
-      "name": "樹皮を剥いだシラカバの木",
-      "yomi": "じゅひをはいだしらかばのき"
-    },
-    "minecraft:birch_slab": {
-      "name": "シラカバのハーフブロック",
-      "yomi": "しらかばのはーふぶろっく"
-    },
-    "minecraft:birch_stairs": {
-      "name": "シラカバの階段",
-      "yomi": "しらかばのかいだん"
-    },
-    "minecraft:birch_fence": {
-      "name": "シラカバのフェンス",
-      "yomi": "しらかばのふぇんす"
-    },
-    "minecraft:birch_fence_gate": {
-      "name": "シラカバのフェンスゲート",
-      "yomi": "しらかばのふぇんすげーと"
-    },
-    "minecraft:birch_door": {
-      "name": "シラカバのドア",
-      "yomi": "しらかばのどあ"
-    },
-    "minecraft:birch_trapdoor": {
-      "name": "シラカバのトラップドア",
-      "yomi": "しらかばのとらっぷどあ"
-    },
-    "minecraft:birch_pressure_plate": {
-      "name": "シラカバの感圧板",
-      "yomi": "しらかばのかんあつばん"
-    },
-    "minecraft:birch_button": {
-      "name": "シラカバのボタン",
-      "yomi": "しらかばのぼたん"
-    },
-    "minecraft:birch_sign": {
-      "name": "シラカバの看板",
-      "yomi": "しらかばのかんばん"
-    },
-    "minecraft:birch_hanging_sign": {
-      "name": "シラカバの吊り看板",
-      "yomi": "しらかばのつりかんばん"
-    },
-    "minecraft:birch_sapling": {
-      "name": "シラカバの苗木",
-      "yomi": "しらかばのなえぎ"
-    },
-    "minecraft:jungle_wood": {
-      "name": "ジャングルの木",
-      "yomi": "じゃんぐるのき"
-    },
-    "minecraft:stripped_jungle_log": {
-      "name": "樹皮を剥いだジャングルの原木",
-      "yomi": "じゅひをはいだじゃんぐるのげんぼく"
-    },
-    "minecraft:stripped_jungle_wood": {
-      "name": "樹皮を剥いだジャングルの木",
-      "yomi": "じゅひをはいだじゃんぐるのき"
-    },
-    "minecraft:jungle_slab": {
-      "name": "ジャングルのハーフブロック",
-      "yomi": "じゃんぐるのはーふぶろっく"
-    },
-    "minecraft:jungle_stairs": {
-      "name": "ジャングルの階段",
-      "yomi": "じゃんぐるのかいだん"
-    },
-    "minecraft:jungle_fence": {
-      "name": "ジャングルのフェンス",
-      "yomi": "じゃんぐるのふぇんす"
-    },
-    "minecraft:jungle_fence_gate": {
-      "name": "ジャングルのフェンスゲート",
-      "yomi": "じゃんぐるのふぇんすげーと"
-    },
-    "minecraft:jungle_door": {
-      "name": "ジャングルのドア",
-      "yomi": "じゃんぐるのどあ"
-    },
-    "minecraft:jungle_trapdoor": {
-      "name": "ジャングルのトラップドア",
-      "yomi": "じゃんぐるのとらっぷどあ"
-    },
-    "minecraft:jungle_pressure_plate": {
-      "name": "ジャングルの感圧板",
-      "yomi": "じゃんぐるのかんあつばん"
-    },
-    "minecraft:jungle_button": {
-      "name": "ジャングルのボタン",
-      "yomi": "じゃんぐるのぼたん"
-    },
-    "minecraft:jungle_sign": {
-      "name": "ジャングルの看板",
-      "yomi": "じゃんぐるのかんばん"
-    },
-    "minecraft:jungle_hanging_sign": {
-      "name": "ジャングルの吊り看板",
-      "yomi": "じゃんぐるのつりかんばん"
-    },
-    "minecraft:jungle_sapling": {
-      "name": "ジャングルの苗木",
-      "yomi": "じゃんぐるのなえぎ"
-    },
-    "minecraft:acacia_wood": {
-      "name": "アカシアの木",
-      "yomi": "あかしあのき"
-    },
-    "minecraft:stripped_acacia_log": {
-      "name": "樹皮を剥いだアカシアの原木",
-      "yomi": "じゅひをはいだあかしあのげんぼく"
-    },
-    "minecraft:stripped_acacia_wood": {
-      "name": "樹皮を剥いだアカシアの木",
-      "yomi": "じゅひをはいだあかしあのき"
-    },
-    "minecraft:acacia_slab": {
-      "name": "アカシアのハーフブロック",
-      "yomi": "あかしあのはーふぶろっく"
-    },
-    "minecraft:acacia_stairs": {
-      "name": "アカシアの階段",
-      "yomi": "あかしあのかいだん"
-    },
-    "minecraft:acacia_fence": {
-      "name": "アカシアのフェンス",
-      "yomi": "あかしあのふぇんす"
-    },
-    "minecraft:acacia_fence_gate": {
-      "name": "アカシアのフェンスゲート",
-      "yomi": "あかしあのふぇんすげーと"
-    },
-    "minecraft:acacia_door": {
-      "name": "アカシアのドア",
-      "yomi": "あかしあのどあ"
-    },
-    "minecraft:acacia_trapdoor": {
-      "name": "アカシアのトラップドア",
-      "yomi": "あかしあのとらっぷどあ"
-    },
-    "minecraft:acacia_pressure_plate": {
-      "name": "アカシアの感圧板",
-      "yomi": "あかしあのかんあつばん"
-    },
-    "minecraft:acacia_button": {
-      "name": "アカシアのボタン",
-      "yomi": "あかしあのぼたん"
-    },
-    "minecraft:acacia_sign": {
-      "name": "アカシアの看板",
-      "yomi": "あかしあのかんばん"
-    },
-    "minecraft:acacia_hanging_sign": {
-      "name": "アカシアの吊り看板",
-      "yomi": "あかしあのつりかんばん"
-    },
-    "minecraft:acacia_sapling": {
-      "name": "アカシアの苗木",
-      "yomi": "あかしあのなえぎ"
-    },
-    "minecraft:dark_oak_wood": {
-      "name": "ダークオークの木",
-      "yomi": "だーくおーくのき"
-    },
-    "minecraft:stripped_dark_oak_log": {
-      "name": "樹皮を剥いだダークオークの原木",
-      "yomi": "じゅひをはいだだーくおーくのげんぼく"
-    },
-    "minecraft:stripped_dark_oak_wood": {
-      "name": "樹皮を剥いだダークオークの木",
-      "yomi": "じゅひをはいだだーくおーくのき"
-    },
-    "minecraft:dark_oak_slab": {
-      "name": "ダークオークのハーフブロック",
-      "yomi": "だーくおーくのはーふぶろっく"
-    },
-    "minecraft:dark_oak_stairs": {
-      "name": "ダークオークの階段",
-      "yomi": "だーくおーくのかいだん"
-    },
-    "minecraft:dark_oak_fence": {
-      "name": "ダークオークのフェンス",
-      "yomi": "だーくおーくのふぇんす"
-    },
-    "minecraft:dark_oak_fence_gate": {
-      "name": "ダークオークのフェンスゲート",
-      "yomi": "だーくおーくのふぇんすげーと"
-    },
-    "minecraft:dark_oak_door": {
-      "name": "ダークオークのドア",
-      "yomi": "だーくおーくのどあ"
-    },
-    "minecraft:dark_oak_trapdoor": {
-      "name": "ダークオークのトラップドア",
-      "yomi": "だーくおーくのとらっぷどあ"
-    },
-    "minecraft:dark_oak_pressure_plate": {
-      "name": "ダークオークの感圧板",
-      "yomi": "だーくおーくのかんあつばん"
-    },
-    "minecraft:dark_oak_button": {
-      "name": "ダークオークのボタン",
-      "yomi": "だーくおーくのぼたん"
-    },
-    "minecraft:dark_oak_sign": {
-      "name": "ダークオークの看板",
-      "yomi": "だーくおーくのかんばん"
-    },
-    "minecraft:dark_oak_hanging_sign": {
-      "name": "ダークオークの吊り看板",
-      "yomi": "だーくおーくのつりかんばん"
-    },
-    "minecraft:dark_oak_sapling": {
-      "name": "ダークオークの苗木",
-      "yomi": "だーくおーくのなえぎ"
-    },
-    "minecraft:mangrove_wood": {
-      "name": "マングローブの木",
-      "yomi": "まんぐろーぶのき"
-    },
-    "minecraft:stripped_mangrove_log": {
-      "name": "樹皮を剥いだマングローブの原木",
-      "yomi": "じゅひをはいだまんぐろーぶのげんぼく"
-    },
-    "minecraft:stripped_mangrove_wood": {
-      "name": "樹皮を剥いだマングローブの木",
-      "yomi": "じゅひをはいだまんぐろーぶのき"
-    },
-    "minecraft:mangrove_slab": {
-      "name": "マングローブのハーフブロック",
-      "yomi": "まんぐろーぶのはーふぶろっく"
-    },
-    "minecraft:mangrove_stairs": {
-      "name": "マングローブの階段",
-      "yomi": "まんぐろーぶのかいだん"
-    },
-    "minecraft:mangrove_fence": {
-      "name": "マングローブのフェンス",
-      "yomi": "まんぐろーぶのふぇんす"
-    },
-    "minecraft:mangrove_fence_gate": {
-      "name": "マングローブのフェンスゲート",
-      "yomi": "まんぐろーぶのふぇんすげーと"
-    },
-    "minecraft:mangrove_door": {
-      "name": "マングローブのドア",
-      "yomi": "まんぐろーぶのどあ"
-    },
-    "minecraft:mangrove_trapdoor": {
-      "name": "マングローブのトラップドア",
-      "yomi": "まんぐろーぶのとらっぷどあ"
-    },
-    "minecraft:mangrove_pressure_plate": {
-      "name": "マングローブの感圧板",
-      "yomi": "まんぐろーぶのかんあつばん"
-    },
-    "minecraft:mangrove_button": {
-      "name": "マングローブのボタン",
-      "yomi": "まんぐろーぶのぼたん"
-    },
-    "minecraft:mangrove_sign": {
-      "name": "マングローブの看板",
-      "yomi": "まんぐろーぶのかんばん"
-    },
-    "minecraft:mangrove_hanging_sign": {
-      "name": "マングローブの吊り看板",
-      "yomi": "まんぐろーぶのつりかんばん"
-    },
-    "minecraft:mangrove_propagule": {
-      "name": "マングローブの芽",
-      "yomi": "まんぐろーぶのめ"
-    },
-    "minecraft:cherry_wood": {
-      "name": "サクラの木",
-      "yomi": "さくらのき"
-    },
-    "minecraft:stripped_cherry_log": {
-      "name": "樹皮を剥いだサクラの原木",
-      "yomi": "じゅひをはいださくらのげんぼく"
-    },
-    "minecraft:stripped_cherry_wood": {
-      "name": "樹皮を剥いだサクラの木",
-      "yomi": "じゅひをはいださくらのき"
-    },
-    "minecraft:cherry_slab": {
-      "name": "サクラのハーフブロック",
-      "yomi": "さくらのはーふぶろっく"
-    },
-    "minecraft:cherry_stairs": {
-      "name": "サクラの階段",
-      "yomi": "さくらのかいだん"
-    },
-    "minecraft:cherry_fence": {
-      "name": "サクラのフェンス",
-      "yomi": "さくらのふぇんす"
-    },
-    "minecraft:cherry_fence_gate": {
-      "name": "サクラのフェンスゲート",
-      "yomi": "さくらのふぇんすげーと"
-    },
-    "minecraft:cherry_door": {
-      "name": "サクラのドア",
-      "yomi": "さくらのどあ"
-    },
-    "minecraft:cherry_trapdoor": {
-      "name": "サクラのトラップドア",
-      "yomi": "さくらのとらっぷどあ"
-    },
-    "minecraft:cherry_pressure_plate": {
-      "name": "サクラの感圧板",
-      "yomi": "さくらのかんあつばん"
-    },
-    "minecraft:cherry_button": {
-      "name": "サクラのボタン",
-      "yomi": "さくらのぼたん"
-    },
-    "minecraft:cherry_sign": {
-      "name": "サクラの看板",
-      "yomi": "さくらのかんばん"
-    },
-    "minecraft:cherry_hanging_sign": {
-      "name": "サクラの吊り看板",
-      "yomi": "さくらのつりかんばん"
-    },
-    "minecraft:cherry_sapling": {
-      "name": "サクラの苗木",
-      "yomi": "さくらのなえぎ"
-    },
-    "minecraft:pale_oak_wood": {
-      "name": "ペールオークの木",
-      "yomi": "ぺーるおーくのき"
-    },
-    "minecraft:stripped_pale_oak_log": {
-      "name": "樹皮を剥いだペールオークの原木",
-      "yomi": "じゅひをはいだぺーるおーくのげんぼく"
-    },
-    "minecraft:stripped_pale_oak_wood": {
-      "name": "樹皮を剥いだペールオークの木",
-      "yomi": "じゅひをはいだぺーるおーくのき"
-    },
-    "minecraft:pale_oak_slab": {
-      "name": "ペールオークのハーフブロック",
-      "yomi": "ぺーるおーくのはーふぶろっく"
-    },
-    "minecraft:pale_oak_stairs": {
-      "name": "ペールオークの階段",
-      "yomi": "ぺーるおーくのかいだん"
-    },
-    "minecraft:pale_oak_fence": {
-      "name": "ペールオークのフェンス",
-      "yomi": "ぺーるおーくのふぇんす"
-    },
-    "minecraft:pale_oak_fence_gate": {
-      "name": "ペールオークのフェンスゲート",
-      "yomi": "ぺーるおーくのふぇんすげーと"
-    },
-    "minecraft:pale_oak_door": {
-      "name": "ペールオークのドア",
-      "yomi": "ぺーるおーくのどあ"
-    },
-    "minecraft:pale_oak_trapdoor": {
-      "name": "ペールオークのトラップドア",
-      "yomi": "ぺーるおーくのとらっぷどあ"
-    },
-    "minecraft:pale_oak_pressure_plate": {
-      "name": "ペールオークの感圧板",
-      "yomi": "ぺーるおーくのかんあつばん"
-    },
-    "minecraft:pale_oak_button": {
-      "name": "ペールオークのボタン",
-      "yomi": "ぺーるおーくのぼたん"
-    },
-    "minecraft:pale_oak_sign": {
-      "name": "ペールオークの看板",
-      "yomi": "ぺーるおーくのかんばん"
-    },
-    "minecraft:pale_oak_hanging_sign": {
-      "name": "ペールオークの吊り看板",
-      "yomi": "ぺーるおーくのつりかんばん"
-    },
-    "minecraft:pale_oak_sapling": {
-      "name": "ペールオークの苗木",
-      "yomi": "ぺーるおーくのなえぎ"
-    },
-    "minecraft:crimson_hyphae": {
-      "name": "真紅の菌糸",
-      "yomi": "しんくのきんし"
-    },
-    "minecraft:stripped_crimson_stem": {
-      "name": "表皮を剥いだ真紅の幹",
-      "yomi": "ひょうひをはいだしんくのみき"
-    },
-    "minecraft:stripped_crimson_hyphae": {
-      "name": "表皮を剥いだ真紅の菌糸",
-      "yomi": "ひょうひをはいだしんくのきんし"
-    },
-    "minecraft:crimson_slab": {
-      "name": "真紅のハーフブロック",
-      "yomi": "しんくのはーふぶろっく"
-    },
-    "minecraft:crimson_stairs": {
-      "name": "真紅の階段",
-      "yomi": "しんくのかいだん"
-    },
-    "minecraft:crimson_fence": {
-      "name": "真紅のフェンス",
-      "yomi": "しんくのふぇんす"
-    },
-    "minecraft:crimson_fence_gate": {
-      "name": "真紅のフェンスゲート",
-      "yomi": "しんくのふぇんすげーと"
-    },
-    "minecraft:crimson_door": {
-      "name": "真紅のドア",
-      "yomi": "しんくのどあ"
-    },
-    "minecraft:crimson_trapdoor": {
-      "name": "真紅のトラップドア",
-      "yomi": "しんくのとらっぷどあ"
-    },
-    "minecraft:crimson_pressure_plate": {
-      "name": "真紅の感圧板",
-      "yomi": "しんくのかんあつばん"
-    },
-    "minecraft:crimson_button": {
-      "name": "真紅のボタン",
-      "yomi": "しんくのぼたん"
-    },
-    "minecraft:crimson_sign": {
-      "name": "真紅の看板",
-      "yomi": "しんくのかんばん"
-    },
-    "minecraft:crimson_hanging_sign": {
-      "name": "真紅の吊り看板",
-      "yomi": "しんくのつりかんばん"
-    },
-    "minecraft:crimson_fungus": {
-      "name": "真紅のキノコ",
-      "yomi": "しんくのきのこ"
-    },
-    "minecraft:warped_hyphae": {
-      "name": "歪んだ菌糸",
-      "yomi": "ゆがんだきんし"
-    },
-    "minecraft:stripped_warped_stem": {
-      "name": "表皮を剥いだ歪んだ幹",
-      "yomi": "ひょうひをはいだゆがんだみき"
-    },
-    "minecraft:stripped_warped_hyphae": {
-      "name": "表皮を剥いだ歪んだ菌糸",
-      "yomi": "ひょうひをはいだゆがんだきんし"
-    },
-    "minecraft:warped_slab": {
-      "name": "歪んだハーフブロック",
-      "yomi": "ゆがんだはーふぶろっく"
-    },
-    "minecraft:warped_stairs": {
-      "name": "歪んだ階段",
-      "yomi": "ゆがんだかいだん"
-    },
-    "minecraft:warped_fence": {
-      "name": "歪んだフェンス",
-      "yomi": "ゆがんだふぇんす"
-    },
-    "minecraft:warped_fence_gate": {
-      "name": "歪んだフェンスゲート",
-      "yomi": "ゆがんだふぇんすげーと"
-    },
-    "minecraft:warped_door": {
-      "name": "歪んだドア",
-      "yomi": "ゆがんだどあ"
-    },
-    "minecraft:warped_trapdoor": {
-      "name": "歪んだトラップドア",
-      "yomi": "ゆがんだとらっぷどあ"
-    },
-    "minecraft:warped_pressure_plate": {
-      "name": "歪んだ感圧板",
-      "yomi": "ゆがんだかんあつばん"
-    },
-    "minecraft:warped_button": {
-      "name": "歪んだボタン",
-      "yomi": "ゆがんだぼたん"
-    },
-    "minecraft:warped_sign": {
-      "name": "歪んだ看板",
-      "yomi": "ゆがんだかんばん"
-    },
-    "minecraft:warped_hanging_sign": {
-      "name": "歪んだ吊り看板",
-      "yomi": "ゆがんだつりかんばん"
-    },
-    "minecraft:warped_fungus": {
-      "name": "歪んだキノコ",
-      "yomi": "ゆがんだきのこ"
-    },
-    "minecraft:stripped_bamboo_block": {
-      "name": "表皮を剥いだ竹ブロック",
-      "yomi": "ひょうひをはいだたけぶろっく"
-    },
-    "minecraft:bamboo_mosaic": {
-      "name": "竹細工",
-      "yomi": "たけざいく"
-    },
-    "minecraft:bamboo_mosaic_slab": {
-      "name": "竹細工のハーフブロック",
-      "yomi": "たけざいくのはーふぶろっく"
-    },
-    "minecraft:bamboo_mosaic_stairs": {
-      "name": "竹細工の階段",
-      "yomi": "たけざいくのかいだん"
-    },
-    "minecraft:bamboo_slab": {
-      "name": "竹のハーフブロック",
-      "yomi": "たけのはーふぶろっく"
-    },
-    "minecraft:bamboo_stairs": {
-      "name": "竹の階段",
-      "yomi": "たけのかいだん"
-    },
-    "minecraft:bamboo_fence": {
-      "name": "竹のフェンス",
-      "yomi": "たけのふぇんす"
-    },
-    "minecraft:bamboo_fence_gate": {
-      "name": "竹のフェンスゲート",
-      "yomi": "たけのふぇんすげーと"
-    },
-    "minecraft:bamboo_door": {
-      "name": "竹のドア",
-      "yomi": "たけのどあ"
-    },
-    "minecraft:bamboo_trapdoor": {
-      "name": "竹のトラップドア",
-      "yomi": "たけのとらっぷどあ"
-    },
-    "minecraft:bamboo_pressure_plate": {
-      "name": "竹の感圧板",
-      "yomi": "たけのかんあつばん"
-    },
-    "minecraft:bamboo_button": {
-      "name": "竹のボタン",
-      "yomi": "たけのぼたん"
-    },
-    "minecraft:bamboo_sign": {
-      "name": "竹の看板",
-      "yomi": "たけのかんばん"
-    },
-    "minecraft:bamboo_hanging_sign": {
-      "name": "竹の吊り看板",
-      "yomi": "たけのつりかんばん"
     }
   }
 }
