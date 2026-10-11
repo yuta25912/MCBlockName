@@ -1,19 +1,913 @@
 {
   "formatVersion": 1,
-  "version": 1,
   "blocks": {
+    "minecraft:acacia_leaves": {
+      "name": "アカシアの葉",
+      "yomi": "あかしあのは"
+    },
+    "minecraft:acacia_log": {
+      "name": "アカシアの原木",
+      "yomi": "あかしあのげんぼく"
+    },
+    "minecraft:acacia_planks": {
+      "name": "アカシアの板材",
+      "yomi": "あかしあのいたざい"
+    },
+    "minecraft:air": {
+      "name": "空気",
+      "yomi": "くうき"
+    },
+    "minecraft:amethyst_block": {
+      "name": "アメジストブロック",
+      "yomi": "あめじすとぶろっく"
+    },
+    "minecraft:andesite": {
+      "name": "安山岩",
+      "yomi": "あんざんがん"
+    },
+    "minecraft:azalea_leaves": {
+      "name": "ツツジの葉",
+      "yomi": "つつじのは"
+    },
+    "minecraft:bamboo_block": {
+      "name": "竹ブロック",
+      "yomi": "たけぶろっく"
+    },
+    "minecraft:bamboo_planks": {
+      "name": "竹の板材",
+      "yomi": "たけのいたざい"
+    },
+    "minecraft:barrier": {
+      "name": "バリアブロック",
+      "yomi": "ばりあぶろっく"
+    },
+    "minecraft:basalt": {
+      "name": "玄武岩",
+      "yomi": "げんぶがん"
+    },
+    "minecraft:bedrock": {
+      "name": "岩盤",
+      "yomi": "がんばん"
+    },
+    "minecraft:birch_leaves": {
+      "name": "シラカバの葉",
+      "yomi": "しらかばのは"
+    },
+    "minecraft:birch_log": {
+      "name": "シラカバの原木",
+      "yomi": "しらかばのげんぼく"
+    },
     "minecraft:birch_planks": {
       "name": "シラカバの板材",
       "yomi": "しらかばのいたざい"
+    },
+    "minecraft:black_concrete": {
+      "name": "黒色のコンクリート",
+      "yomi": "くろいろのこんくりーと"
+    },
+    "minecraft:black_stained_glass": {
+      "name": "黒色の色付きガラス",
+      "yomi": "くろいろのいろつきがらす"
+    },
+    "minecraft:black_terracotta": {
+      "name": "黒色のテラコッタ",
+      "yomi": "くろいろのてらこった"
+    },
+    "minecraft:black_wool": {
+      "name": "黒色の羊毛",
+      "yomi": "くろいろのようもう"
+    },
+    "minecraft:blackstone": {
+      "name": "ブラックストーン",
+      "yomi": "ぶらっくすとーん"
+    },
+    "minecraft:blue_concrete": {
+      "name": "青色のコンクリート",
+      "yomi": "あおいろのこんくりーと"
+    },
+    "minecraft:blue_ice": {
+      "name": "青氷",
+      "yomi": "せいひょう"
+    },
+    "minecraft:blue_stained_glass": {
+      "name": "青色の色付きガラス",
+      "yomi": "あおいろのいろつきがらす"
+    },
+    "minecraft:blue_terracotta": {
+      "name": "青色のテラコッタ",
+      "yomi": "あおいろのてらこった"
+    },
+    "minecraft:blue_wool": {
+      "name": "青色の羊毛",
+      "yomi": "あおいろのようもう"
+    },
+    "minecraft:bone_block": {
+      "name": "骨ブロック",
+      "yomi": "ほねぶろっく"
+    },
+    "minecraft:bookshelf": {
+      "name": "本棚",
+      "yomi": "ほんだな"
+    },
+    "minecraft:bricks": {
+      "name": "レンガ",
+      "yomi": "れんが"
+    },
+    "minecraft:brown_concrete": {
+      "name": "茶色のコンクリート",
+      "yomi": "ちゃいろのこんくりーと"
+    },
+    "minecraft:brown_stained_glass": {
+      "name": "茶色の色付きガラス",
+      "yomi": "ちゃいろのいろつきがらす"
+    },
+    "minecraft:brown_terracotta": {
+      "name": "茶色のテラコッタ",
+      "yomi": "ちゃいろのてらこった"
+    },
+    "minecraft:brown_wool": {
+      "name": "茶色の羊毛",
+      "yomi": "ちゃいろのようもう"
+    },
+    "minecraft:calcite": {
+      "name": "方解石",
+      "yomi": "ほうかいせき"
+    },
+    "minecraft:chain_command_block": {
+      "name": "チェーンコマンドブロック",
+      "yomi": "ちぇーんこまんどぶろっく"
+    },
+    "minecraft:cherry_leaves": {
+      "name": "サクラの葉",
+      "yomi": "さくらのは"
+    },
+    "minecraft:cherry_log": {
+      "name": "サクラの原木",
+      "yomi": "さくらのげんぼく"
+    },
+    "minecraft:cherry_planks": {
+      "name": "サクラの板材",
+      "yomi": "さくらのいたざい"
+    },
+    "minecraft:chiseled_quartz_block": {
+      "name": "模様入りのクォーツブロック",
+      "yomi": "もよういりのくぉーつぶろっく",
+      "aliases": ["模様入りのクオーツブロック", "もよういりのくおーつぶろっく"]
+    },
+    "minecraft:chiseled_sandstone": {
+      "name": "模様入りの砂岩",
+      "yomi": "もよういりのさがん"
+    },
+    "minecraft:chiseled_stone_bricks": {
+      "name": "模様入りの石レンガ",
+      "yomi": "もよういりのいしれんが"
+    },
+    "minecraft:clay": {
+      "name": "粘土",
+      "yomi": "ねんど"
+    },
+    "minecraft:coal_block": {
+      "name": "石炭ブロック",
+      "yomi": "せきたんぶろっく"
+    },
+    "minecraft:coal_ore": {
+      "name": "石炭鉱石",
+      "yomi": "せきたんこうせき"
+    },
+    "minecraft:coarse_dirt": {
+      "name": "粗い土",
+      "yomi": "あらいつち"
+    },
+    "minecraft:cobbled_deepslate": {
+      "name": "深層岩の丸石",
+      "yomi": "しんそうがんのまるいし"
+    },
+    "minecraft:cobblestone": {
+      "name": "丸石",
+      "yomi": "まるいし"
+    },
+    "minecraft:command_block": {
+      "name": "コマンドブロック",
+      "yomi": "こまんどぶろっく"
+    },
+    "minecraft:copper_block": {
+      "name": "銅ブロック",
+      "yomi": "どうぶろっく"
+    },
+    "minecraft:copper_ore": {
+      "name": "銅鉱石",
+      "yomi": "どうこうせき"
+    },
+    "minecraft:cracked_stone_bricks": {
+      "name": "ひび割れた石レンガ",
+      "yomi": "ひびわれたいしれんが"
+    },
+    "minecraft:crafting_table": {
+      "name": "作業台",
+      "yomi": "さぎょうだい"
+    },
+    "minecraft:crimson_planks": {
+      "name": "真紅の板材",
+      "yomi": "しんくのいたざい"
+    },
+    "minecraft:crimson_stem": {
+      "name": "真紅の幹",
+      "yomi": "しんくのみき"
+    },
+    "minecraft:crying_obsidian": {
+      "name": "泣く黒曜石",
+      "yomi": "なくこくようせき"
+    },
+    "minecraft:cut_sandstone": {
+      "name": "研がれた砂岩",
+      "yomi": "とがれたさがん"
+    },
+    "minecraft:cyan_concrete": {
+      "name": "青緑色のコンクリート",
+      "yomi": "あおみどりいろのこんくりーと"
+    },
+    "minecraft:cyan_stained_glass": {
+      "name": "青緑色の色付きガラス",
+      "yomi": "あおみどりいろのいろつきがらす"
+    },
+    "minecraft:cyan_terracotta": {
+      "name": "青緑色のテラコッタ",
+      "yomi": "あおみどりいろのてらこった"
+    },
+    "minecraft:cyan_wool": {
+      "name": "青緑色の羊毛",
+      "yomi": "あおみどりいろのようもう"
+    },
+    "minecraft:dark_oak_leaves": {
+      "name": "ダークオークの葉",
+      "yomi": "だーくおーくのは"
+    },
+    "minecraft:dark_oak_log": {
+      "name": "ダークオークの原木",
+      "yomi": "だーくおーくのげんぼく"
+    },
+    "minecraft:dark_oak_planks": {
+      "name": "ダークオークの板材",
+      "yomi": "だーくおーくのいたざい"
+    },
+    "minecraft:dark_prismarine": {
+      "name": "ダークプリズマリン",
+      "yomi": "だーくぷりずまりん"
+    },
+    "minecraft:daylight_detector": {
+      "name": "日照センサー",
+      "yomi": "にっしょうせんさー"
     },
     "minecraft:deepslate": {
       "name": "深層岩",
       "yomi": "しんそうがん"
     },
+    "minecraft:deepslate_bricks": {
+      "name": "深層岩レンガ",
+      "yomi": "しんそうがんれんが"
+    },
+    "minecraft:deepslate_tiles": {
+      "name": "深層岩タイル",
+      "yomi": "しんそうがんたいる"
+    },
+    "minecraft:diamond_block": {
+      "name": "ダイヤモンドブロック",
+      "yomi": "だいやもんどぶろっく"
+    },
+    "minecraft:diamond_ore": {
+      "name": "ダイヤモンド鉱石",
+      "yomi": "だいやもんどこうせき"
+    },
+    "minecraft:diorite": {
+      "name": "閃緑岩",
+      "yomi": "せんりょくがん"
+    },
+    "minecraft:dirt": {
+      "name": "土",
+      "yomi": "つち"
+    },
     "minecraft:dirt_path": {
       "name": "土の道",
       "yomi": "つちのみち",
       "aliases": ["草の道", "くさのみち"]
+    },
+    "minecraft:emerald_block": {
+      "name": "エメラルドブロック",
+      "yomi": "えめらるどぶろっく"
+    },
+    "minecraft:emerald_ore": {
+      "name": "エメラルド鉱石",
+      "yomi": "えめらるどこうせき"
+    },
+    "minecraft:end_stone": {
+      "name": "エンドストーン",
+      "yomi": "えんどすとーん"
+    },
+    "minecraft:end_stone_bricks": {
+      "name": "エンドストーンレンガ",
+      "yomi": "えんどすとーんれんが"
+    },
+    "minecraft:farmland": {
+      "name": "耕地",
+      "yomi": "こうち"
+    },
+    "minecraft:glass": {
+      "name": "ガラス",
+      "yomi": "がらす"
+    },
+    "minecraft:glass_pane": {
+      "name": "ガラス板",
+      "yomi": "がらすいた"
+    },
+    "minecraft:glowstone": {
+      "name": "グロウストーン",
+      "yomi": "ぐろうすとーん"
+    },
+    "minecraft:gold_block": {
+      "name": "金ブロック",
+      "yomi": "きんぶろっく"
+    },
+    "minecraft:gold_ore": {
+      "name": "金鉱石",
+      "yomi": "きんこうせき"
+    },
+    "minecraft:granite": {
+      "name": "花崗岩",
+      "yomi": "かこうがん"
+    },
+    "minecraft:grass_block": {
+      "name": "草ブロック",
+      "yomi": "くさぶろっく"
+    },
+    "minecraft:gravel": {
+      "name": "砂利",
+      "yomi": "じゃり"
+    },
+    "minecraft:gray_concrete": {
+      "name": "灰色のコンクリート",
+      "yomi": "はいいろのこんくりーと"
+    },
+    "minecraft:gray_stained_glass": {
+      "name": "灰色の色付きガラス",
+      "yomi": "はいいろのいろつきがらす"
+    },
+    "minecraft:gray_terracotta": {
+      "name": "灰色のテラコッタ",
+      "yomi": "はいいろのてらこった"
+    },
+    "minecraft:gray_wool": {
+      "name": "灰色の羊毛",
+      "yomi": "はいいろのようもう"
+    },
+    "minecraft:green_concrete": {
+      "name": "緑色のコンクリート",
+      "yomi": "みどりいろのこんくりーと"
+    },
+    "minecraft:green_stained_glass": {
+      "name": "緑色の色付きガラス",
+      "yomi": "みどりいろのいろつきがらす"
+    },
+    "minecraft:green_terracotta": {
+      "name": "緑色のテラコッタ",
+      "yomi": "みどりいろのてらこった"
+    },
+    "minecraft:green_wool": {
+      "name": "緑色の羊毛",
+      "yomi": "みどりいろのようもう"
+    },
+    "minecraft:hay_block": {
+      "name": "干草の俵",
+      "yomi": "ほしくさのたわら"
+    },
+    "minecraft:honey_block": {
+      "name": "ハチミツブロック",
+      "yomi": "はちみつぶろっく"
+    },
+    "minecraft:ice": {
+      "name": "氷",
+      "yomi": "こおり"
+    },
+    "minecraft:iron_bars": {
+      "name": "鉄格子",
+      "yomi": "てつごうし"
+    },
+    "minecraft:iron_block": {
+      "name": "鉄ブロック",
+      "yomi": "てつぶろっく"
+    },
+    "minecraft:iron_ore": {
+      "name": "鉄鉱石",
+      "yomi": "てっこうせき"
+    },
+    "minecraft:jack_o_lantern": {
+      "name": "ジャック・オ・ランタン",
+      "yomi": "じゃっくおらんたん"
+    },
+    "minecraft:jungle_leaves": {
+      "name": "ジャングルの葉",
+      "yomi": "じゃんぐるのは"
+    },
+    "minecraft:jungle_log": {
+      "name": "ジャングルの原木",
+      "yomi": "じゃんぐるのげんぼく"
+    },
+    "minecraft:jungle_planks": {
+      "name": "ジャングルの板材",
+      "yomi": "じゃんぐるのいたざい"
+    },
+    "minecraft:lapis_block": {
+      "name": "ラピスラズリブロック",
+      "yomi": "らぴすらずりぶろっく"
+    },
+    "minecraft:lapis_ore": {
+      "name": "ラピスラズリ鉱石",
+      "yomi": "らぴすらずりこうせき"
+    },
+    "minecraft:lava": {
+      "name": "溶岩",
+      "yomi": "ようがん"
+    },
+    "minecraft:light": {
+      "name": "ライトブロック",
+      "yomi": "らいとぶろっく"
+    },
+    "minecraft:light_blue_concrete": {
+      "name": "空色のコンクリート",
+      "yomi": "そらいろのこんくりーと"
+    },
+    "minecraft:light_blue_stained_glass": {
+      "name": "空色の色付きガラス",
+      "yomi": "そらいろのいろつきがらす"
+    },
+    "minecraft:light_blue_terracotta": {
+      "name": "空色のテラコッタ",
+      "yomi": "そらいろのてらこった"
+    },
+    "minecraft:light_blue_wool": {
+      "name": "空色の羊毛",
+      "yomi": "そらいろのようもう"
+    },
+    "minecraft:light_gray_concrete": {
+      "name": "薄灰色のコンクリート",
+      "yomi": "うすはいいろのこんくりーと"
+    },
+    "minecraft:light_gray_stained_glass": {
+      "name": "薄灰色の色付きガラス",
+      "yomi": "うすはいいろのいろつきがらす"
+    },
+    "minecraft:light_gray_terracotta": {
+      "name": "薄灰色のテラコッタ",
+      "yomi": "うすはいいろのてらこった"
+    },
+    "minecraft:light_gray_wool": {
+      "name": "薄灰色の羊毛",
+      "yomi": "うすはいいろのようもう"
+    },
+    "minecraft:lime_concrete": {
+      "name": "黄緑色のコンクリート",
+      "yomi": "きみどりいろのこんくりーと"
+    },
+    "minecraft:lime_stained_glass": {
+      "name": "黄緑色の色付きガラス",
+      "yomi": "きみどりいろのいろつきがらす"
+    },
+    "minecraft:lime_terracotta": {
+      "name": "黄緑色のテラコッタ",
+      "yomi": "きみどりいろのてらこった"
+    },
+    "minecraft:lime_wool": {
+      "name": "黄緑色の羊毛",
+      "yomi": "きみどりいろのようもう"
+    },
+    "minecraft:magenta_concrete": {
+      "name": "赤紫色のコンクリート",
+      "yomi": "あかむらさきいろのこんくりーと"
+    },
+    "minecraft:magenta_stained_glass": {
+      "name": "赤紫色の色付きガラス",
+      "yomi": "あかむらさきいろのいろつきがらす"
+    },
+    "minecraft:magenta_terracotta": {
+      "name": "赤紫色のテラコッタ",
+      "yomi": "あかむらさきいろのてらこった"
+    },
+    "minecraft:magenta_wool": {
+      "name": "赤紫色の羊毛",
+      "yomi": "あかむらさきいろのようもう"
+    },
+    "minecraft:magma_block": {
+      "name": "マグマブロック",
+      "yomi": "まぐまぶろっく"
+    },
+    "minecraft:mangrove_leaves": {
+      "name": "マングローブの葉",
+      "yomi": "まんぐろーぶのは"
+    },
+    "minecraft:mangrove_log": {
+      "name": "マングローブの原木",
+      "yomi": "まんぐろーぶのげんぼく"
+    },
+    "minecraft:mangrove_planks": {
+      "name": "マングローブの板材",
+      "yomi": "まんぐろーぶのいたざい"
+    },
+    "minecraft:melon": {
+      "name": "スイカ",
+      "yomi": "すいか"
+    },
+    "minecraft:moss_block": {
+      "name": "苔ブロック",
+      "yomi": "こけぶろっく"
+    },
+    "minecraft:mossy_cobblestone": {
+      "name": "苔むした丸石",
+      "yomi": "こけむしたまるいし"
+    },
+    "minecraft:mossy_stone_bricks": {
+      "name": "苔むした石レンガ",
+      "yomi": "こけむしたいしれんが"
+    },
+    "minecraft:mud": {
+      "name": "泥",
+      "yomi": "どろ"
+    },
+    "minecraft:mud_bricks": {
+      "name": "泥レンガ",
+      "yomi": "どろれんが"
+    },
+    "minecraft:mycelium": {
+      "name": "菌糸",
+      "yomi": "きんし"
+    },
+    "minecraft:nether_bricks": {
+      "name": "ネザーレンガ",
+      "yomi": "ねざーれんが"
+    },
+    "minecraft:netherite_block": {
+      "name": "ネザライトブロック",
+      "yomi": "ねざらいとぶろっく"
+    },
+    "minecraft:netherrack": {
+      "name": "ネザーラック",
+      "yomi": "ねざーらっく"
+    },
+    "minecraft:oak_leaves": {
+      "name": "オークの葉",
+      "yomi": "おーくのは"
+    },
+    "minecraft:oak_log": {
+      "name": "オークの原木",
+      "yomi": "おーくのげんぼく"
+    },
+    "minecraft:oak_planks": {
+      "name": "オークの板材",
+      "yomi": "おーくのいたざい"
+    },
+    "minecraft:obsidian": {
+      "name": "黒曜石",
+      "yomi": "こくようせき"
+    },
+    "minecraft:orange_concrete": {
+      "name": "橙色のコンクリート",
+      "yomi": "だいだいいろのこんくりーと",
+      "aliases": ["オレンジ色のコンクリート", "おれんじいろのこんくりーと"]
+    },
+    "minecraft:orange_stained_glass": {
+      "name": "橙色の色付きガラス",
+      "yomi": "だいだいいろのいろつきがらす",
+      "aliases": ["オレンジ色の色付きガラス", "おれんじいろのいろつきがらす"]
+    },
+    "minecraft:orange_terracotta": {
+      "name": "橙色のテラコッタ",
+      "yomi": "だいだいいろのてらこった",
+      "aliases": ["オレンジ色のテラコッタ", "おれんじいろのてらこった"]
+    },
+    "minecraft:orange_wool": {
+      "name": "橙色の羊毛",
+      "yomi": "だいだいいろのようもう",
+      "aliases": ["オレンジ色の羊毛", "おれんじいろのようもう"]
+    },
+    "minecraft:packed_ice": {
+      "name": "氷塊",
+      "yomi": "ひょうかい"
+    },
+    "minecraft:packed_mud": {
+      "name": "固めた泥",
+      "yomi": "かためたどろ"
+    },
+    "minecraft:pale_oak_leaves": {
+      "name": "ペールオークの葉",
+      "yomi": "ぺーるおーくのは"
+    },
+    "minecraft:pale_oak_log": {
+      "name": "ペールオークの原木",
+      "yomi": "ぺーるおーくのげんぼく"
+    },
+    "minecraft:pale_oak_planks": {
+      "name": "ペールオークの板材",
+      "yomi": "ぺーるおーくのいたざい"
+    },
+    "minecraft:pink_concrete": {
+      "name": "桃色のコンクリート",
+      "yomi": "ももいろのこんくりーと"
+    },
+    "minecraft:pink_stained_glass": {
+      "name": "桃色の色付きガラス",
+      "yomi": "ももいろのいろつきがらす"
+    },
+    "minecraft:pink_terracotta": {
+      "name": "桃色のテラコッタ",
+      "yomi": "ももいろのてらこった"
+    },
+    "minecraft:pink_wool": {
+      "name": "桃色の羊毛",
+      "yomi": "ももいろのようもう"
+    },
+    "minecraft:podzol": {
+      "name": "ポドゾル",
+      "yomi": "ぽどぞる"
+    },
+    "minecraft:polished_andesite": {
+      "name": "磨かれた安山岩",
+      "yomi": "みがかれたあんざんがん"
+    },
+    "minecraft:polished_basalt": {
+      "name": "磨かれた玄武岩",
+      "yomi": "みがかれたげんぶがん"
+    },
+    "minecraft:polished_blackstone": {
+      "name": "磨かれたブラックストーン",
+      "yomi": "みがかれたぶらっくすとーん"
+    },
+    "minecraft:polished_blackstone_bricks": {
+      "name": "磨かれたブラックストーンレンガ",
+      "yomi": "みがかれたぶらっくすとーんれんが"
+    },
+    "minecraft:polished_deepslate": {
+      "name": "磨かれた深層岩",
+      "yomi": "みがかれたしんそうがん"
+    },
+    "minecraft:polished_diorite": {
+      "name": "磨かれた閃緑岩",
+      "yomi": "みがかれたせんりょくがん"
+    },
+    "minecraft:polished_granite": {
+      "name": "磨かれた花崗岩",
+      "yomi": "みがかれたかこうがん"
+    },
+    "minecraft:powered_rail": {
+      "name": "パワードレール",
+      "yomi": "ぱわーどれーる"
+    },
+    "minecraft:prismarine": {
+      "name": "プリズマリン",
+      "yomi": "ぷりずまりん"
+    },
+    "minecraft:prismarine_bricks": {
+      "name": "プリズマリンレンガ",
+      "yomi": "ぷりずまりんれんが"
+    },
+    "minecraft:pumpkin": {
+      "name": "カボチャ",
+      "yomi": "かぼちゃ"
+    },
+    "minecraft:purple_concrete": {
+      "name": "紫色のコンクリート",
+      "yomi": "むらさきいろのこんくりーと"
+    },
+    "minecraft:purple_stained_glass": {
+      "name": "紫色の色付きガラス",
+      "yomi": "むらさきいろのいろつきがらす"
+    },
+    "minecraft:purple_terracotta": {
+      "name": "紫色のテラコッタ",
+      "yomi": "むらさきいろのてらこった"
+    },
+    "minecraft:purple_wool": {
+      "name": "紫色の羊毛",
+      "yomi": "むらさきいろのようもう"
+    },
+    "minecraft:purpur_block": {
+      "name": "プルプァブロック",
+      "yomi": "ぷるぷぁぶろっく"
+    },
+    "minecraft:purpur_pillar": {
+      "name": "プルプァの柱",
+      "yomi": "ぷるぷぁのはしら"
+    },
+    "minecraft:quartz_block": {
+      "name": "クォーツブロック",
+      "yomi": "くぉーつぶろっく",
+      "aliases": ["クオーツブロック", "くおーつぶろっく"]
+    },
+    "minecraft:quartz_bricks": {
+      "name": "クォーツレンガ",
+      "yomi": "くぉーつれんが",
+      "aliases": ["クオーツレンガ", "くおーつれんが"]
+    },
+    "minecraft:quartz_pillar": {
+      "name": "クォーツの柱",
+      "yomi": "くぉーつのはしら",
+      "aliases": ["クオーツの柱", "くおーつのはしら"]
+    },
+    "minecraft:rail": {
+      "name": "レール",
+      "yomi": "れーる"
+    },
+    "minecraft:red_concrete": {
+      "name": "赤色のコンクリート",
+      "yomi": "あかいろのこんくりーと"
+    },
+    "minecraft:red_nether_bricks": {
+      "name": "赤いネザーレンガ",
+      "yomi": "あかいねざーれんが"
+    },
+    "minecraft:red_sand": {
+      "name": "赤い砂",
+      "yomi": "あかいすな"
+    },
+    "minecraft:red_sandstone": {
+      "name": "赤い砂岩",
+      "yomi": "あかいさがん"
+    },
+    "minecraft:red_stained_glass": {
+      "name": "赤色の色付きガラス",
+      "yomi": "あかいろのいろつきがらす"
+    },
+    "minecraft:red_terracotta": {
+      "name": "赤色のテラコッタ",
+      "yomi": "あかいろのてらこった"
+    },
+    "minecraft:red_wool": {
+      "name": "赤色の羊毛",
+      "yomi": "あかいろのようもう"
+    },
+    "minecraft:redstone_block": {
+      "name": "レッドストーンブロック",
+      "yomi": "れっどすとーんぶろっく"
+    },
+    "minecraft:redstone_lamp": {
+      "name": "レッドストーンランプ",
+      "yomi": "れっどすとーんらんぷ"
+    },
+    "minecraft:redstone_ore": {
+      "name": "レッドストーン鉱石",
+      "yomi": "れっどすとーんこうせき"
+    },
+    "minecraft:repeating_command_block": {
+      "name": "リピートコマンドブロック",
+      "yomi": "りぴーとこまんどぶろっく"
+    },
+    "minecraft:rooted_dirt": {
+      "name": "根付いた土",
+      "yomi": "ねづいたつち"
+    },
+    "minecraft:sand": {
+      "name": "砂",
+      "yomi": "すな"
+    },
+    "minecraft:sandstone": {
+      "name": "砂岩",
+      "yomi": "さがん"
+    },
+    "minecraft:sculk": {
+      "name": "スカルク",
+      "yomi": "すかるく"
+    },
+    "minecraft:sea_lantern": {
+      "name": "シーランタン",
+      "yomi": "しーらんたん"
+    },
+    "minecraft:shroomlight": {
+      "name": "シュルームライト",
+      "yomi": "しゅるーむらいと"
+    },
+    "minecraft:slime_block": {
+      "name": "スライムブロック",
+      "yomi": "すらいむぶろっく"
+    },
+    "minecraft:smooth_basalt": {
+      "name": "滑らかな玄武岩",
+      "yomi": "なめらかなげんぶがん"
+    },
+    "minecraft:smooth_quartz": {
+      "name": "滑らかなクォーツブロック",
+      "yomi": "なめらかなくぉーつぶろっく",
+      "aliases": ["なめらかなクオーツブロック", "なめらかなくおーつぶろっく"]
+    },
+    "minecraft:smooth_sandstone": {
+      "name": "滑らかな砂岩",
+      "yomi": "なめらかなさがん"
+    },
+    "minecraft:smooth_stone": {
+      "name": "滑らかな石",
+      "yomi": "なめらかないし",
+      "aliases": ["なめらかな石", "なめらかないし"]
+    },
+    "minecraft:snow_block": {
+      "name": "雪ブロック",
+      "yomi": "ゆきぶろっく"
+    },
+    "minecraft:soul_sand": {
+      "name": "ソウルサンド",
+      "yomi": "そうるさんど"
+    },
+    "minecraft:soul_soil": {
+      "name": "ソウルソイル",
+      "yomi": "そうるそいる"
+    },
+    "minecraft:sponge": {
+      "name": "スポンジ",
+      "yomi": "すぽんじ"
+    },
+    "minecraft:spruce_leaves": {
+      "name": "トウヒの葉",
+      "yomi": "とうひのは"
+    },
+    "minecraft:spruce_log": {
+      "name": "トウヒの原木",
+      "yomi": "とうひのげんぼく"
+    },
+    "minecraft:spruce_planks": {
+      "name": "トウヒの板材",
+      "yomi": "とうひのいたざい"
+    },
+    "minecraft:stone": {
+      "name": "石",
+      "yomi": "いし"
+    },
+    "minecraft:stone_bricks": {
+      "name": "石レンガ",
+      "yomi": "いしれんが"
+    },
+    "minecraft:structure_block": {
+      "name": "ストラクチャーブロック",
+      "yomi": "すとらくちゃーぶろっく"
+    },
+    "minecraft:structure_void": {
+      "name": "ストラクチャーヴォイド",
+      "yomi": "すとらくちゃーゔぉいど",
+      "aliases": ["すとらくちゃーぼいど"]
+    },
+    "minecraft:terracotta": {
+      "name": "テラコッタ",
+      "yomi": "てらこった"
+    },
+    "minecraft:tinted_glass": {
+      "name": "遮光ガラス",
+      "yomi": "しゃこうがらす"
+    },
+    "minecraft:tnt": {
+      "name": "TNT",
+      "yomi": "てぃーえぬてぃー"
+    },
+    "minecraft:tuff": {
+      "name": "凝灰岩",
+      "yomi": "ぎょうかいがん"
+    },
+    "minecraft:warped_planks": {
+      "name": "歪んだ板材",
+      "yomi": "ゆがんだいたざい"
+    },
+    "minecraft:warped_stem": {
+      "name": "歪んだ幹",
+      "yomi": "ゆがんだみき"
+    },
+    "minecraft:water": {
+      "name": "水",
+      "yomi": "みず"
+    },
+    "minecraft:white_concrete": {
+      "name": "白色のコンクリート",
+      "yomi": "しろいろのこんくりーと"
+    },
+    "minecraft:white_stained_glass": {
+      "name": "白色の色付きガラス",
+      "yomi": "しろいろのいろつきがらす"
+    },
+    "minecraft:white_terracotta": {
+      "name": "白色のテラコッタ",
+      "yomi": "しろいろのてらこった"
+    },
+    "minecraft:white_wool": {
+      "name": "白色の羊毛",
+      "yomi": "しろいろのようもう"
+    },
+    "minecraft:yellow_concrete": {
+      "name": "黄色のコンクリート",
+      "yomi": "きいろのこんくりーと"
+    },
+    "minecraft:yellow_stained_glass": {
+      "name": "黄色の色付きガラス",
+      "yomi": "きいろのいろつきがらす"
+    },
+    "minecraft:yellow_terracotta": {
+      "name": "黄色のテラコッタ",
+      "yomi": "きいろのてらこった"
+    },
+    "minecraft:yellow_wool": {
+      "name": "黄色の羊毛",
+      "yomi": "きいろのようもう"
     }
   }
 }
