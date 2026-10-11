@@ -29,11 +29,12 @@ jobs:
       - name: Bump version.json
         run: |
           python3 - <<'EOF'
-          import datetime, json
+          import datetime, json, zoneinfo
           with open("version.json", encoding="utf-8") as f:
               v = json.load(f)
           v["version"] += 1
-          v["updated"] = datetime.date.today().isoformat()
+          # Actions の実行環境は UTC なので日本時間の日付にする
+          v["updated"] = datetime.datetime.now(zoneinfo.ZoneInfo("Asia/Tokyo")).date().isoformat()
           with open("version.json", "w", encoding="utf-8") as f:
               f.write(json.dumps(v, ensure_ascii=False, indent=2) + "\n")
           print("version", v["version"])
