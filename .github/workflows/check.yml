@@ -1,9 +1,8 @@
 name: Check blocks.json
 
 on:
+  push:
   pull_request:
-    paths:
-      - blocks.json
 
 jobs:
   check:
