@@ -1,0 +1,14 @@
+name: Check blocks.json
+
+on:
+  pull_request:
+    paths:
+      - blocks.json
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check blocks.json
+        run: python3 .github/scripts/blocks.py check

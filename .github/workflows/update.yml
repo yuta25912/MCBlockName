@@ -1,0 +1,49 @@
+name: Sort blocks.json and bump version
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - blocks.json
+
+# 連続でマージされても1つずつ順番に処理する
+concurrency:
+  group: update-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Sort blocks.json
+        run: python3 .github/scripts/blocks.py format
+
+      - name: Bump version.json
+        run: |
+          python3 - <<'EOF'
+          import datetime, json
+          with open("version.json", encoding="utf-8") as f:
+              v = json.load(f)
+          v["version"] += 1
+          v["updated"] = datetime.date.today().isoformat()
+          with open("version.json", "w", encoding="utf-8") as f:
+              f.write(json.dumps(v, ensure_ascii=False, indent=2) + "\n")
+          print("version", v["version"])
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blocks.json version.json
+          git commit -m "blocks.json を並べ替えて version を更新"
+          git pull --rebase origin main
+          git push origin main
