@@ -8,7 +8,7 @@ import re
 import sys
 
 PATH = "blocks.json"
-FORMAT_VERSION = 1
+FORMAT_VERSION = 2
 KEY = re.compile(r"^[a-z0-9_.-]+:[a-z0-9_./-]+$")
 YOMI = re.compile(r"^[ぁ-ゖー]+$")
 FIELDS = {"name", "yomi", "aliases"}
@@ -50,7 +50,8 @@ def validate(data):
             errors.append(f"{where} 知らない項目があります: {', '.join(sorted(extra))}")
         if not isinstance(e.get("name"), str) or not e["name"].strip():
             errors.append(f"{where} name がありません")
-        if not isinstance(e.get("yomi"), str) or not YOMI.match(e["yomi"]):
+        # yomi は書かなくてもよい。書くならひらがなと「ー」だけ
+        if "yomi" in e and (not isinstance(e["yomi"], str) or not YOMI.match(e["yomi"])):
             errors.append(f"{where} yomi はひらがなと「ー」だけで書いてください")
         if "aliases" in e:
             a = e["aliases"]
@@ -68,7 +69,9 @@ def dump(data):
     lines = ["{", f'  "formatVersion": {data["formatVersion"]},', '  "blocks": {']
     for n, key in enumerate(keys):
         e = blocks[key]
-        inner = [f'      "name": {s(e["name"])}', f'      "yomi": {s(e["yomi"])}']
+        inner = [f'      "name": {s(e["name"])}']
+        if "yomi" in e:
+            inner.append(f'      "yomi": {s(e["yomi"])}')
         if "aliases" in e:
             inner.append(f'      "aliases": [{", ".join(s(a) for a in e["aliases"])}]')
         lines.append(f"    {s(key)}: {{")

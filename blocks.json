@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "blocks": {
     "minecraft:acacia_button": {
       "name": "アカシアのボタン",
@@ -31,7 +31,8 @@
     },
     "minecraft:acacia_planks": {
       "name": "アカシアの板材",
-      "yomi": "あかしあのいたざい"
+      "yomi": "あかしあのいたざい",
+      "aliases": ["アカシアの木材"]
     },
     "minecraft:acacia_pressure_plate": {
       "name": "アカシアの感圧板",
@@ -40,6 +41,9 @@
     "minecraft:acacia_sapling": {
       "name": "アカシアの苗木",
       "yomi": "あかしあのなえぎ"
+    },
+    "minecraft:acacia_shelf": {
+      "name": "アカシアの棚"
     },
     "minecraft:acacia_sign": {
       "name": "アカシアの看板",
@@ -57,25 +61,75 @@
       "name": "アカシアのトラップドア",
       "yomi": "あかしあのとらっぷどあ"
     },
+    "minecraft:acacia_wall_hanging_sign": {
+      "name": "壁に付けられたアカシアの吊り看板"
+    },
+    "minecraft:acacia_wall_sign": {
+      "name": "壁に付けられたアカシアの看板"
+    },
     "minecraft:acacia_wood": {
       "name": "アカシアの木",
-      "yomi": "あかしあのき"
+      "yomi": "あかしあのき",
+      "aliases": ["アカシアの木塊"]
+    },
+    "minecraft:activator_rail": {
+      "name": "アクティベーターレール",
+      "yomi": "あくてぃべーたーれーる"
     },
     "minecraft:air": {
       "name": "空気",
       "yomi": "くうき"
     },
+    "minecraft:allium": {
+      "name": "アリウム",
+      "yomi": "ありうむ"
+    },
     "minecraft:amethyst_block": {
       "name": "アメジストブロック",
       "yomi": "あめじすとぶろっく"
+    },
+    "minecraft:amethyst_cluster": {
+      "name": "アメジストの塊"
+    },
+    "minecraft:ancient_debris": {
+      "name": "古代の残骸"
     },
     "minecraft:andesite": {
       "name": "安山岩",
       "yomi": "あんざんがん"
     },
+    "minecraft:andesite_slab": {
+      "name": "安山岩のハーフブロック"
+    },
+    "minecraft:andesite_stairs": {
+      "name": "安山岩の階段"
+    },
+    "minecraft:andesite_wall": {
+      "name": "安山岩の塀"
+    },
+    "minecraft:anvil": {
+      "name": "金床"
+    },
+    "minecraft:attached_melon_stem": {
+      "name": "実がなったスイカの茎"
+    },
+    "minecraft:attached_pumpkin_stem": {
+      "name": "実がなったカボチャの茎"
+    },
+    "minecraft:azalea": {
+      "name": "ツツジ",
+      "yomi": "つつじ"
+    },
     "minecraft:azalea_leaves": {
       "name": "ツツジの葉",
       "yomi": "つつじのは"
+    },
+    "minecraft:azure_bluet": {
+      "name": "ヒナソウ",
+      "yomi": "ひなそう"
+    },
+    "minecraft:bamboo": {
+      "name": "竹"
     },
     "minecraft:bamboo_block": {
       "name": "竹ブロック",
@@ -121,6 +175,13 @@
       "name": "竹の感圧板",
       "yomi": "たけのかんあつばん"
     },
+    "minecraft:bamboo_sapling": {
+      "name": "タケノコ",
+      "yomi": "たけのこ"
+    },
+    "minecraft:bamboo_shelf": {
+      "name": "竹の棚"
+    },
     "minecraft:bamboo_sign": {
       "name": "竹の看板",
       "yomi": "たけのかんばん"
@@ -137,6 +198,15 @@
       "name": "竹のトラップドア",
       "yomi": "たけのとらっぷどあ"
     },
+    "minecraft:bamboo_wall_hanging_sign": {
+      "name": "壁に付けられた竹の吊り看板"
+    },
+    "minecraft:bamboo_wall_sign": {
+      "name": "壁に付けられた竹の看板"
+    },
+    "minecraft:barrel": {
+      "name": "樽"
+    },
     "minecraft:barrier": {
       "name": "バリアブロック",
       "yomi": "ばりあぶろっく"
@@ -145,9 +215,32 @@
       "name": "玄武岩",
       "yomi": "げんぶがん"
     },
+    "minecraft:beacon": {
+      "name": "ビーコン",
+      "yomi": "びーこん"
+    },
     "minecraft:bedrock": {
       "name": "岩盤",
       "yomi": "がんばん"
+    },
+    "minecraft:bee_nest": {
+      "name": "ミツバチの巣"
+    },
+    "minecraft:beehive": {
+      "name": "養蜂箱"
+    },
+    "minecraft:beetroots": {
+      "name": "ビートルート",
+      "yomi": "びーとるーと"
+    },
+    "minecraft:bell": {
+      "name": "鐘"
+    },
+    "minecraft:big_dripleaf": {
+      "name": "大きなドリップリーフ"
+    },
+    "minecraft:big_dripleaf_stem": {
+      "name": "大きなドリップリーフの茎"
     },
     "minecraft:birch_button": {
       "name": "シラカバのボタン",
@@ -179,7 +272,8 @@
     },
     "minecraft:birch_planks": {
       "name": "シラカバの板材",
-      "yomi": "しらかばのいたざい"
+      "yomi": "しらかばのいたざい",
+      "aliases": ["シラカバの木材"]
     },
     "minecraft:birch_pressure_plate": {
       "name": "シラカバの感圧板",
@@ -188,6 +282,9 @@
     "minecraft:birch_sapling": {
       "name": "シラカバの苗木",
       "yomi": "しらかばのなえぎ"
+    },
+    "minecraft:birch_shelf": {
+      "name": "シラカバの棚"
     },
     "minecraft:birch_sign": {
       "name": "シラカバの看板",
@@ -205,49 +302,159 @@
       "name": "シラカバのトラップドア",
       "yomi": "しらかばのとらっぷどあ"
     },
+    "minecraft:birch_wall_hanging_sign": {
+      "name": "壁に付けられたシラカバの吊り看板"
+    },
+    "minecraft:birch_wall_sign": {
+      "name": "壁に付けられたシラカバの看板"
+    },
     "minecraft:birch_wood": {
       "name": "シラカバの木",
-      "yomi": "しらかばのき"
+      "yomi": "しらかばのき",
+      "aliases": ["シラカバの木塊"]
+    },
+    "minecraft:black_banner": {
+      "name": "黒色の旗"
+    },
+    "minecraft:black_bed": {
+      "name": "黒色のベッド"
+    },
+    "minecraft:black_candle": {
+      "name": "黒色のろうそく"
+    },
+    "minecraft:black_candle_cake": {
+      "name": "黒色のろうそくが立てられたケーキ",
+      "aliases": ["黒色のろうそく付きケーキ"]
+    },
+    "minecraft:black_carpet": {
+      "name": "黒色のカーペット"
     },
     "minecraft:black_concrete": {
       "name": "黒色のコンクリート",
       "yomi": "くろいろのこんくりーと"
     },
+    "minecraft:black_concrete_powder": {
+      "name": "黒色のコンクリートパウダー"
+    },
+    "minecraft:black_concrete_slab": {
+      "name": "黒色のコンクリートのハーフブロック"
+    },
+    "minecraft:black_concrete_stairs": {
+      "name": "黒色のコンクリートの階段"
+    },
+    "minecraft:black_glazed_terracotta": {
+      "name": "黒色の彩釉テラコッタ"
+    },
+    "minecraft:black_shulker_box": {
+      "name": "黒色のシュルカーボックス"
+    },
     "minecraft:black_stained_glass": {
       "name": "黒色の色付きガラス",
       "yomi": "くろいろのいろつきがらす"
+    },
+    "minecraft:black_stained_glass_pane": {
+      "name": "黒色の色付きガラス板"
     },
     "minecraft:black_terracotta": {
       "name": "黒色のテラコッタ",
       "yomi": "くろいろのてらこった"
     },
+    "minecraft:black_wall_banner": {
+      "name": "黒色の旗"
+    },
     "minecraft:black_wool": {
       "name": "黒色の羊毛",
       "yomi": "くろいろのようもう"
+    },
+    "minecraft:black_wool_slab": {
+      "name": "黒色の羊毛のハーフブロック"
+    },
+    "minecraft:black_wool_stairs": {
+      "name": "黒色の羊毛の階段"
     },
     "minecraft:blackstone": {
       "name": "ブラックストーン",
       "yomi": "ぶらっくすとーん"
     },
+    "minecraft:blackstone_slab": {
+      "name": "ブラックストーンのハーフブロック",
+      "yomi": "ぶらっくすとーんのはーふぶろっく"
+    },
+    "minecraft:blackstone_stairs": {
+      "name": "ブラックストーンの階段"
+    },
+    "minecraft:blackstone_wall": {
+      "name": "ブラックストーンの塀"
+    },
+    "minecraft:blast_furnace": {
+      "name": "溶鉱炉"
+    },
+    "minecraft:blue_banner": {
+      "name": "青色の旗"
+    },
+    "minecraft:blue_bed": {
+      "name": "青色のベッド"
+    },
+    "minecraft:blue_candle": {
+      "name": "青色のろうそく"
+    },
+    "minecraft:blue_candle_cake": {
+      "name": "青色のろうそくが立てられたケーキ",
+      "aliases": ["青色のろうそく付きケーキ"]
+    },
+    "minecraft:blue_carpet": {
+      "name": "青色のカーペット"
+    },
     "minecraft:blue_concrete": {
       "name": "青色のコンクリート",
       "yomi": "あおいろのこんくりーと"
+    },
+    "minecraft:blue_concrete_powder": {
+      "name": "青色のコンクリートパウダー"
+    },
+    "minecraft:blue_concrete_slab": {
+      "name": "青色のコンクリートのハーフブロック"
+    },
+    "minecraft:blue_concrete_stairs": {
+      "name": "青色のコンクリートの階段"
+    },
+    "minecraft:blue_glazed_terracotta": {
+      "name": "青色の彩釉テラコッタ"
     },
     "minecraft:blue_ice": {
       "name": "青氷",
       "yomi": "せいひょう"
     },
+    "minecraft:blue_orchid": {
+      "name": "ヒスイラン",
+      "yomi": "ひすいらん"
+    },
+    "minecraft:blue_shulker_box": {
+      "name": "青色のシュルカーボックス"
+    },
     "minecraft:blue_stained_glass": {
       "name": "青色の色付きガラス",
       "yomi": "あおいろのいろつきがらす"
+    },
+    "minecraft:blue_stained_glass_pane": {
+      "name": "青色の色付きガラス板"
     },
     "minecraft:blue_terracotta": {
       "name": "青色のテラコッタ",
       "yomi": "あおいろのてらこった"
     },
+    "minecraft:blue_wall_banner": {
+      "name": "青色の旗"
+    },
     "minecraft:blue_wool": {
       "name": "青色の羊毛",
       "yomi": "あおいろのようもう"
+    },
+    "minecraft:blue_wool_slab": {
+      "name": "青色の羊毛のハーフブロック"
+    },
+    "minecraft:blue_wool_stairs": {
+      "name": "青色の羊毛の階段"
     },
     "minecraft:bone_block": {
       "name": "骨ブロック",
@@ -257,29 +464,181 @@
       "name": "本棚",
       "yomi": "ほんだな"
     },
+    "minecraft:brain_coral": {
+      "name": "ノウサンゴ",
+      "yomi": "のうさんご"
+    },
+    "minecraft:brain_coral_block": {
+      "name": "ノウサンゴブロック",
+      "yomi": "のうさんごぶろっく"
+    },
+    "minecraft:brain_coral_fan": {
+      "name": "ノウウチワサンゴ",
+      "yomi": "のううちわさんご"
+    },
+    "minecraft:brain_coral_wall_fan": {
+      "name": "壁付きのノウウチワサンゴ"
+    },
+    "minecraft:brewing_stand": {
+      "name": "醸造台"
+    },
+    "minecraft:brick_slab": {
+      "name": "レンガのハーフブロック",
+      "yomi": "れんがのはーふぶろっく"
+    },
+    "minecraft:brick_stairs": {
+      "name": "レンガの階段"
+    },
+    "minecraft:brick_wall": {
+      "name": "レンガの塀"
+    },
     "minecraft:bricks": {
       "name": "レンガ",
       "yomi": "れんが"
+    },
+    "minecraft:brown_banner": {
+      "name": "茶色の旗"
+    },
+    "minecraft:brown_bed": {
+      "name": "茶色のベッド"
+    },
+    "minecraft:brown_candle": {
+      "name": "茶色のろうそく"
+    },
+    "minecraft:brown_candle_cake": {
+      "name": "茶色のろうそくが立てられたケーキ",
+      "aliases": ["茶色のろうそく付きケーキ"]
+    },
+    "minecraft:brown_carpet": {
+      "name": "茶色のカーペット"
     },
     "minecraft:brown_concrete": {
       "name": "茶色のコンクリート",
       "yomi": "ちゃいろのこんくりーと"
     },
+    "minecraft:brown_concrete_powder": {
+      "name": "茶色のコンクリートパウダー"
+    },
+    "minecraft:brown_concrete_slab": {
+      "name": "茶色のコンクリートのハーフブロック"
+    },
+    "minecraft:brown_concrete_stairs": {
+      "name": "茶色のコンクリートの階段"
+    },
+    "minecraft:brown_glazed_terracotta": {
+      "name": "茶色の彩釉テラコッタ"
+    },
+    "minecraft:brown_mushroom": {
+      "name": "茶色のキノコ"
+    },
+    "minecraft:brown_mushroom_block": {
+      "name": "茶色のキノコブロック"
+    },
+    "minecraft:brown_shulker_box": {
+      "name": "茶色のシュルカーボックス"
+    },
     "minecraft:brown_stained_glass": {
       "name": "茶色の色付きガラス",
       "yomi": "ちゃいろのいろつきがらす"
+    },
+    "minecraft:brown_stained_glass_pane": {
+      "name": "茶色の色付きガラス板"
     },
     "minecraft:brown_terracotta": {
       "name": "茶色のテラコッタ",
       "yomi": "ちゃいろのてらこった"
     },
+    "minecraft:brown_wall_banner": {
+      "name": "茶色の旗"
+    },
     "minecraft:brown_wool": {
       "name": "茶色の羊毛",
       "yomi": "ちゃいろのようもう"
     },
+    "minecraft:brown_wool_slab": {
+      "name": "茶色の羊毛のハーフブロック"
+    },
+    "minecraft:brown_wool_stairs": {
+      "name": "茶色の羊毛の階段"
+    },
+    "minecraft:bubble_column": {
+      "name": "気泡柱",
+      "aliases": ["気泡塔"]
+    },
+    "minecraft:bubble_coral": {
+      "name": "ミズタマサンゴ",
+      "yomi": "みずたまさんご"
+    },
+    "minecraft:bubble_coral_block": {
+      "name": "ミズタマサンゴブロック",
+      "yomi": "みずたまさんごぶろっく"
+    },
+    "minecraft:bubble_coral_fan": {
+      "name": "ミズタマウチワサンゴ",
+      "yomi": "みずたまうちわさんご"
+    },
+    "minecraft:bubble_coral_wall_fan": {
+      "name": "壁付きのミズタマウチワサンゴ"
+    },
+    "minecraft:budding_amethyst": {
+      "name": "芽生えたアメジスト"
+    },
+    "minecraft:bush": {
+      "name": "茂み"
+    },
+    "minecraft:cactus": {
+      "name": "サボテン",
+      "yomi": "さぼてん"
+    },
+    "minecraft:cactus_flower": {
+      "name": "サボテンの花"
+    },
+    "minecraft:cake": {
+      "name": "ケーキ",
+      "yomi": "けーき"
+    },
     "minecraft:calcite": {
       "name": "方解石",
       "yomi": "ほうかいせき"
+    },
+    "minecraft:calibrated_sculk_sensor": {
+      "name": "調律されたスカルクセンサー"
+    },
+    "minecraft:campfire": {
+      "name": "焚き火"
+    },
+    "minecraft:candle": {
+      "name": "ろうそく",
+      "yomi": "ろうそく"
+    },
+    "minecraft:candle_cake": {
+      "name": "ろうそくが立てられたケーキ"
+    },
+    "minecraft:carrots": {
+      "name": "ニンジン",
+      "yomi": "にんじん"
+    },
+    "minecraft:cartography_table": {
+      "name": "製図台"
+    },
+    "minecraft:carved_pumpkin": {
+      "name": "くり抜かれたカボチャ"
+    },
+    "minecraft:cauldron": {
+      "name": "大釜"
+    },
+    "minecraft:cave_air": {
+      "name": "洞窟の空気"
+    },
+    "minecraft:cave_vines": {
+      "name": "洞窟のツタ"
+    },
+    "minecraft:cave_vines_plant": {
+      "name": "洞窟のツタのつる"
+    },
+    "minecraft:chain": {
+      "name": "鉄の鎖",
+      "aliases": ["鎖"]
     },
     "minecraft:chain_command_block": {
       "name": "チェーンコマンドブロック",
@@ -325,6 +684,9 @@
       "name": "サクラの苗木",
       "yomi": "さくらのなえぎ"
     },
+    "minecraft:cherry_shelf": {
+      "name": "サクラの棚"
+    },
     "minecraft:cherry_sign": {
       "name": "サクラの看板",
       "yomi": "さくらのかんばん"
@@ -341,14 +703,52 @@
       "name": "サクラのトラップドア",
       "yomi": "さくらのとらっぷどあ"
     },
+    "minecraft:cherry_wall_hanging_sign": {
+      "name": "壁に付けられたサクラの吊り看板"
+    },
+    "minecraft:cherry_wall_sign": {
+      "name": "壁に付けられたサクラの看板"
+    },
     "minecraft:cherry_wood": {
       "name": "サクラの木",
       "yomi": "さくらのき"
+    },
+    "minecraft:chest": {
+      "name": "チェスト",
+      "yomi": "ちぇすと"
+    },
+    "minecraft:chipped_anvil": {
+      "name": "欠けた金床"
+    },
+    "minecraft:chiseled_bookshelf": {
+      "name": "模様入りの本棚"
+    },
+    "minecraft:chiseled_cinnabar": {
+      "name": "模様入りの辰砂"
+    },
+    "minecraft:chiseled_copper": {
+      "name": "模様入りの銅"
+    },
+    "minecraft:chiseled_deepslate": {
+      "name": "模様入りの深層岩"
+    },
+    "minecraft:chiseled_nether_bricks": {
+      "name": "模様入りのネザーレンガ"
+    },
+    "minecraft:chiseled_polished_blackstone": {
+      "name": "模様入りの磨かれたブラックストーン"
     },
     "minecraft:chiseled_quartz_block": {
       "name": "模様入りのクォーツブロック",
       "yomi": "もよういりのくぉーつぶろっく",
       "aliases": ["模様入りのクオーツブロック", "もよういりのくおーつぶろっく"]
+    },
+    "minecraft:chiseled_red_sandstone": {
+      "name": "模様入りの赤い砂岩",
+      "aliases": ["模様入りの赤砂岩"]
+    },
+    "minecraft:chiseled_resin_bricks": {
+      "name": "模様入りの樹脂レンガ"
     },
     "minecraft:chiseled_sandstone": {
       "name": "模様入りの砂岩",
@@ -358,9 +758,53 @@
       "name": "模様入りの石レンガ",
       "yomi": "もよういりのいしれんが"
     },
+    "minecraft:chiseled_sulfur": {
+      "name": "模様入りの硫黄"
+    },
+    "minecraft:chiseled_tuff": {
+      "name": "模様入りの凝灰岩"
+    },
+    "minecraft:chiseled_tuff_bricks": {
+      "name": "模様入りの凝灰岩レンガ"
+    },
+    "minecraft:chorus_flower": {
+      "name": "コーラスフラワー",
+      "yomi": "こーらすふらわー"
+    },
+    "minecraft:chorus_plant": {
+      "name": "コーラスプラント",
+      "yomi": "こーらすぷらんと"
+    },
+    "minecraft:cinnabar": {
+      "name": "辰砂"
+    },
+    "minecraft:cinnabar_brick_slab": {
+      "name": "辰砂レンガのハーフブロック"
+    },
+    "minecraft:cinnabar_brick_stairs": {
+      "name": "辰砂レンガの階段"
+    },
+    "minecraft:cinnabar_brick_wall": {
+      "name": "辰砂レンガの塀"
+    },
+    "minecraft:cinnabar_bricks": {
+      "name": "辰砂レンガ"
+    },
+    "minecraft:cinnabar_slab": {
+      "name": "辰砂のハーフブロック"
+    },
+    "minecraft:cinnabar_stairs": {
+      "name": "辰砂の階段"
+    },
+    "minecraft:cinnabar_wall": {
+      "name": "辰砂の塀"
+    },
     "minecraft:clay": {
       "name": "粘土",
       "yomi": "ねんど"
+    },
+    "minecraft:closed_eyeblossom": {
+      "name": "閉じたヒトミソウ"
     },
     "minecraft:coal_block": {
       "name": "石炭ブロック",
@@ -378,29 +822,127 @@
       "name": "深層岩の丸石",
       "yomi": "しんそうがんのまるいし"
     },
+    "minecraft:cobbled_deepslate_slab": {
+      "name": "深層岩の丸石のハーフブロック"
+    },
+    "minecraft:cobbled_deepslate_stairs": {
+      "name": "深層岩の丸石の階段"
+    },
+    "minecraft:cobbled_deepslate_wall": {
+      "name": "深層岩の丸石の塀"
+    },
     "minecraft:cobblestone": {
       "name": "丸石",
       "yomi": "まるいし"
+    },
+    "minecraft:cobblestone_slab": {
+      "name": "丸石のハーフブロック"
+    },
+    "minecraft:cobblestone_stairs": {
+      "name": "丸石の階段"
+    },
+    "minecraft:cobblestone_wall": {
+      "name": "丸石の塀"
+    },
+    "minecraft:cobweb": {
+      "name": "クモの巣"
+    },
+    "minecraft:cocoa": {
+      "name": "カカオの実"
     },
     "minecraft:command_block": {
       "name": "コマンドブロック",
       "yomi": "こまんどぶろっく"
     },
+    "minecraft:comparator": {
+      "name": "レッドストーンコンパレーター",
+      "yomi": "れっどすとーんこんぱれーたー"
+    },
+    "minecraft:composter": {
+      "name": "コンポスター",
+      "yomi": "こんぽすたー"
+    },
+    "minecraft:conduit": {
+      "name": "コンジット",
+      "yomi": "こんじっと"
+    },
+    "minecraft:copper_bars": {
+      "name": "銅格子"
+    },
     "minecraft:copper_block": {
       "name": "銅ブロック",
       "yomi": "どうぶろっく"
+    },
+    "minecraft:copper_bulb": {
+      "name": "銅の電球"
+    },
+    "minecraft:copper_chain": {
+      "name": "銅の鎖"
+    },
+    "minecraft:copper_chest": {
+      "name": "銅のチェスト"
+    },
+    "minecraft:copper_door": {
+      "name": "銅のドア"
+    },
+    "minecraft:copper_golem_statue": {
+      "name": "カッパーゴーレムの像"
+    },
+    "minecraft:copper_grate": {
+      "name": "銅の金網"
+    },
+    "minecraft:copper_lantern": {
+      "name": "銅のランタン"
     },
     "minecraft:copper_ore": {
       "name": "銅鉱石",
       "yomi": "どうこうせき"
     },
+    "minecraft:copper_torch": {
+      "name": "銅の松明"
+    },
+    "minecraft:copper_trapdoor": {
+      "name": "銅のトラップドア"
+    },
+    "minecraft:copper_wall_torch": {
+      "name": "壁に付けられた銅の松明"
+    },
+    "minecraft:cornflower": {
+      "name": "ヤグルマギク",
+      "yomi": "やぐるまぎく"
+    },
+    "minecraft:cracked_deepslate_bricks": {
+      "name": "ひび割れた深層岩レンガ"
+    },
+    "minecraft:cracked_deepslate_tiles": {
+      "name": "ひび割れた深層岩タイル"
+    },
+    "minecraft:cracked_nether_bricks": {
+      "name": "ひび割れたネザーレンガ"
+    },
+    "minecraft:cracked_polished_blackstone_bricks": {
+      "name": "ひび割れた磨かれたブラックストーンレンガ",
+      "aliases": ["ひび割れたブラックストーンレンガ"]
+    },
     "minecraft:cracked_stone_bricks": {
       "name": "ひび割れた石レンガ",
       "yomi": "ひびわれたいしれんが"
     },
+    "minecraft:crafter": {
+      "name": "自動作業台"
+    },
     "minecraft:crafting_table": {
       "name": "作業台",
       "yomi": "さぎょうだい"
+    },
+    "minecraft:creaking_heart": {
+      "name": "クリーキングの心臓"
+    },
+    "minecraft:creeper_head": {
+      "name": "クリーパーの頭"
+    },
+    "minecraft:creeper_wall_head": {
+      "name": "壁に付けられたクリーパーの頭"
     },
     "minecraft:crimson_button": {
       "name": "真紅のボタン",
@@ -430,6 +972,9 @@
       "name": "真紅の菌糸",
       "yomi": "しんくのきんし"
     },
+    "minecraft:crimson_nylium": {
+      "name": "真紅のナイリウム"
+    },
     "minecraft:crimson_planks": {
       "name": "真紅の板材",
       "yomi": "しんくのいたざい"
@@ -437,6 +982,12 @@
     "minecraft:crimson_pressure_plate": {
       "name": "真紅の感圧板",
       "yomi": "しんくのかんあつばん"
+    },
+    "minecraft:crimson_roots": {
+      "name": "真紅の根"
+    },
+    "minecraft:crimson_shelf": {
+      "name": "真紅の棚"
     },
     "minecraft:crimson_sign": {
       "name": "真紅の看板",
@@ -458,29 +1009,103 @@
       "name": "真紅のトラップドア",
       "yomi": "しんくのとらっぷどあ"
     },
+    "minecraft:crimson_wall_hanging_sign": {
+      "name": "壁に付けられた真紅の吊り看板"
+    },
+    "minecraft:crimson_wall_sign": {
+      "name": "壁に付けられた真紅の看板"
+    },
     "minecraft:crying_obsidian": {
       "name": "泣く黒曜石",
       "yomi": "なくこくようせき"
+    },
+    "minecraft:cut_copper": {
+      "name": "切り込み入りの銅"
+    },
+    "minecraft:cut_copper_slab": {
+      "name": "切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:cut_copper_stairs": {
+      "name": "切り込み入りの銅の階段"
+    },
+    "minecraft:cut_red_sandstone": {
+      "name": "研がれた赤い砂岩"
+    },
+    "minecraft:cut_red_sandstone_slab": {
+      "name": "研がれた赤い砂岩のハーフブロック"
     },
     "minecraft:cut_sandstone": {
       "name": "研がれた砂岩",
       "yomi": "とがれたさがん"
     },
+    "minecraft:cut_sandstone_slab": {
+      "name": "研がれた砂岩のハーフブロック"
+    },
+    "minecraft:cyan_banner": {
+      "name": "青緑色の旗"
+    },
+    "minecraft:cyan_bed": {
+      "name": "青緑色のベッド"
+    },
+    "minecraft:cyan_candle": {
+      "name": "青緑色のろうそく"
+    },
+    "minecraft:cyan_candle_cake": {
+      "name": "青緑色のろうそくが立てられたケーキ",
+      "aliases": ["青緑色のろうそく付きケーキ"]
+    },
+    "minecraft:cyan_carpet": {
+      "name": "青緑色のカーペット"
+    },
     "minecraft:cyan_concrete": {
       "name": "青緑色のコンクリート",
       "yomi": "あおみどりいろのこんくりーと"
+    },
+    "minecraft:cyan_concrete_powder": {
+      "name": "青緑色のコンクリートパウダー"
+    },
+    "minecraft:cyan_concrete_slab": {
+      "name": "青緑色のコンクリートのハーフブロック"
+    },
+    "minecraft:cyan_concrete_stairs": {
+      "name": "青緑色のコンクリートの階段"
+    },
+    "minecraft:cyan_glazed_terracotta": {
+      "name": "青緑色の彩釉テラコッタ"
+    },
+    "minecraft:cyan_shulker_box": {
+      "name": "青緑色のシュルカーボックス"
     },
     "minecraft:cyan_stained_glass": {
       "name": "青緑色の色付きガラス",
       "yomi": "あおみどりいろのいろつきがらす"
     },
+    "minecraft:cyan_stained_glass_pane": {
+      "name": "青緑色の色付きガラス板"
+    },
     "minecraft:cyan_terracotta": {
       "name": "青緑色のテラコッタ",
       "yomi": "あおみどりいろのてらこった"
     },
+    "minecraft:cyan_wall_banner": {
+      "name": "青緑色の旗"
+    },
     "minecraft:cyan_wool": {
       "name": "青緑色の羊毛",
       "yomi": "あおみどりいろのようもう"
+    },
+    "minecraft:cyan_wool_slab": {
+      "name": "青緑色の羊毛のハーフブロック"
+    },
+    "minecraft:cyan_wool_stairs": {
+      "name": "青緑色の羊毛の階段"
+    },
+    "minecraft:damaged_anvil": {
+      "name": "壊れかけの金床"
+    },
+    "minecraft:dandelion": {
+      "name": "タンポポ",
+      "yomi": "たんぽぽ"
     },
     "minecraft:dark_oak_button": {
       "name": "ダークオークのボタン",
@@ -512,7 +1137,8 @@
     },
     "minecraft:dark_oak_planks": {
       "name": "ダークオークの板材",
-      "yomi": "だーくおーくのいたざい"
+      "yomi": "だーくおーくのいたざい",
+      "aliases": ["ダークオークの木材"]
     },
     "minecraft:dark_oak_pressure_plate": {
       "name": "ダークオークの感圧板",
@@ -521,6 +1147,9 @@
     "minecraft:dark_oak_sapling": {
       "name": "ダークオークの苗木",
       "yomi": "だーくおーくのなえぎ"
+    },
+    "minecraft:dark_oak_shelf": {
+      "name": "ダークオークの棚"
     },
     "minecraft:dark_oak_sign": {
       "name": "ダークオークの看板",
@@ -538,29 +1167,156 @@
       "name": "ダークオークのトラップドア",
       "yomi": "だーくおーくのとらっぷどあ"
     },
+    "minecraft:dark_oak_wall_hanging_sign": {
+      "name": "壁に付けられたダークオークの吊り看板"
+    },
+    "minecraft:dark_oak_wall_sign": {
+      "name": "壁に付けられたダークオークの看板"
+    },
     "minecraft:dark_oak_wood": {
       "name": "ダークオークの木",
-      "yomi": "だーくおーくのき"
+      "yomi": "だーくおーくのき",
+      "aliases": ["ダークオークの木塊"]
     },
     "minecraft:dark_prismarine": {
       "name": "ダークプリズマリン",
       "yomi": "だーくぷりずまりん"
     },
+    "minecraft:dark_prismarine_slab": {
+      "name": "ダークプリズマリンのハーフブロック",
+      "yomi": "だーくぷりずまりんのはーふぶろっく"
+    },
+    "minecraft:dark_prismarine_stairs": {
+      "name": "ダークプリズマリンの階段"
+    },
     "minecraft:daylight_detector": {
       "name": "日照センサー",
-      "yomi": "にっしょうせんさー"
+      "yomi": "にっしょうせんさー",
+      "aliases": ["日照検知器"]
+    },
+    "minecraft:dead_brain_coral": {
+      "name": "死んだノウサンゴ"
+    },
+    "minecraft:dead_brain_coral_block": {
+      "name": "死んだノウサンゴブロック"
+    },
+    "minecraft:dead_brain_coral_fan": {
+      "name": "死んだノウウチワサンゴ"
+    },
+    "minecraft:dead_brain_coral_wall_fan": {
+      "name": "壁付きの死んだノウウチワサンゴ"
+    },
+    "minecraft:dead_bubble_coral": {
+      "name": "死んだミズタマサンゴ"
+    },
+    "minecraft:dead_bubble_coral_block": {
+      "name": "死んだミズタマサンゴブロック"
+    },
+    "minecraft:dead_bubble_coral_fan": {
+      "name": "死んだミズタマウチワサンゴ"
+    },
+    "minecraft:dead_bubble_coral_wall_fan": {
+      "name": "壁付きの死んだミズタマウチワサンゴ"
+    },
+    "minecraft:dead_bush": {
+      "name": "枯れ木"
+    },
+    "minecraft:dead_fire_coral": {
+      "name": "死んだミレポラサンゴ"
+    },
+    "minecraft:dead_fire_coral_block": {
+      "name": "死んだミレポラサンゴブロック"
+    },
+    "minecraft:dead_fire_coral_fan": {
+      "name": "死んだミレポラウチワサンゴ"
+    },
+    "minecraft:dead_fire_coral_wall_fan": {
+      "name": "壁付きの死んだミレポラウチワサンゴ"
+    },
+    "minecraft:dead_horn_coral": {
+      "name": "死んだシカツノサンゴ"
+    },
+    "minecraft:dead_horn_coral_block": {
+      "name": "死んだシカツノサンゴブロック"
+    },
+    "minecraft:dead_horn_coral_fan": {
+      "name": "死んだシカツノウチワサンゴ"
+    },
+    "minecraft:dead_horn_coral_wall_fan": {
+      "name": "壁付きの死んだシカツノウチワサンゴ"
+    },
+    "minecraft:dead_tube_coral": {
+      "name": "死んだクダサンゴ"
+    },
+    "minecraft:dead_tube_coral_block": {
+      "name": "死んだクダサンゴブロック"
+    },
+    "minecraft:dead_tube_coral_fan": {
+      "name": "死んだクダウチワサンゴ"
+    },
+    "minecraft:dead_tube_coral_wall_fan": {
+      "name": "壁付きの死んだクダウチワサンゴ"
+    },
+    "minecraft:decorated_pot": {
+      "name": "飾り壺"
     },
     "minecraft:deepslate": {
       "name": "深層岩",
       "yomi": "しんそうがん"
     },
+    "minecraft:deepslate_brick_slab": {
+      "name": "深層岩レンガのハーフブロック"
+    },
+    "minecraft:deepslate_brick_stairs": {
+      "name": "深層岩レンガの階段"
+    },
+    "minecraft:deepslate_brick_wall": {
+      "name": "深層岩レンガの塀"
+    },
     "minecraft:deepslate_bricks": {
       "name": "深層岩レンガ",
       "yomi": "しんそうがんれんが"
     },
+    "minecraft:deepslate_coal_ore": {
+      "name": "深層石炭鉱石"
+    },
+    "minecraft:deepslate_copper_ore": {
+      "name": "深層銅鉱石"
+    },
+    "minecraft:deepslate_diamond_ore": {
+      "name": "深層ダイヤモンド鉱石"
+    },
+    "minecraft:deepslate_emerald_ore": {
+      "name": "深層エメラルド鉱石"
+    },
+    "minecraft:deepslate_gold_ore": {
+      "name": "深層金鉱石"
+    },
+    "minecraft:deepslate_iron_ore": {
+      "name": "深層鉄鉱石"
+    },
+    "minecraft:deepslate_lapis_ore": {
+      "name": "深層ラピスラズリ鉱石"
+    },
+    "minecraft:deepslate_redstone_ore": {
+      "name": "深層レッドストーン鉱石"
+    },
+    "minecraft:deepslate_tile_slab": {
+      "name": "深層岩タイルのハーフブロック"
+    },
+    "minecraft:deepslate_tile_stairs": {
+      "name": "深層岩タイルの階段"
+    },
+    "minecraft:deepslate_tile_wall": {
+      "name": "深層岩タイルの塀"
+    },
     "minecraft:deepslate_tiles": {
       "name": "深層岩タイル",
       "yomi": "しんそうがんたいる"
+    },
+    "minecraft:detector_rail": {
+      "name": "ディテクターレール",
+      "yomi": "でぃてくたーれーる"
     },
     "minecraft:diamond_block": {
       "name": "ダイヤモンドブロック",
@@ -574,6 +1330,15 @@
       "name": "閃緑岩",
       "yomi": "せんりょくがん"
     },
+    "minecraft:diorite_slab": {
+      "name": "閃緑岩のハーフブロック"
+    },
+    "minecraft:diorite_stairs": {
+      "name": "閃緑岩の階段"
+    },
+    "minecraft:diorite_wall": {
+      "name": "閃緑岩の塀"
+    },
     "minecraft:dirt": {
       "name": "土",
       "yomi": "つち"
@@ -583,6 +1348,32 @@
       "yomi": "つちのみち",
       "aliases": ["草の道", "くさのみち"]
     },
+    "minecraft:dispenser": {
+      "name": "ディスペンサー",
+      "yomi": "でぃすぺんさー"
+    },
+    "minecraft:dragon_egg": {
+      "name": "ドラゴンの卵"
+    },
+    "minecraft:dragon_head": {
+      "name": "ドラゴンの頭"
+    },
+    "minecraft:dragon_wall_head": {
+      "name": "壁に付けられたドラゴンの頭"
+    },
+    "minecraft:dried_ghast": {
+      "name": "乾燥したガスト"
+    },
+    "minecraft:dried_kelp_block": {
+      "name": "乾燥した昆布ブロック"
+    },
+    "minecraft:dripstone_block": {
+      "name": "鍾乳石ブロック"
+    },
+    "minecraft:dropper": {
+      "name": "ドロッパー",
+      "yomi": "どろっぱー"
+    },
     "minecraft:emerald_block": {
       "name": "エメラルドブロック",
       "yomi": "えめらるどぶろっく"
@@ -591,17 +1382,147 @@
       "name": "エメラルド鉱石",
       "yomi": "えめらるどこうせき"
     },
+    "minecraft:enchanting_table": {
+      "name": "エンチャントテーブル",
+      "yomi": "えんちゃんとてーぶる"
+    },
+    "minecraft:end_gateway": {
+      "name": "エンドゲートウェイ",
+      "yomi": "えんどげーとうぇい"
+    },
+    "minecraft:end_portal": {
+      "name": "エンドポータル",
+      "yomi": "えんどぽーたる"
+    },
+    "minecraft:end_portal_frame": {
+      "name": "エンドポータルフレーム",
+      "yomi": "えんどぽーたるふれーむ"
+    },
+    "minecraft:end_rod": {
+      "name": "エンドロッド",
+      "yomi": "えんどろっど"
+    },
     "minecraft:end_stone": {
       "name": "エンドストーン",
       "yomi": "えんどすとーん"
+    },
+    "minecraft:end_stone_brick_slab": {
+      "name": "エンドストーンレンガのハーフブロック",
+      "yomi": "えんどすとーんれんがのはーふぶろっく"
+    },
+    "minecraft:end_stone_brick_stairs": {
+      "name": "エンドストーンレンガの階段"
+    },
+    "minecraft:end_stone_brick_wall": {
+      "name": "エンドストーンレンガの塀"
     },
     "minecraft:end_stone_bricks": {
       "name": "エンドストーンレンガ",
       "yomi": "えんどすとーんれんが"
     },
+    "minecraft:ender_chest": {
+      "name": "エンダーチェスト",
+      "yomi": "えんだーちぇすと"
+    },
+    "minecraft:exposed_chiseled_copper": {
+      "name": "風化した模様入りの銅"
+    },
+    "minecraft:exposed_copper": {
+      "name": "風化した銅"
+    },
+    "minecraft:exposed_copper_bars": {
+      "name": "風化した銅格子"
+    },
+    "minecraft:exposed_copper_bulb": {
+      "name": "風化した銅の電球"
+    },
+    "minecraft:exposed_copper_chain": {
+      "name": "風化した銅の鎖"
+    },
+    "minecraft:exposed_copper_chest": {
+      "name": "風化した銅のチェスト"
+    },
+    "minecraft:exposed_copper_door": {
+      "name": "風化した銅のドア"
+    },
+    "minecraft:exposed_copper_golem_statue": {
+      "name": "風化したカッパーゴーレムの像"
+    },
+    "minecraft:exposed_copper_grate": {
+      "name": "風化した銅の金網"
+    },
+    "minecraft:exposed_copper_lantern": {
+      "name": "風化した銅のランタン"
+    },
+    "minecraft:exposed_copper_trapdoor": {
+      "name": "風化した銅のトラップドア"
+    },
+    "minecraft:exposed_cut_copper": {
+      "name": "風化した切り込み入りの銅"
+    },
+    "minecraft:exposed_cut_copper_slab": {
+      "name": "風化した切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:exposed_cut_copper_stairs": {
+      "name": "風化した切り込み入りの銅の階段"
+    },
+    "minecraft:exposed_lightning_rod": {
+      "name": "風化した避雷針"
+    },
     "minecraft:farmland": {
       "name": "耕地",
       "yomi": "こうち"
+    },
+    "minecraft:fern": {
+      "name": "シダ",
+      "yomi": "しだ"
+    },
+    "minecraft:fire": {
+      "name": "炎"
+    },
+    "minecraft:fire_coral": {
+      "name": "ミレポラサンゴ",
+      "yomi": "みれぽらさんご"
+    },
+    "minecraft:fire_coral_block": {
+      "name": "ミレポラサンゴブロック",
+      "yomi": "みれぽらさんごぶろっく"
+    },
+    "minecraft:fire_coral_fan": {
+      "name": "ミレポラウチワサンゴ",
+      "yomi": "みれぽらうちわさんご"
+    },
+    "minecraft:fire_coral_wall_fan": {
+      "name": "壁付きのミレポラウチワサンゴ"
+    },
+    "minecraft:firefly_bush": {
+      "name": "ホタルの茂み"
+    },
+    "minecraft:fletching_table": {
+      "name": "矢細工台"
+    },
+    "minecraft:flower_pot": {
+      "name": "植木鉢"
+    },
+    "minecraft:flowering_azalea": {
+      "name": "開花したツツジ"
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "name": "開花したツツジの葉"
+    },
+    "minecraft:frogspawn": {
+      "name": "カエルの卵"
+    },
+    "minecraft:frosted_ice": {
+      "name": "薄氷"
+    },
+    "minecraft:furnace": {
+      "name": "かまど",
+      "yomi": "かまど"
+    },
+    "minecraft:gilded_blackstone": {
+      "name": "きらめくブラックストーン",
+      "yomi": "きらめくぶらっくすとーん"
     },
     "minecraft:glass": {
       "name": "ガラス",
@@ -609,7 +1530,12 @@
     },
     "minecraft:glass_pane": {
       "name": "ガラス板",
-      "yomi": "がらすいた"
+      "yomi": "がらすいた",
+      "aliases": ["板ガラス"]
+    },
+    "minecraft:glow_lichen": {
+      "name": "ヒカリゴケ",
+      "yomi": "ひかりごけ"
     },
     "minecraft:glowstone": {
       "name": "グロウストーン",
@@ -623,61 +1549,222 @@
       "name": "金鉱石",
       "yomi": "きんこうせき"
     },
+    "minecraft:golden_dandelion": {
+      "name": "金のタンポポ"
+    },
     "minecraft:granite": {
       "name": "花崗岩",
       "yomi": "かこうがん"
+    },
+    "minecraft:granite_slab": {
+      "name": "花崗岩のハーフブロック"
+    },
+    "minecraft:granite_stairs": {
+      "name": "花崗岩の階段"
+    },
+    "minecraft:granite_wall": {
+      "name": "花崗岩の塀"
+    },
+    "minecraft:grass": {
+      "name": "草"
     },
     "minecraft:grass_block": {
       "name": "草ブロック",
       "yomi": "くさぶろっく"
     },
+    "minecraft:grass_path": {
+      "name": "草の道"
+    },
     "minecraft:gravel": {
       "name": "砂利",
       "yomi": "じゃり"
+    },
+    "minecraft:gray_banner": {
+      "name": "灰色の旗"
+    },
+    "minecraft:gray_bed": {
+      "name": "灰色のベッド"
+    },
+    "minecraft:gray_candle": {
+      "name": "灰色のろうそく"
+    },
+    "minecraft:gray_candle_cake": {
+      "name": "灰色のろうそくが立てられたケーキ",
+      "aliases": ["灰色のろうそく付きケーキ"]
+    },
+    "minecraft:gray_carpet": {
+      "name": "灰色のカーペット"
     },
     "minecraft:gray_concrete": {
       "name": "灰色のコンクリート",
       "yomi": "はいいろのこんくりーと"
     },
+    "minecraft:gray_concrete_powder": {
+      "name": "灰色のコンクリートパウダー"
+    },
+    "minecraft:gray_concrete_slab": {
+      "name": "灰色のコンクリートのハーフブロック"
+    },
+    "minecraft:gray_concrete_stairs": {
+      "name": "灰色のコンクリートの階段"
+    },
+    "minecraft:gray_glazed_terracotta": {
+      "name": "灰色の彩釉テラコッタ"
+    },
+    "minecraft:gray_shulker_box": {
+      "name": "灰色のシュルカーボックス"
+    },
     "minecraft:gray_stained_glass": {
       "name": "灰色の色付きガラス",
       "yomi": "はいいろのいろつきがらす"
+    },
+    "minecraft:gray_stained_glass_pane": {
+      "name": "灰色の色付きガラス板"
     },
     "minecraft:gray_terracotta": {
       "name": "灰色のテラコッタ",
       "yomi": "はいいろのてらこった"
     },
+    "minecraft:gray_wall_banner": {
+      "name": "灰色の旗"
+    },
     "minecraft:gray_wool": {
       "name": "灰色の羊毛",
       "yomi": "はいいろのようもう"
+    },
+    "minecraft:gray_wool_slab": {
+      "name": "灰色の羊毛のハーフブロック"
+    },
+    "minecraft:gray_wool_stairs": {
+      "name": "灰色の羊毛の階段"
+    },
+    "minecraft:green_banner": {
+      "name": "緑色の旗"
+    },
+    "minecraft:green_bed": {
+      "name": "緑色のベッド"
+    },
+    "minecraft:green_candle": {
+      "name": "緑色のろうそく"
+    },
+    "minecraft:green_candle_cake": {
+      "name": "緑色のろうそくが立てられたケーキ",
+      "aliases": ["緑色のろうそく付きケーキ"]
+    },
+    "minecraft:green_carpet": {
+      "name": "緑色のカーペット"
     },
     "minecraft:green_concrete": {
       "name": "緑色のコンクリート",
       "yomi": "みどりいろのこんくりーと"
     },
+    "minecraft:green_concrete_powder": {
+      "name": "緑色のコンクリートパウダー"
+    },
+    "minecraft:green_concrete_slab": {
+      "name": "緑色のコンクリートのハーフブロック"
+    },
+    "minecraft:green_concrete_stairs": {
+      "name": "緑色のコンクリートの階段"
+    },
+    "minecraft:green_glazed_terracotta": {
+      "name": "緑色の彩釉テラコッタ"
+    },
+    "minecraft:green_shulker_box": {
+      "name": "緑色のシュルカーボックス"
+    },
     "minecraft:green_stained_glass": {
       "name": "緑色の色付きガラス",
       "yomi": "みどりいろのいろつきがらす"
+    },
+    "minecraft:green_stained_glass_pane": {
+      "name": "緑色の色付きガラス板"
     },
     "minecraft:green_terracotta": {
       "name": "緑色のテラコッタ",
       "yomi": "みどりいろのてらこった"
     },
+    "minecraft:green_wall_banner": {
+      "name": "緑色の旗"
+    },
     "minecraft:green_wool": {
       "name": "緑色の羊毛",
       "yomi": "みどりいろのようもう"
+    },
+    "minecraft:green_wool_slab": {
+      "name": "緑色の羊毛のハーフブロック"
+    },
+    "minecraft:green_wool_stairs": {
+      "name": "緑色の羊毛の階段"
+    },
+    "minecraft:grindstone": {
+      "name": "砥石"
+    },
+    "minecraft:hanging_roots": {
+      "name": "垂れ根"
     },
     "minecraft:hay_block": {
       "name": "干草の俵",
       "yomi": "ほしくさのたわら"
     },
+    "minecraft:heavy_core": {
+      "name": "ヘビーコア",
+      "yomi": "へびーこあ"
+    },
+    "minecraft:heavy_weighted_pressure_plate": {
+      "name": "重量用感圧板"
+    },
     "minecraft:honey_block": {
       "name": "ハチミツブロック",
       "yomi": "はちみつぶろっく"
     },
+    "minecraft:honeycomb_block": {
+      "name": "ハニカムブロック",
+      "yomi": "はにかむぶろっく"
+    },
+    "minecraft:hopper": {
+      "name": "ホッパー",
+      "yomi": "ほっぱー"
+    },
+    "minecraft:horn_coral": {
+      "name": "シカツノサンゴ",
+      "yomi": "しかつのさんご"
+    },
+    "minecraft:horn_coral_block": {
+      "name": "シカツノサンゴブロック",
+      "yomi": "しかつのさんごぶろっく"
+    },
+    "minecraft:horn_coral_fan": {
+      "name": "シカツノウチワサンゴ",
+      "yomi": "しかつのうちわさんご"
+    },
+    "minecraft:horn_coral_wall_fan": {
+      "name": "壁付きのシカツノウチワサンゴ"
+    },
     "minecraft:ice": {
       "name": "氷",
       "yomi": "こおり"
+    },
+    "minecraft:infested_chiseled_stone_bricks": {
+      "name": "模様入りの虫食い石レンガ"
+    },
+    "minecraft:infested_cobblestone": {
+      "name": "虫食い丸石"
+    },
+    "minecraft:infested_cracked_stone_bricks": {
+      "name": "ひび割れた虫食い石レンガ"
+    },
+    "minecraft:infested_deepslate": {
+      "name": "虫食い深層岩"
+    },
+    "minecraft:infested_mossy_stone_bricks": {
+      "name": "苔むした虫食い石レンガ"
+    },
+    "minecraft:infested_stone": {
+      "name": "虫食い石"
+    },
+    "minecraft:infested_stone_bricks": {
+      "name": "虫食い石レンガ"
     },
     "minecraft:iron_bars": {
       "name": "鉄格子",
@@ -687,13 +1774,30 @@
       "name": "鉄ブロック",
       "yomi": "てつぶろっく"
     },
+    "minecraft:iron_chain": {
+      "name": "鉄の鎖"
+    },
+    "minecraft:iron_door": {
+      "name": "鉄のドア"
+    },
     "minecraft:iron_ore": {
       "name": "鉄鉱石",
       "yomi": "てっこうせき"
     },
+    "minecraft:iron_trapdoor": {
+      "name": "鉄のトラップドア"
+    },
     "minecraft:jack_o_lantern": {
       "name": "ジャック・オ・ランタン",
       "yomi": "じゃっくおらんたん"
+    },
+    "minecraft:jigsaw": {
+      "name": "ジグソーブロック",
+      "yomi": "じぐそーぶろっく"
+    },
+    "minecraft:jukebox": {
+      "name": "ジュークボックス",
+      "yomi": "じゅーくぼっくす"
     },
     "minecraft:jungle_button": {
       "name": "ジャングルのボタン",
@@ -725,7 +1829,8 @@
     },
     "minecraft:jungle_planks": {
       "name": "ジャングルの板材",
-      "yomi": "じゃんぐるのいたざい"
+      "yomi": "じゃんぐるのいたざい",
+      "aliases": ["ジャングルの木材"]
     },
     "minecraft:jungle_pressure_plate": {
       "name": "ジャングルの感圧板",
@@ -734,6 +1839,9 @@
     "minecraft:jungle_sapling": {
       "name": "ジャングルの苗木",
       "yomi": "じゃんぐるのなえぎ"
+    },
+    "minecraft:jungle_shelf": {
+      "name": "ジャングルの棚"
     },
     "minecraft:jungle_sign": {
       "name": "ジャングルの看板",
@@ -751,9 +1859,31 @@
       "name": "ジャングルのトラップドア",
       "yomi": "じゃんぐるのとらっぷどあ"
     },
+    "minecraft:jungle_wall_hanging_sign": {
+      "name": "壁に付けられたジャングルの吊り看板"
+    },
+    "minecraft:jungle_wall_sign": {
+      "name": "壁に付けられたジャングルの看板"
+    },
     "minecraft:jungle_wood": {
       "name": "ジャングルの木",
-      "yomi": "じゃんぐるのき"
+      "yomi": "じゃんぐるのき",
+      "aliases": ["ジャングルの木塊"]
+    },
+    "minecraft:kelp": {
+      "name": "コンブ",
+      "yomi": "こんぶ"
+    },
+    "minecraft:kelp_plant": {
+      "name": "コンブの茎"
+    },
+    "minecraft:ladder": {
+      "name": "はしご",
+      "yomi": "はしご"
+    },
+    "minecraft:lantern": {
+      "name": "ランタン",
+      "yomi": "らんたん"
     },
     "minecraft:lapis_block": {
       "name": "ラピスラズリブロック",
@@ -763,77 +1893,292 @@
       "name": "ラピスラズリ鉱石",
       "yomi": "らぴすらずりこうせき"
     },
+    "minecraft:large_amethyst_bud": {
+      "name": "大きなアメジストの芽"
+    },
+    "minecraft:large_fern": {
+      "name": "大きなシダ"
+    },
     "minecraft:lava": {
       "name": "溶岩",
       "yomi": "ようがん"
+    },
+    "minecraft:lava_cauldron": {
+      "name": "溶岩入りの大釜"
+    },
+    "minecraft:leaf_litter": {
+      "name": "落ち葉"
+    },
+    "minecraft:lectern": {
+      "name": "書見台"
+    },
+    "minecraft:lever": {
+      "name": "レバー",
+      "yomi": "ればー"
     },
     "minecraft:light": {
       "name": "ライトブロック",
       "yomi": "らいとぶろっく"
     },
+    "minecraft:light_blue_banner": {
+      "name": "空色の旗"
+    },
+    "minecraft:light_blue_bed": {
+      "name": "空色のベッド"
+    },
+    "minecraft:light_blue_candle": {
+      "name": "空色のろうそく"
+    },
+    "minecraft:light_blue_candle_cake": {
+      "name": "空色のろうそくが立てられたケーキ",
+      "aliases": ["空色のろうそく付きケーキ"]
+    },
+    "minecraft:light_blue_carpet": {
+      "name": "空色のカーペット"
+    },
     "minecraft:light_blue_concrete": {
       "name": "空色のコンクリート",
       "yomi": "そらいろのこんくりーと"
+    },
+    "minecraft:light_blue_concrete_powder": {
+      "name": "空色のコンクリートパウダー"
+    },
+    "minecraft:light_blue_concrete_slab": {
+      "name": "空色のコンクリートのハーフブロック"
+    },
+    "minecraft:light_blue_concrete_stairs": {
+      "name": "空色のコンクリートの階段"
+    },
+    "minecraft:light_blue_glazed_terracotta": {
+      "name": "空色の彩釉テラコッタ"
+    },
+    "minecraft:light_blue_shulker_box": {
+      "name": "空色のシュルカーボックス"
     },
     "minecraft:light_blue_stained_glass": {
       "name": "空色の色付きガラス",
       "yomi": "そらいろのいろつきがらす"
     },
+    "minecraft:light_blue_stained_glass_pane": {
+      "name": "空色の色付きガラス板"
+    },
     "minecraft:light_blue_terracotta": {
       "name": "空色のテラコッタ",
       "yomi": "そらいろのてらこった"
+    },
+    "minecraft:light_blue_wall_banner": {
+      "name": "空色の旗"
     },
     "minecraft:light_blue_wool": {
       "name": "空色の羊毛",
       "yomi": "そらいろのようもう"
     },
+    "minecraft:light_blue_wool_slab": {
+      "name": "空色の羊毛のハーフブロック"
+    },
+    "minecraft:light_blue_wool_stairs": {
+      "name": "空色の羊毛の階段"
+    },
+    "minecraft:light_gray_banner": {
+      "name": "薄灰色の旗"
+    },
+    "minecraft:light_gray_bed": {
+      "name": "薄灰色のベッド"
+    },
+    "minecraft:light_gray_candle": {
+      "name": "薄灰色のろうそく"
+    },
+    "minecraft:light_gray_candle_cake": {
+      "name": "薄灰色のろうそくが立てられたケーキ",
+      "aliases": ["薄灰色のろうそく付きケーキ"]
+    },
+    "minecraft:light_gray_carpet": {
+      "name": "薄灰色のカーペット"
+    },
     "minecraft:light_gray_concrete": {
       "name": "薄灰色のコンクリート",
       "yomi": "うすはいいろのこんくりーと"
+    },
+    "minecraft:light_gray_concrete_powder": {
+      "name": "薄灰色のコンクリートパウダー"
+    },
+    "minecraft:light_gray_concrete_slab": {
+      "name": "薄灰色のコンクリートのハーフブロック"
+    },
+    "minecraft:light_gray_concrete_stairs": {
+      "name": "薄灰色のコンクリートの階段"
+    },
+    "minecraft:light_gray_glazed_terracotta": {
+      "name": "薄灰色の彩釉テラコッタ"
+    },
+    "minecraft:light_gray_shulker_box": {
+      "name": "薄灰色のシュルカーボックス"
     },
     "minecraft:light_gray_stained_glass": {
       "name": "薄灰色の色付きガラス",
       "yomi": "うすはいいろのいろつきがらす"
     },
+    "minecraft:light_gray_stained_glass_pane": {
+      "name": "薄灰色の色付きガラス板"
+    },
     "minecraft:light_gray_terracotta": {
       "name": "薄灰色のテラコッタ",
       "yomi": "うすはいいろのてらこった"
+    },
+    "minecraft:light_gray_wall_banner": {
+      "name": "薄灰色の旗"
     },
     "minecraft:light_gray_wool": {
       "name": "薄灰色の羊毛",
       "yomi": "うすはいいろのようもう"
     },
+    "minecraft:light_gray_wool_slab": {
+      "name": "薄灰色の羊毛のハーフブロック"
+    },
+    "minecraft:light_gray_wool_stairs": {
+      "name": "薄灰色の羊毛の階段"
+    },
+    "minecraft:light_weighted_pressure_plate": {
+      "name": "軽量用感圧板"
+    },
+    "minecraft:lightning_rod": {
+      "name": "避雷針"
+    },
+    "minecraft:lilac": {
+      "name": "ライラック",
+      "yomi": "らいらっく"
+    },
+    "minecraft:lily_of_the_valley": {
+      "name": "スズラン",
+      "yomi": "すずらん"
+    },
+    "minecraft:lily_pad": {
+      "name": "スイレンの葉"
+    },
+    "minecraft:lime_banner": {
+      "name": "黄緑色の旗"
+    },
+    "minecraft:lime_bed": {
+      "name": "黄緑色のベッド"
+    },
+    "minecraft:lime_candle": {
+      "name": "黄緑色のろうそく"
+    },
+    "minecraft:lime_candle_cake": {
+      "name": "黄緑色のろうそくが立てられたケーキ",
+      "aliases": ["黄緑色のろうそく付きケーキ"]
+    },
+    "minecraft:lime_carpet": {
+      "name": "黄緑色のカーペット"
+    },
     "minecraft:lime_concrete": {
       "name": "黄緑色のコンクリート",
       "yomi": "きみどりいろのこんくりーと"
+    },
+    "minecraft:lime_concrete_powder": {
+      "name": "黄緑色のコンクリートパウダー"
+    },
+    "minecraft:lime_concrete_slab": {
+      "name": "黄緑色のコンクリートのハーフブロック"
+    },
+    "minecraft:lime_concrete_stairs": {
+      "name": "黄緑色のコンクリートの階段"
+    },
+    "minecraft:lime_glazed_terracotta": {
+      "name": "黄緑色の彩釉テラコッタ"
+    },
+    "minecraft:lime_shulker_box": {
+      "name": "黄緑色のシュルカーボックス"
     },
     "minecraft:lime_stained_glass": {
       "name": "黄緑色の色付きガラス",
       "yomi": "きみどりいろのいろつきがらす"
     },
+    "minecraft:lime_stained_glass_pane": {
+      "name": "黄緑色の色付きガラス板"
+    },
     "minecraft:lime_terracotta": {
       "name": "黄緑色のテラコッタ",
       "yomi": "きみどりいろのてらこった"
+    },
+    "minecraft:lime_wall_banner": {
+      "name": "黄緑色の旗"
     },
     "minecraft:lime_wool": {
       "name": "黄緑色の羊毛",
       "yomi": "きみどりいろのようもう"
     },
+    "minecraft:lime_wool_slab": {
+      "name": "黄緑色の羊毛のハーフブロック"
+    },
+    "minecraft:lime_wool_stairs": {
+      "name": "黄緑色の羊毛の階段"
+    },
+    "minecraft:lodestone": {
+      "name": "ロードストーン",
+      "yomi": "ろーどすとーん"
+    },
+    "minecraft:loom": {
+      "name": "機織り機"
+    },
+    "minecraft:magenta_banner": {
+      "name": "赤紫色の旗"
+    },
+    "minecraft:magenta_bed": {
+      "name": "赤紫色のベッド"
+    },
+    "minecraft:magenta_candle": {
+      "name": "赤紫色のろうそく"
+    },
+    "minecraft:magenta_candle_cake": {
+      "name": "赤紫色のろうそくが立てられたケーキ",
+      "aliases": ["赤紫色のろうそく付きケーキ"]
+    },
+    "minecraft:magenta_carpet": {
+      "name": "赤紫色のカーペット"
+    },
     "minecraft:magenta_concrete": {
       "name": "赤紫色のコンクリート",
       "yomi": "あかむらさきいろのこんくりーと"
+    },
+    "minecraft:magenta_concrete_powder": {
+      "name": "赤紫色のコンクリートパウダー"
+    },
+    "minecraft:magenta_concrete_slab": {
+      "name": "赤紫色のコンクリートのハーフブロック"
+    },
+    "minecraft:magenta_concrete_stairs": {
+      "name": "赤紫色のコンクリートの階段"
+    },
+    "minecraft:magenta_glazed_terracotta": {
+      "name": "赤紫色の彩釉テラコッタ"
+    },
+    "minecraft:magenta_shulker_box": {
+      "name": "赤紫色のシュルカーボックス"
     },
     "minecraft:magenta_stained_glass": {
       "name": "赤紫色の色付きガラス",
       "yomi": "あかむらさきいろのいろつきがらす"
     },
+    "minecraft:magenta_stained_glass_pane": {
+      "name": "赤紫色の色付きガラス板"
+    },
     "minecraft:magenta_terracotta": {
       "name": "赤紫色のテラコッタ",
       "yomi": "あかむらさきいろのてらこった"
     },
+    "minecraft:magenta_wall_banner": {
+      "name": "赤紫色の旗"
+    },
     "minecraft:magenta_wool": {
       "name": "赤紫色の羊毛",
       "yomi": "あかむらさきいろのようもう"
+    },
+    "minecraft:magenta_wool_slab": {
+      "name": "赤紫色の羊毛のハーフブロック"
+    },
+    "minecraft:magenta_wool_stairs": {
+      "name": "赤紫色の羊毛の階段"
     },
     "minecraft:magma_block": {
       "name": "マグマブロック",
@@ -879,6 +2224,12 @@
       "name": "マングローブの芽",
       "yomi": "まんぐろーぶのめ"
     },
+    "minecraft:mangrove_roots": {
+      "name": "マングローブの根"
+    },
+    "minecraft:mangrove_shelf": {
+      "name": "マングローブの棚"
+    },
     "minecraft:mangrove_sign": {
       "name": "マングローブの看板",
       "yomi": "まんぐろーぶのかんばん"
@@ -895,41 +2246,128 @@
       "name": "マングローブのトラップドア",
       "yomi": "まんぐろーぶのとらっぷどあ"
     },
+    "minecraft:mangrove_wall_hanging_sign": {
+      "name": "壁に付けられたマングローブの吊り看板"
+    },
+    "minecraft:mangrove_wall_sign": {
+      "name": "壁に付けられたマングローブの看板"
+    },
     "minecraft:mangrove_wood": {
       "name": "マングローブの木",
       "yomi": "まんぐろーぶのき"
+    },
+    "minecraft:medium_amethyst_bud": {
+      "name": "中くらいのアメジストの芽"
     },
     "minecraft:melon": {
       "name": "スイカ",
       "yomi": "すいか"
     },
+    "minecraft:melon_stem": {
+      "name": "スイカの茎"
+    },
     "minecraft:moss_block": {
       "name": "苔ブロック",
       "yomi": "こけぶろっく"
+    },
+    "minecraft:moss_carpet": {
+      "name": "苔のカーペット"
     },
     "minecraft:mossy_cobblestone": {
       "name": "苔むした丸石",
       "yomi": "こけむしたまるいし"
     },
+    "minecraft:mossy_cobblestone_slab": {
+      "name": "苔むした丸石のハーフブロック"
+    },
+    "minecraft:mossy_cobblestone_stairs": {
+      "name": "苔むした丸石の階段"
+    },
+    "minecraft:mossy_cobblestone_wall": {
+      "name": "苔むした丸石の塀"
+    },
+    "minecraft:mossy_stone_brick_slab": {
+      "name": "苔むした石レンガのハーフブロック"
+    },
+    "minecraft:mossy_stone_brick_stairs": {
+      "name": "苔むした石レンガの階段"
+    },
+    "minecraft:mossy_stone_brick_wall": {
+      "name": "苔むした石レンガの塀"
+    },
     "minecraft:mossy_stone_bricks": {
       "name": "苔むした石レンガ",
       "yomi": "こけむしたいしれんが"
+    },
+    "minecraft:moving_piston": {
+      "name": "作動中のピストン"
     },
     "minecraft:mud": {
       "name": "泥",
       "yomi": "どろ"
     },
+    "minecraft:mud_brick_slab": {
+      "name": "泥レンガのハーフブロック"
+    },
+    "minecraft:mud_brick_stairs": {
+      "name": "泥レンガの階段"
+    },
+    "minecraft:mud_brick_wall": {
+      "name": "泥レンガの塀"
+    },
     "minecraft:mud_bricks": {
       "name": "泥レンガ",
       "yomi": "どろれんが"
+    },
+    "minecraft:muddy_mangrove_roots": {
+      "name": "泥だらけのマングローブの根"
+    },
+    "minecraft:mushroom_stem": {
+      "name": "キノコの柄"
     },
     "minecraft:mycelium": {
       "name": "菌糸",
       "yomi": "きんし"
     },
+    "minecraft:nether_brick_fence": {
+      "name": "ネザーレンガのフェンス",
+      "yomi": "ねざーれんがのふぇんす"
+    },
+    "minecraft:nether_brick_slab": {
+      "name": "ネザーレンガのハーフブロック",
+      "yomi": "ねざーれんがのはーふぶろっく"
+    },
+    "minecraft:nether_brick_stairs": {
+      "name": "ネザーレンガの階段"
+    },
+    "minecraft:nether_brick_wall": {
+      "name": "ネザーレンガの塀"
+    },
     "minecraft:nether_bricks": {
       "name": "ネザーレンガ",
       "yomi": "ねざーれんが"
+    },
+    "minecraft:nether_gold_ore": {
+      "name": "ネザー金鉱石"
+    },
+    "minecraft:nether_portal": {
+      "name": "ネザーポータル",
+      "yomi": "ねざーぽーたる"
+    },
+    "minecraft:nether_quartz_ore": {
+      "name": "ネザークォーツ鉱石"
+    },
+    "minecraft:nether_sprouts": {
+      "name": "ネザースプラウト",
+      "yomi": "ねざーすぷらうと"
+    },
+    "minecraft:nether_wart": {
+      "name": "ネザーウォート",
+      "yomi": "ねざーうぉーと"
+    },
+    "minecraft:nether_wart_block": {
+      "name": "ネザーウォートブロック",
+      "yomi": "ねざーうぉーとぶろっく"
     },
     "minecraft:netherite_block": {
       "name": "ネザライトブロック",
@@ -938,6 +2376,9 @@
     "minecraft:netherrack": {
       "name": "ネザーラック",
       "yomi": "ねざーらっく"
+    },
+    "minecraft:note_block": {
+      "name": "音符ブロック"
     },
     "minecraft:oak_button": {
       "name": "オークのボタン",
@@ -969,7 +2410,8 @@
     },
     "minecraft:oak_planks": {
       "name": "オークの板材",
-      "yomi": "おーくのいたざい"
+      "yomi": "おーくのいたざい",
+      "aliases": ["オークの木材"]
     },
     "minecraft:oak_pressure_plate": {
       "name": "オークの感圧板",
@@ -978,6 +2420,9 @@
     "minecraft:oak_sapling": {
       "name": "オークの苗木",
       "yomi": "おーくのなえぎ"
+    },
+    "minecraft:oak_shelf": {
+      "name": "オークの棚"
     },
     "minecraft:oak_sign": {
       "name": "オークの看板",
@@ -995,33 +2440,148 @@
       "name": "オークのトラップドア",
       "yomi": "おーくのとらっぷどあ"
     },
+    "minecraft:oak_wall_hanging_sign": {
+      "name": "壁に付けられたオークの吊り看板"
+    },
+    "minecraft:oak_wall_sign": {
+      "name": "壁に付けられたオークの看板"
+    },
     "minecraft:oak_wood": {
       "name": "オークの木",
-      "yomi": "おーくのき"
+      "yomi": "おーくのき",
+      "aliases": ["オークの木塊"]
+    },
+    "minecraft:observer": {
+      "name": "オブザーバー",
+      "yomi": "おぶざーばー"
     },
     "minecraft:obsidian": {
       "name": "黒曜石",
       "yomi": "こくようせき"
+    },
+    "minecraft:ochre_froglight": {
+      "name": "黄土色のフロッグライト"
+    },
+    "minecraft:open_eyeblossom": {
+      "name": "開いたヒトミソウ"
+    },
+    "minecraft:orange_banner": {
+      "name": "橙色の旗"
+    },
+    "minecraft:orange_bed": {
+      "name": "橙色のベッド"
+    },
+    "minecraft:orange_candle": {
+      "name": "橙色のろうそく"
+    },
+    "minecraft:orange_candle_cake": {
+      "name": "橙色のろうそくが立てられたケーキ",
+      "aliases": ["橙色のろうそく付きケーキ"]
+    },
+    "minecraft:orange_carpet": {
+      "name": "橙色のカーペット"
     },
     "minecraft:orange_concrete": {
       "name": "橙色のコンクリート",
       "yomi": "だいだいいろのこんくりーと",
       "aliases": ["オレンジ色のコンクリート", "おれんじいろのこんくりーと"]
     },
+    "minecraft:orange_concrete_powder": {
+      "name": "橙色のコンクリートパウダー"
+    },
+    "minecraft:orange_concrete_slab": {
+      "name": "橙色のコンクリートのハーフブロック"
+    },
+    "minecraft:orange_concrete_stairs": {
+      "name": "橙色のコンクリートの階段"
+    },
+    "minecraft:orange_glazed_terracotta": {
+      "name": "橙色の彩釉テラコッタ"
+    },
+    "minecraft:orange_poplar_leaves": {
+      "name": "橙色のポプラの葉"
+    },
+    "minecraft:orange_shulker_box": {
+      "name": "橙色のシュルカーボックス"
+    },
     "minecraft:orange_stained_glass": {
       "name": "橙色の色付きガラス",
       "yomi": "だいだいいろのいろつきがらす",
       "aliases": ["オレンジ色の色付きガラス", "おれんじいろのいろつきがらす"]
+    },
+    "minecraft:orange_stained_glass_pane": {
+      "name": "橙色の色付きガラス板"
     },
     "minecraft:orange_terracotta": {
       "name": "橙色のテラコッタ",
       "yomi": "だいだいいろのてらこった",
       "aliases": ["オレンジ色のテラコッタ", "おれんじいろのてらこった"]
     },
+    "minecraft:orange_tulip": {
+      "name": "橙色のチューリップ"
+    },
+    "minecraft:orange_wall_banner": {
+      "name": "橙色の旗"
+    },
     "minecraft:orange_wool": {
       "name": "橙色の羊毛",
       "yomi": "だいだいいろのようもう",
       "aliases": ["オレンジ色の羊毛", "おれんじいろのようもう"]
+    },
+    "minecraft:orange_wool_slab": {
+      "name": "橙色の羊毛のハーフブロック"
+    },
+    "minecraft:orange_wool_stairs": {
+      "name": "橙色の羊毛の階段"
+    },
+    "minecraft:oxeye_daisy": {
+      "name": "フランスギク",
+      "yomi": "ふらんすぎく"
+    },
+    "minecraft:oxidized_chiseled_copper": {
+      "name": "酸化した模様入りの銅"
+    },
+    "minecraft:oxidized_copper": {
+      "name": "酸化した銅"
+    },
+    "minecraft:oxidized_copper_bars": {
+      "name": "酸化した銅格子"
+    },
+    "minecraft:oxidized_copper_bulb": {
+      "name": "酸化した銅の電球"
+    },
+    "minecraft:oxidized_copper_chain": {
+      "name": "酸化した銅の鎖"
+    },
+    "minecraft:oxidized_copper_chest": {
+      "name": "酸化した銅のチェスト"
+    },
+    "minecraft:oxidized_copper_door": {
+      "name": "酸化した銅のドア"
+    },
+    "minecraft:oxidized_copper_golem_statue": {
+      "name": "酸化したカッパーゴーレムの像"
+    },
+    "minecraft:oxidized_copper_grate": {
+      "name": "酸化した銅の金網"
+    },
+    "minecraft:oxidized_copper_lantern": {
+      "name": "酸化した銅のランタン"
+    },
+    "minecraft:oxidized_copper_trapdoor": {
+      "name": "酸化した銅のトラップドア"
+    },
+    "minecraft:oxidized_cut_copper": {
+      "name": "酸化した切り込み入りの銅"
+    },
+    "minecraft:oxidized_cut_copper_slab": {
+      "name": "酸化した切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:oxidized_cut_copper_stairs": {
+      "name": "酸化した切り込み入りの銅の階段"
+    },
+    "minecraft:oxidized_lightning_rod": {
+      "name": "酸化した避雷針"
     },
     "minecraft:packed_ice": {
       "name": "氷塊",
@@ -1029,7 +2589,17 @@
     },
     "minecraft:packed_mud": {
       "name": "固めた泥",
-      "yomi": "かためたどろ"
+      "yomi": "かためたどろ",
+      "aliases": ["泥塊"]
+    },
+    "minecraft:pale_hanging_moss": {
+      "name": "色あせた垂れ苔"
+    },
+    "minecraft:pale_moss_block": {
+      "name": "色あせた苔ブロック"
+    },
+    "minecraft:pale_moss_carpet": {
+      "name": "色あせた苔のカーペット"
     },
     "minecraft:pale_oak_button": {
       "name": "ペールオークのボタン",
@@ -1071,6 +2641,9 @@
       "name": "ペールオークの苗木",
       "yomi": "ぺーるおーくのなえぎ"
     },
+    "minecraft:pale_oak_shelf": {
+      "name": "ペールオークの棚"
+    },
     "minecraft:pale_oak_sign": {
       "name": "ペールオークの看板",
       "yomi": "ぺーるおーくのかんばん"
@@ -1087,33 +2660,135 @@
       "name": "ペールオークのトラップドア",
       "yomi": "ぺーるおーくのとらっぷどあ"
     },
+    "minecraft:pale_oak_wall_hanging_sign": {
+      "name": "壁に付けられたペールオークの吊り看板"
+    },
+    "minecraft:pale_oak_wall_sign": {
+      "name": "壁に付けられたペールオークの看板"
+    },
     "minecraft:pale_oak_wood": {
       "name": "ペールオークの木",
       "yomi": "ぺーるおーくのき"
+    },
+    "minecraft:pearlescent_froglight": {
+      "name": "真珠色のフロッグライト"
+    },
+    "minecraft:peony": {
+      "name": "ボタン",
+      "yomi": "ぼたん"
+    },
+    "minecraft:petrified_oak_slab": {
+      "name": "石化したオークのハーフブロック"
+    },
+    "minecraft:piglin_head": {
+      "name": "ピグリンの頭"
+    },
+    "minecraft:piglin_wall_head": {
+      "name": "壁に付けられたピグリンの頭"
+    },
+    "minecraft:pink_banner": {
+      "name": "桃色の旗"
+    },
+    "minecraft:pink_bed": {
+      "name": "桃色のベッド"
+    },
+    "minecraft:pink_candle": {
+      "name": "桃色のろうそく"
+    },
+    "minecraft:pink_candle_cake": {
+      "name": "桃色のろうそくが立てられたケーキ",
+      "aliases": ["桃色のろうそく付きケーキ"]
+    },
+    "minecraft:pink_carpet": {
+      "name": "桃色のカーペット"
     },
     "minecraft:pink_concrete": {
       "name": "桃色のコンクリート",
       "yomi": "ももいろのこんくりーと"
     },
+    "minecraft:pink_concrete_powder": {
+      "name": "桃色のコンクリートパウダー"
+    },
+    "minecraft:pink_concrete_slab": {
+      "name": "桃色のコンクリートのハーフブロック"
+    },
+    "minecraft:pink_concrete_stairs": {
+      "name": "桃色のコンクリートの階段"
+    },
+    "minecraft:pink_glazed_terracotta": {
+      "name": "桃色の彩釉テラコッタ"
+    },
+    "minecraft:pink_petals": {
+      "name": "桜色の花びら"
+    },
+    "minecraft:pink_shulker_box": {
+      "name": "桃色のシュルカーボックス"
+    },
     "minecraft:pink_stained_glass": {
       "name": "桃色の色付きガラス",
       "yomi": "ももいろのいろつきがらす"
+    },
+    "minecraft:pink_stained_glass_pane": {
+      "name": "桃色の色付きガラス板"
     },
     "minecraft:pink_terracotta": {
       "name": "桃色のテラコッタ",
       "yomi": "ももいろのてらこった"
     },
+    "minecraft:pink_tulip": {
+      "name": "桃色のチューリップ"
+    },
+    "minecraft:pink_wall_banner": {
+      "name": "桃色の旗"
+    },
     "minecraft:pink_wool": {
       "name": "桃色の羊毛",
       "yomi": "ももいろのようもう"
+    },
+    "minecraft:pink_wool_slab": {
+      "name": "桃色の羊毛のハーフブロック"
+    },
+    "minecraft:pink_wool_stairs": {
+      "name": "桃色の羊毛の階段"
+    },
+    "minecraft:piston": {
+      "name": "ピストン",
+      "yomi": "ぴすとん"
+    },
+    "minecraft:piston_head": {
+      "name": "ピストンヘッド",
+      "yomi": "ぴすとんへっど"
+    },
+    "minecraft:pitcher_crop": {
+      "name": "ウツボカズラ",
+      "yomi": "うつぼかずら"
+    },
+    "minecraft:pitcher_plant": {
+      "name": "ウツボカズラ",
+      "yomi": "うつぼかずら"
+    },
+    "minecraft:player_head": {
+      "name": "プレイヤーの頭"
+    },
+    "minecraft:player_wall_head": {
+      "name": "壁に付けられたプレイヤーの頭"
     },
     "minecraft:podzol": {
       "name": "ポドゾル",
       "yomi": "ぽどぞる"
     },
+    "minecraft:pointed_dripstone": {
+      "name": "鍾乳石"
+    },
     "minecraft:polished_andesite": {
       "name": "磨かれた安山岩",
       "yomi": "みがかれたあんざんがん"
+    },
+    "minecraft:polished_andesite_slab": {
+      "name": "磨かれた安山岩のハーフブロック"
+    },
+    "minecraft:polished_andesite_stairs": {
+      "name": "磨かれた安山岩の階段"
     },
     "minecraft:polished_basalt": {
       "name": "磨かれた玄武岩",
@@ -1123,21 +2798,325 @@
       "name": "磨かれたブラックストーン",
       "yomi": "みがかれたぶらっくすとーん"
     },
+    "minecraft:polished_blackstone_brick_slab": {
+      "name": "磨かれたブラックストーンレンガのハーフブロック"
+    },
+    "minecraft:polished_blackstone_brick_stairs": {
+      "name": "磨かれたブラックストーンレンガの階段"
+    },
+    "minecraft:polished_blackstone_brick_wall": {
+      "name": "磨かれたブラックストーンレンガの塀"
+    },
     "minecraft:polished_blackstone_bricks": {
       "name": "磨かれたブラックストーンレンガ",
       "yomi": "みがかれたぶらっくすとーんれんが"
+    },
+    "minecraft:polished_blackstone_button": {
+      "name": "磨かれたブラックストーンのボタン"
+    },
+    "minecraft:polished_blackstone_pressure_plate": {
+      "name": "磨かれたブラックストーンの感圧板"
+    },
+    "minecraft:polished_blackstone_slab": {
+      "name": "磨かれたブラックストーンのハーフブロック"
+    },
+    "minecraft:polished_blackstone_stairs": {
+      "name": "磨かれたブラックストーンの階段"
+    },
+    "minecraft:polished_blackstone_wall": {
+      "name": "磨かれたブラックストーンの塀"
+    },
+    "minecraft:polished_cinnabar": {
+      "name": "磨かれた辰砂"
+    },
+    "minecraft:polished_cinnabar_slab": {
+      "name": "磨かれた辰砂のハーフブロック"
+    },
+    "minecraft:polished_cinnabar_stairs": {
+      "name": "磨かれた辰砂の階段"
+    },
+    "minecraft:polished_cinnabar_wall": {
+      "name": "磨かれた辰砂の塀"
     },
     "minecraft:polished_deepslate": {
       "name": "磨かれた深層岩",
       "yomi": "みがかれたしんそうがん"
     },
+    "minecraft:polished_deepslate_slab": {
+      "name": "磨かれた深層岩のハーフブロック"
+    },
+    "minecraft:polished_deepslate_stairs": {
+      "name": "磨かれた深層岩の階段"
+    },
+    "minecraft:polished_deepslate_wall": {
+      "name": "磨かれた深層岩の塀"
+    },
     "minecraft:polished_diorite": {
       "name": "磨かれた閃緑岩",
       "yomi": "みがかれたせんりょくがん"
     },
+    "minecraft:polished_diorite_slab": {
+      "name": "磨かれた閃緑岩のハーフブロック"
+    },
+    "minecraft:polished_diorite_stairs": {
+      "name": "磨かれた閃緑岩の階段"
+    },
     "minecraft:polished_granite": {
       "name": "磨かれた花崗岩",
       "yomi": "みがかれたかこうがん"
+    },
+    "minecraft:polished_granite_slab": {
+      "name": "磨かれた花崗岩のハーフブロック"
+    },
+    "minecraft:polished_granite_stairs": {
+      "name": "磨かれた花崗岩の階段"
+    },
+    "minecraft:polished_sulfur": {
+      "name": "磨かれた硫黄"
+    },
+    "minecraft:polished_sulfur_slab": {
+      "name": "磨かれた硫黄のハーフブロック"
+    },
+    "minecraft:polished_sulfur_stairs": {
+      "name": "磨かれた硫黄の階段"
+    },
+    "minecraft:polished_sulfur_wall": {
+      "name": "磨かれた硫黄の塀"
+    },
+    "minecraft:polished_tuff": {
+      "name": "磨かれた凝灰岩"
+    },
+    "minecraft:polished_tuff_slab": {
+      "name": "磨かれた凝灰岩のハーフブロック"
+    },
+    "minecraft:polished_tuff_stairs": {
+      "name": "磨かれた凝灰岩の階段"
+    },
+    "minecraft:polished_tuff_wall": {
+      "name": "磨かれた凝灰岩の塀"
+    },
+    "minecraft:poplar_button": {
+      "name": "ポプラのボタン",
+      "yomi": "ぽぷらのぼたん"
+    },
+    "minecraft:poplar_door": {
+      "name": "ポプラのドア",
+      "yomi": "ぽぷらのどあ"
+    },
+    "minecraft:poplar_fence": {
+      "name": "ポプラのフェンス",
+      "yomi": "ぽぷらのふぇんす"
+    },
+    "minecraft:poplar_fence_gate": {
+      "name": "ポプラのフェンスゲート",
+      "yomi": "ぽぷらのふぇんすげーと"
+    },
+    "minecraft:poplar_hanging_sign": {
+      "name": "ポプラの吊り看板"
+    },
+    "minecraft:poplar_log": {
+      "name": "ポプラの原木"
+    },
+    "minecraft:poplar_planks": {
+      "name": "ポプラの板材"
+    },
+    "minecraft:poplar_pressure_plate": {
+      "name": "ポプラの感圧板"
+    },
+    "minecraft:poplar_sapling": {
+      "name": "ポプラの苗木"
+    },
+    "minecraft:poplar_shelf": {
+      "name": "ポプラの棚"
+    },
+    "minecraft:poplar_sign": {
+      "name": "ポプラの看板"
+    },
+    "minecraft:poplar_slab": {
+      "name": "ポプラのハーフブロック",
+      "yomi": "ぽぷらのはーふぶろっく"
+    },
+    "minecraft:poplar_stairs": {
+      "name": "ポプラの階段"
+    },
+    "minecraft:poplar_trapdoor": {
+      "name": "ポプラのトラップドア",
+      "yomi": "ぽぷらのとらっぷどあ"
+    },
+    "minecraft:poplar_wall_hanging_sign": {
+      "name": "壁に付けられたポプラの吊り看板"
+    },
+    "minecraft:poplar_wall_sign": {
+      "name": "壁に付けられたポプラの看板"
+    },
+    "minecraft:poplar_wood": {
+      "name": "ポプラの木"
+    },
+    "minecraft:poppy": {
+      "name": "ポピー",
+      "yomi": "ぽぴー"
+    },
+    "minecraft:potatoes": {
+      "name": "ジャガイモ",
+      "yomi": "じゃがいも"
+    },
+    "minecraft:potent_sulfur": {
+      "name": "強力な硫黄"
+    },
+    "minecraft:potted_acacia_sapling": {
+      "name": "アカシアの苗木入り植木鉢",
+      "aliases": ["植えられたアカシアの苗木"]
+    },
+    "minecraft:potted_allium": {
+      "name": "アリウム入り植木鉢",
+      "aliases": ["植えられたアリウム"]
+    },
+    "minecraft:potted_azalea_bush": {
+      "name": "ツツジ入り植木鉢",
+      "aliases": ["植えられたツツジ"]
+    },
+    "minecraft:potted_azure_bluet": {
+      "name": "ヒナソウ入り植木鉢",
+      "aliases": ["植えられたヒナソウ"]
+    },
+    "minecraft:potted_bamboo": {
+      "name": "竹入り植木鉢",
+      "aliases": ["植えられた竹"]
+    },
+    "minecraft:potted_birch_sapling": {
+      "name": "シラカバの苗木入り植木鉢",
+      "aliases": ["植えられたシラカバの苗木"]
+    },
+    "minecraft:potted_blue_orchid": {
+      "name": "ヒスイラン入り植木鉢",
+      "aliases": ["植えられたヒスイラン"]
+    },
+    "minecraft:potted_brown_mushroom": {
+      "name": "茶色のキノコ入り植木鉢",
+      "aliases": ["植えられた茶色のキノコ"]
+    },
+    "minecraft:potted_cactus": {
+      "name": "サボテン入り植木鉢",
+      "aliases": ["植えられたサボテン"]
+    },
+    "minecraft:potted_cherry_sapling": {
+      "name": "サクラの苗木入り植木鉢"
+    },
+    "minecraft:potted_closed_eyeblossom": {
+      "name": "閉じたヒトミソウ入り植木鉢"
+    },
+    "minecraft:potted_cornflower": {
+      "name": "ヤグルマギク入り植木鉢",
+      "aliases": ["植えられたヤグルマギク"]
+    },
+    "minecraft:potted_crimson_fungus": {
+      "name": "真紅のキノコ入り植木鉢",
+      "aliases": ["植えられた真紅のキノコ"]
+    },
+    "minecraft:potted_crimson_roots": {
+      "name": "真紅の根入り植木鉢",
+      "aliases": ["植えられた真紅の根"]
+    },
+    "minecraft:potted_dandelion": {
+      "name": "タンポポ入り植木鉢",
+      "aliases": ["植えられたタンポポ"]
+    },
+    "minecraft:potted_dark_oak_sapling": {
+      "name": "ダークオークの苗木入り植木鉢",
+      "aliases": ["植えられたダークオークの苗木"]
+    },
+    "minecraft:potted_dead_bush": {
+      "name": "枯れ木入り植木鉢",
+      "aliases": ["植えられた枯れ木"]
+    },
+    "minecraft:potted_fern": {
+      "name": "シダ入り植木鉢",
+      "aliases": ["植えられたシダ"]
+    },
+    "minecraft:potted_flowering_azalea_bush": {
+      "name": "開花したツツジ入り植木鉢",
+      "aliases": ["植えられた開花したツツジ"]
+    },
+    "minecraft:potted_golden_dandelion": {
+      "name": "金のタンポポ入り植木鉢"
+    },
+    "minecraft:potted_jungle_sapling": {
+      "name": "ジャングルの苗木入り植木鉢",
+      "aliases": ["植えられたジャングルの苗木"]
+    },
+    "minecraft:potted_lily_of_the_valley": {
+      "name": "スズラン入り植木鉢",
+      "aliases": ["植えられたスズラン"]
+    },
+    "minecraft:potted_mangrove_propagule": {
+      "name": "マングローブの芽入り植木鉢",
+      "aliases": ["植えられたマングローブの芽"]
+    },
+    "minecraft:potted_oak_sapling": {
+      "name": "オークの苗木入り植木鉢",
+      "aliases": ["植えられたオークの苗木"]
+    },
+    "minecraft:potted_open_eyeblossom": {
+      "name": "開いたヒトミソウ入り植木鉢"
+    },
+    "minecraft:potted_orange_tulip": {
+      "name": "橙色のチューリップ入り植木鉢",
+      "aliases": ["植えられた橙色のチューリップ"]
+    },
+    "minecraft:potted_oxeye_daisy": {
+      "name": "フランスギク入り植木鉢",
+      "aliases": ["植えられたフランスギク"]
+    },
+    "minecraft:potted_pale_oak_sapling": {
+      "name": "ペールオークの苗木入り植木鉢"
+    },
+    "minecraft:potted_pink_tulip": {
+      "name": "桃色のチューリップ入り植木鉢",
+      "aliases": ["植えられた桃色のチューリップ"]
+    },
+    "minecraft:potted_poplar_sapling": {
+      "name": "ポプラの苗木入り植木鉢"
+    },
+    "minecraft:potted_poppy": {
+      "name": "ポピー入り植木鉢",
+      "aliases": ["植えられたポピー"]
+    },
+    "minecraft:potted_red_mushroom": {
+      "name": "赤色のキノコ入り植木鉢",
+      "aliases": ["植えられた赤色のキノコ"]
+    },
+    "minecraft:potted_red_tulip": {
+      "name": "赤色のチューリップ入り植木鉢",
+      "aliases": ["植えられた赤色のチューリップ"]
+    },
+    "minecraft:potted_spruce_sapling": {
+      "name": "トウヒの苗木入り植木鉢",
+      "aliases": ["植えられたマツの苗木", "植えられたトウヒの苗木"]
+    },
+    "minecraft:potted_torchflower": {
+      "name": "トーチフラワー入り植木鉢"
+    },
+    "minecraft:potted_warped_fungus": {
+      "name": "歪んだキノコ入り植木鉢",
+      "aliases": ["植えられた歪んだキノコ"]
+    },
+    "minecraft:potted_warped_roots": {
+      "name": "歪んだ根入り植木鉢",
+      "aliases": ["植えられた歪んだ根"]
+    },
+    "minecraft:potted_white_tulip": {
+      "name": "白色のチューリップ入り植木鉢",
+      "aliases": ["植えられた白色のチューリップ"]
+    },
+    "minecraft:potted_wither_rose": {
+      "name": "ウィザーローズ入り植木鉢",
+      "aliases": ["植えられたウィザーローズ"]
+    },
+    "minecraft:powder_snow": {
+      "name": "粉雪"
+    },
+    "minecraft:powder_snow_cauldron": {
+      "name": "粉雪入りの大釜"
     },
     "minecraft:powered_rail": {
       "name": "パワードレール",
@@ -1147,29 +3126,92 @@
       "name": "プリズマリン",
       "yomi": "ぷりずまりん"
     },
+    "minecraft:prismarine_brick_slab": {
+      "name": "プリズマリンレンガのハーフブロック",
+      "yomi": "ぷりずまりんれんがのはーふぶろっく"
+    },
+    "minecraft:prismarine_brick_stairs": {
+      "name": "プリズマリンレンガの階段"
+    },
     "minecraft:prismarine_bricks": {
       "name": "プリズマリンレンガ",
       "yomi": "ぷりずまりんれんが"
+    },
+    "minecraft:prismarine_slab": {
+      "name": "プリズマリンのハーフブロック",
+      "yomi": "ぷりずまりんのはーふぶろっく"
+    },
+    "minecraft:prismarine_stairs": {
+      "name": "プリズマリンの階段"
+    },
+    "minecraft:prismarine_wall": {
+      "name": "プリズマリンの塀"
     },
     "minecraft:pumpkin": {
       "name": "カボチャ",
       "yomi": "かぼちゃ"
     },
+    "minecraft:pumpkin_stem": {
+      "name": "カボチャの茎"
+    },
+    "minecraft:purple_banner": {
+      "name": "紫色の旗"
+    },
+    "minecraft:purple_bed": {
+      "name": "紫色のベッド"
+    },
+    "minecraft:purple_candle": {
+      "name": "紫色のろうそく"
+    },
+    "minecraft:purple_candle_cake": {
+      "name": "紫色のろうそくが立てられたケーキ",
+      "aliases": ["紫色のろうそく付きケーキ"]
+    },
+    "minecraft:purple_carpet": {
+      "name": "紫色のカーペット"
+    },
     "minecraft:purple_concrete": {
       "name": "紫色のコンクリート",
       "yomi": "むらさきいろのこんくりーと"
+    },
+    "minecraft:purple_concrete_powder": {
+      "name": "紫色のコンクリートパウダー"
+    },
+    "minecraft:purple_concrete_slab": {
+      "name": "紫色のコンクリートのハーフブロック"
+    },
+    "minecraft:purple_concrete_stairs": {
+      "name": "紫色のコンクリートの階段"
+    },
+    "minecraft:purple_glazed_terracotta": {
+      "name": "紫色の彩釉テラコッタ"
+    },
+    "minecraft:purple_shulker_box": {
+      "name": "紫色のシュルカーボックス"
     },
     "minecraft:purple_stained_glass": {
       "name": "紫色の色付きガラス",
       "yomi": "むらさきいろのいろつきがらす"
     },
+    "minecraft:purple_stained_glass_pane": {
+      "name": "紫色の色付きガラス板"
+    },
     "minecraft:purple_terracotta": {
       "name": "紫色のテラコッタ",
       "yomi": "むらさきいろのてらこった"
     },
+    "minecraft:purple_wall_banner": {
+      "name": "紫色の旗"
+    },
     "minecraft:purple_wool": {
       "name": "紫色の羊毛",
       "yomi": "むらさきいろのようもう"
+    },
+    "minecraft:purple_wool_slab": {
+      "name": "紫色の羊毛のハーフブロック"
+    },
+    "minecraft:purple_wool_stairs": {
+      "name": "紫色の羊毛の階段"
     },
     "minecraft:purpur_block": {
       "name": "プルプァブロック",
@@ -1178,6 +3220,13 @@
     "minecraft:purpur_pillar": {
       "name": "プルプァの柱",
       "yomi": "ぷるぷぁのはしら"
+    },
+    "minecraft:purpur_slab": {
+      "name": "プルプァのハーフブロック",
+      "yomi": "ぷるぷぁのはーふぶろっく"
+    },
+    "minecraft:purpur_stairs": {
+      "name": "プルプァの階段"
     },
     "minecraft:quartz_block": {
       "name": "クォーツブロック",
@@ -1192,19 +3241,81 @@
     "minecraft:quartz_pillar": {
       "name": "クォーツの柱",
       "yomi": "くぉーつのはしら",
-      "aliases": ["クオーツの柱", "くおーつのはしら"]
+      "aliases": ["クオーツの柱", "くおーつのはしら", "ネザー水晶の柱"]
+    },
+    "minecraft:quartz_slab": {
+      "name": "クォーツのハーフブロック",
+      "yomi": "くぉーつのはーふぶろっく"
+    },
+    "minecraft:quartz_stairs": {
+      "name": "クォーツの階段"
     },
     "minecraft:rail": {
       "name": "レール",
       "yomi": "れーる"
     },
+    "minecraft:raw_copper_block": {
+      "name": "銅の原石ブロック"
+    },
+    "minecraft:raw_gold_block": {
+      "name": "金の原石ブロック"
+    },
+    "minecraft:raw_iron_block": {
+      "name": "鉄の原石ブロック"
+    },
+    "minecraft:red_banner": {
+      "name": "赤色の旗"
+    },
+    "minecraft:red_bed": {
+      "name": "赤色のベッド"
+    },
+    "minecraft:red_candle": {
+      "name": "赤色のろうそく"
+    },
+    "minecraft:red_candle_cake": {
+      "name": "赤色のろうそくが立てられたケーキ",
+      "aliases": ["赤色のろうそく付きケーキ"]
+    },
+    "minecraft:red_carpet": {
+      "name": "赤色のカーペット"
+    },
     "minecraft:red_concrete": {
       "name": "赤色のコンクリート",
       "yomi": "あかいろのこんくりーと"
     },
+    "minecraft:red_concrete_powder": {
+      "name": "赤色のコンクリートパウダー"
+    },
+    "minecraft:red_concrete_slab": {
+      "name": "赤色のコンクリートのハーフブロック"
+    },
+    "minecraft:red_concrete_stairs": {
+      "name": "赤色のコンクリートの階段"
+    },
+    "minecraft:red_glazed_terracotta": {
+      "name": "赤色の彩釉テラコッタ"
+    },
+    "minecraft:red_mushroom": {
+      "name": "赤色のキノコ"
+    },
+    "minecraft:red_mushroom_block": {
+      "name": "赤色のキノコブロック"
+    },
+    "minecraft:red_nether_brick_slab": {
+      "name": "赤いネザーレンガのハーフブロック"
+    },
+    "minecraft:red_nether_brick_stairs": {
+      "name": "赤いネザーレンガの階段"
+    },
+    "minecraft:red_nether_brick_wall": {
+      "name": "赤いネザーレンガの塀"
+    },
     "minecraft:red_nether_bricks": {
       "name": "赤いネザーレンガ",
       "yomi": "あかいねざーれんが"
+    },
+    "minecraft:red_poplar_leaves": {
+      "name": "赤色のポプラの葉"
     },
     "minecraft:red_sand": {
       "name": "赤い砂",
@@ -1214,17 +3325,49 @@
       "name": "赤い砂岩",
       "yomi": "あかいさがん"
     },
+    "minecraft:red_sandstone_slab": {
+      "name": "赤い砂岩のハーフブロック",
+      "aliases": ["赤砂岩のハーフブロック"]
+    },
+    "minecraft:red_sandstone_stairs": {
+      "name": "赤い砂岩の階段",
+      "aliases": ["赤砂岩の階段"]
+    },
+    "minecraft:red_sandstone_wall": {
+      "name": "赤い砂岩の塀"
+    },
+    "minecraft:red_shrub": {
+      "name": "赤色の低木"
+    },
+    "minecraft:red_shulker_box": {
+      "name": "赤色のシュルカーボックス"
+    },
     "minecraft:red_stained_glass": {
       "name": "赤色の色付きガラス",
       "yomi": "あかいろのいろつきがらす"
+    },
+    "minecraft:red_stained_glass_pane": {
+      "name": "赤色の色付きガラス板"
     },
     "minecraft:red_terracotta": {
       "name": "赤色のテラコッタ",
       "yomi": "あかいろのてらこった"
     },
+    "minecraft:red_tulip": {
+      "name": "赤色のチューリップ"
+    },
+    "minecraft:red_wall_banner": {
+      "name": "赤色の旗"
+    },
     "minecraft:red_wool": {
       "name": "赤色の羊毛",
       "yomi": "あかいろのようもう"
+    },
+    "minecraft:red_wool_slab": {
+      "name": "赤色の羊毛のハーフブロック"
+    },
+    "minecraft:red_wool_stairs": {
+      "name": "赤色の羊毛の階段"
     },
     "minecraft:redstone_block": {
       "name": "レッドストーンブロック",
@@ -1238,13 +3381,57 @@
       "name": "レッドストーン鉱石",
       "yomi": "れっどすとーんこうせき"
     },
+    "minecraft:redstone_torch": {
+      "name": "レッドストーントーチ",
+      "yomi": "れっどすとーんとーち"
+    },
+    "minecraft:redstone_wall_torch": {
+      "name": "壁に付けられたレッドストーントーチ"
+    },
+    "minecraft:redstone_wire": {
+      "name": "レッドストーンワイヤー",
+      "yomi": "れっどすとーんわいやー",
+      "aliases": ["レッドストーンダスト"]
+    },
+    "minecraft:reinforced_deepslate": {
+      "name": "強化された深層岩"
+    },
+    "minecraft:repeater": {
+      "name": "レッドストーンリピーター",
+      "yomi": "れっどすとーんりぴーたー"
+    },
     "minecraft:repeating_command_block": {
       "name": "リピートコマンドブロック",
       "yomi": "りぴーとこまんどぶろっく"
     },
+    "minecraft:resin_block": {
+      "name": "樹脂ブロック"
+    },
+    "minecraft:resin_brick_slab": {
+      "name": "樹脂レンガのハーフブロック"
+    },
+    "minecraft:resin_brick_stairs": {
+      "name": "樹脂レンガの階段"
+    },
+    "minecraft:resin_brick_wall": {
+      "name": "樹脂レンガの塀"
+    },
+    "minecraft:resin_bricks": {
+      "name": "樹脂レンガ"
+    },
+    "minecraft:resin_clump": {
+      "name": "樹脂の塊"
+    },
+    "minecraft:respawn_anchor": {
+      "name": "リスポーンアンカー",
+      "yomi": "りすぽーんあんかー"
+    },
     "minecraft:rooted_dirt": {
       "name": "根付いた土",
       "yomi": "ねづいたつち"
+    },
+    "minecraft:rose_bush": {
+      "name": "バラの低木"
     },
     "minecraft:sand": {
       "name": "砂",
@@ -1254,21 +3441,91 @@
       "name": "砂岩",
       "yomi": "さがん"
     },
+    "minecraft:sandstone_slab": {
+      "name": "砂岩のハーフブロック"
+    },
+    "minecraft:sandstone_stairs": {
+      "name": "砂岩の階段"
+    },
+    "minecraft:sandstone_wall": {
+      "name": "砂岩の塀"
+    },
+    "minecraft:scaffolding": {
+      "name": "足場"
+    },
     "minecraft:sculk": {
       "name": "スカルク",
       "yomi": "すかるく"
+    },
+    "minecraft:sculk_catalyst": {
+      "name": "スカルクカタリスト",
+      "yomi": "すかるくかたりすと"
+    },
+    "minecraft:sculk_sensor": {
+      "name": "スカルクセンサー",
+      "yomi": "すかるくせんさー"
+    },
+    "minecraft:sculk_shrieker": {
+      "name": "スカルクシュリーカー",
+      "yomi": "すかるくしゅりーかー"
+    },
+    "minecraft:sculk_vein": {
+      "name": "スカルクヴェイン",
+      "yomi": "すかるくゔぇいん"
     },
     "minecraft:sea_lantern": {
       "name": "シーランタン",
       "yomi": "しーらんたん"
     },
+    "minecraft:sea_pickle": {
+      "name": "シーピクルス",
+      "yomi": "しーぴくるす"
+    },
+    "minecraft:seagrass": {
+      "name": "海草"
+    },
+    "minecraft:shelf_mushroom": {
+      "name": "サルノコシカケ",
+      "yomi": "さるのこしかけ"
+    },
+    "minecraft:short_dry_grass": {
+      "name": "背の低い枯れ草"
+    },
+    "minecraft:short_grass": {
+      "name": "背の低い草"
+    },
     "minecraft:shroomlight": {
       "name": "シュルームライト",
       "yomi": "しゅるーむらいと"
     },
+    "minecraft:shulker_box": {
+      "name": "シュルカーボックス",
+      "yomi": "しゅるかーぼっくす"
+    },
+    "minecraft:sign": {
+      "name": "看板"
+    },
+    "minecraft:skeleton_skull": {
+      "name": "スケルトンの頭蓋骨"
+    },
+    "minecraft:skeleton_wall_skull": {
+      "name": "壁に付けられたスケルトンの頭蓋骨"
+    },
     "minecraft:slime_block": {
       "name": "スライムブロック",
       "yomi": "すらいむぶろっく"
+    },
+    "minecraft:small_amethyst_bud": {
+      "name": "小さなアメジストの芽"
+    },
+    "minecraft:small_dripleaf": {
+      "name": "小さなドリップリーフ"
+    },
+    "minecraft:smithing_table": {
+      "name": "鍛冶台"
+    },
+    "minecraft:smoker": {
+      "name": "燻製器"
     },
     "minecraft:smooth_basalt": {
       "name": "滑らかな玄武岩",
@@ -1277,20 +3534,59 @@
     "minecraft:smooth_quartz": {
       "name": "滑らかなクォーツブロック",
       "yomi": "なめらかなくぉーつぶろっく",
-      "aliases": ["なめらかなクオーツブロック", "なめらかなくおーつぶろっく"]
+      "aliases": ["なめらかなクオーツブロック", "なめらかなくおーつぶろっく", "滑らかなネザー水晶ブロック", "滑らかなクォーツ"]
+    },
+    "minecraft:smooth_quartz_slab": {
+      "name": "滑らかなクォーツのハーフブロック"
+    },
+    "minecraft:smooth_quartz_stairs": {
+      "name": "滑らかなクォーツの階段"
+    },
+    "minecraft:smooth_red_sandstone": {
+      "name": "滑らかな赤い砂岩"
+    },
+    "minecraft:smooth_red_sandstone_slab": {
+      "name": "滑らかな赤い砂岩のハーフブロック"
+    },
+    "minecraft:smooth_red_sandstone_stairs": {
+      "name": "滑らかな赤い砂岩の階段"
     },
     "minecraft:smooth_sandstone": {
       "name": "滑らかな砂岩",
       "yomi": "なめらかなさがん"
+    },
+    "minecraft:smooth_sandstone_slab": {
+      "name": "滑らかな砂岩のハーフブロック"
+    },
+    "minecraft:smooth_sandstone_stairs": {
+      "name": "滑らかな砂岩の階段"
     },
     "minecraft:smooth_stone": {
       "name": "滑らかな石",
       "yomi": "なめらかないし",
       "aliases": ["なめらかな石", "なめらかないし"]
     },
+    "minecraft:smooth_stone_slab": {
+      "name": "滑らかな石のハーフブロック"
+    },
+    "minecraft:sniffer_egg": {
+      "name": "スニッファーの卵"
+    },
+    "minecraft:snow": {
+      "name": "雪"
+    },
     "minecraft:snow_block": {
       "name": "雪ブロック",
       "yomi": "ゆきぶろっく"
+    },
+    "minecraft:soul_campfire": {
+      "name": "魂の焚き火"
+    },
+    "minecraft:soul_fire": {
+      "name": "魂の炎"
+    },
+    "minecraft:soul_lantern": {
+      "name": "魂のランタン"
     },
     "minecraft:soul_sand": {
       "name": "ソウルサンド",
@@ -1300,25 +3596,43 @@
       "name": "ソウルソイル",
       "yomi": "そうるそいる"
     },
+    "minecraft:soul_torch": {
+      "name": "魂の松明"
+    },
+    "minecraft:soul_wall_torch": {
+      "name": "壁に付けられた魂の松明"
+    },
+    "minecraft:spawner": {
+      "name": "モンスタースポナー",
+      "yomi": "もんすたーすぽなー",
+      "aliases": ["スポナー"]
+    },
     "minecraft:sponge": {
       "name": "スポンジ",
       "yomi": "すぽんじ"
     },
+    "minecraft:spore_blossom": {
+      "name": "胞子の花"
+    },
     "minecraft:spruce_button": {
       "name": "トウヒのボタン",
-      "yomi": "とうひのぼたん"
+      "yomi": "とうひのぼたん",
+      "aliases": ["マツのボタン"]
     },
     "minecraft:spruce_door": {
       "name": "トウヒのドア",
-      "yomi": "とうひのどあ"
+      "yomi": "とうひのどあ",
+      "aliases": ["マツのドア"]
     },
     "minecraft:spruce_fence": {
       "name": "トウヒのフェンス",
-      "yomi": "とうひのふぇんす"
+      "yomi": "とうひのふぇんす",
+      "aliases": ["マツのフェンス"]
     },
     "minecraft:spruce_fence_gate": {
       "name": "トウヒのフェンスゲート",
-      "yomi": "とうひのふぇんすげーと"
+      "yomi": "とうひのふぇんすげーと",
+      "aliases": ["マツのフェンスゲート"]
     },
     "minecraft:spruce_hanging_sign": {
       "name": "トウヒの吊り看板",
@@ -1326,51 +3640,101 @@
     },
     "minecraft:spruce_leaves": {
       "name": "トウヒの葉",
-      "yomi": "とうひのは"
+      "yomi": "とうひのは",
+      "aliases": ["マツの葉"]
     },
     "minecraft:spruce_log": {
       "name": "トウヒの原木",
-      "yomi": "とうひのげんぼく"
+      "yomi": "とうひのげんぼく",
+      "aliases": ["マツの原木"]
     },
     "minecraft:spruce_planks": {
       "name": "トウヒの板材",
-      "yomi": "とうひのいたざい"
+      "yomi": "とうひのいたざい",
+      "aliases": ["マツの木材", "マツの板材"]
     },
     "minecraft:spruce_pressure_plate": {
       "name": "トウヒの感圧板",
-      "yomi": "とうひのかんあつばん"
+      "yomi": "とうひのかんあつばん",
+      "aliases": ["マツの感圧板"]
     },
     "minecraft:spruce_sapling": {
       "name": "トウヒの苗木",
-      "yomi": "とうひのなえぎ"
+      "yomi": "とうひのなえぎ",
+      "aliases": ["マツの苗木"]
+    },
+    "minecraft:spruce_shelf": {
+      "name": "トウヒの棚"
     },
     "minecraft:spruce_sign": {
       "name": "トウヒの看板",
-      "yomi": "とうひのかんばん"
+      "yomi": "とうひのかんばん",
+      "aliases": ["マツの看板"]
     },
     "minecraft:spruce_slab": {
       "name": "トウヒのハーフブロック",
-      "yomi": "とうひのはーふぶろっく"
+      "yomi": "とうひのはーふぶろっく",
+      "aliases": ["マツのハーフブロック"]
     },
     "minecraft:spruce_stairs": {
       "name": "トウヒの階段",
-      "yomi": "とうひのかいだん"
+      "yomi": "とうひのかいだん",
+      "aliases": ["マツの階段"]
     },
     "minecraft:spruce_trapdoor": {
       "name": "トウヒのトラップドア",
-      "yomi": "とうひのとらっぷどあ"
+      "yomi": "とうひのとらっぷどあ",
+      "aliases": ["マツのトラップドア"]
+    },
+    "minecraft:spruce_wall_hanging_sign": {
+      "name": "壁に付けられたトウヒの吊り看板"
+    },
+    "minecraft:spruce_wall_sign": {
+      "name": "壁に付けられたトウヒの看板",
+      "aliases": ["壁に付けられたマツの看板"]
     },
     "minecraft:spruce_wood": {
       "name": "トウヒの木",
-      "yomi": "とうひのき"
+      "yomi": "とうひのき",
+      "aliases": ["マツの木塊", "マツの木"]
+    },
+    "minecraft:sticky_piston": {
+      "name": "粘着ピストン"
     },
     "minecraft:stone": {
       "name": "石",
       "yomi": "いし"
     },
+    "minecraft:stone_brick_slab": {
+      "name": "石レンガのハーフブロック"
+    },
+    "minecraft:stone_brick_stairs": {
+      "name": "石レンガの階段"
+    },
+    "minecraft:stone_brick_wall": {
+      "name": "石レンガの塀"
+    },
     "minecraft:stone_bricks": {
       "name": "石レンガ",
       "yomi": "いしれんが"
+    },
+    "minecraft:stone_button": {
+      "name": "石のボタン"
+    },
+    "minecraft:stone_pressure_plate": {
+      "name": "石の感圧板"
+    },
+    "minecraft:stone_slab": {
+      "name": "石のハーフブロック"
+    },
+    "minecraft:stone_stairs": {
+      "name": "石の階段"
+    },
+    "minecraft:stonecutter": {
+      "name": "石切台"
+    },
+    "minecraft:straw_bed": {
+      "name": "藁のベッド"
     },
     "minecraft:stripped_acacia_log": {
       "name": "樹皮を剥いだアカシアの原木",
@@ -1378,7 +3742,8 @@
     },
     "minecraft:stripped_acacia_wood": {
       "name": "樹皮を剥いだアカシアの木",
-      "yomi": "じゅひをはいだあかしあのき"
+      "yomi": "じゅひをはいだあかしあのき",
+      "aliases": ["樹皮を剥いだアカシアの木塊"]
     },
     "minecraft:stripped_bamboo_block": {
       "name": "表皮を剥いだ竹ブロック",
@@ -1390,7 +3755,8 @@
     },
     "minecraft:stripped_birch_wood": {
       "name": "樹皮を剥いだシラカバの木",
-      "yomi": "じゅひをはいだしらかばのき"
+      "yomi": "じゅひをはいだしらかばのき",
+      "aliases": ["樹皮を剥いだシラカバの木塊"]
     },
     "minecraft:stripped_cherry_log": {
       "name": "樹皮を剥いだサクラの原木",
@@ -1414,7 +3780,8 @@
     },
     "minecraft:stripped_dark_oak_wood": {
       "name": "樹皮を剥いだダークオークの木",
-      "yomi": "じゅひをはいだだーくおーくのき"
+      "yomi": "じゅひをはいだだーくおーくのき",
+      "aliases": ["樹皮を剥いだダークオークの木塊"]
     },
     "minecraft:stripped_jungle_log": {
       "name": "樹皮を剥いだジャングルの原木",
@@ -1422,7 +3789,8 @@
     },
     "minecraft:stripped_jungle_wood": {
       "name": "樹皮を剥いだジャングルの木",
-      "yomi": "じゅひをはいだじゃんぐるのき"
+      "yomi": "じゅひをはいだじゃんぐるのき",
+      "aliases": ["樹皮を剥いだジャングルの木塊"]
     },
     "minecraft:stripped_mangrove_log": {
       "name": "樹皮を剥いだマングローブの原木",
@@ -1438,7 +3806,8 @@
     },
     "minecraft:stripped_oak_wood": {
       "name": "樹皮を剥いだオークの木",
-      "yomi": "じゅひをはいだおーくのき"
+      "yomi": "じゅひをはいだおーくのき",
+      "aliases": ["樹皮を剥いだオークの木塊"]
     },
     "minecraft:stripped_pale_oak_log": {
       "name": "樹皮を剥いだペールオークの原木",
@@ -1448,13 +3817,21 @@
       "name": "樹皮を剥いだペールオークの木",
       "yomi": "じゅひをはいだぺーるおーくのき"
     },
+    "minecraft:stripped_poplar_log": {
+      "name": "樹皮を剥いだポプラの原木"
+    },
+    "minecraft:stripped_poplar_wood": {
+      "name": "樹皮を剥いだポプラの木"
+    },
     "minecraft:stripped_spruce_log": {
       "name": "樹皮を剥いだトウヒの原木",
-      "yomi": "じゅひをはいだとうひのげんぼく"
+      "yomi": "じゅひをはいだとうひのげんぼく",
+      "aliases": ["樹皮を剥いだマツの原木"]
     },
     "minecraft:stripped_spruce_wood": {
       "name": "樹皮を剥いだトウヒの木",
-      "yomi": "じゅひをはいだとうひのき"
+      "yomi": "じゅひをはいだとうひのき",
+      "aliases": ["樹皮を剥いだマツの木塊", "樹皮を剥いだマツの木"]
     },
     "minecraft:stripped_warped_hyphae": {
       "name": "表皮を剥いだ歪んだ菌糸",
@@ -1473,9 +3850,73 @@
       "yomi": "すとらくちゃーゔぉいど",
       "aliases": ["すとらくちゃーぼいど"]
     },
+    "minecraft:sugar_cane": {
+      "name": "サトウキビ",
+      "yomi": "さとうきび"
+    },
+    "minecraft:sulfur": {
+      "name": "硫黄"
+    },
+    "minecraft:sulfur_brick_slab": {
+      "name": "硫黄レンガのハーフブロック"
+    },
+    "minecraft:sulfur_brick_stairs": {
+      "name": "硫黄レンガの階段"
+    },
+    "minecraft:sulfur_brick_wall": {
+      "name": "硫黄レンガの塀"
+    },
+    "minecraft:sulfur_bricks": {
+      "name": "硫黄レンガ"
+    },
+    "minecraft:sulfur_slab": {
+      "name": "硫黄のハーフブロック"
+    },
+    "minecraft:sulfur_spike": {
+      "name": "尖った硫黄"
+    },
+    "minecraft:sulfur_stairs": {
+      "name": "硫黄の階段"
+    },
+    "minecraft:sulfur_wall": {
+      "name": "硫黄の塀"
+    },
+    "minecraft:sunflower": {
+      "name": "ヒマワリ",
+      "yomi": "ひまわり"
+    },
+    "minecraft:suspicious_gravel": {
+      "name": "怪しげな砂利"
+    },
+    "minecraft:suspicious_sand": {
+      "name": "怪しげな砂"
+    },
+    "minecraft:sweet_berry_bush": {
+      "name": "スイートベリーの低木"
+    },
+    "minecraft:tall_dry_grass": {
+      "name": "背の高い枯れ草"
+    },
+    "minecraft:tall_grass": {
+      "name": "背の高い草"
+    },
+    "minecraft:tall_seagrass": {
+      "name": "背の高い海草"
+    },
+    "minecraft:target": {
+      "name": "的"
+    },
     "minecraft:terracotta": {
       "name": "テラコッタ",
       "yomi": "てらこった"
+    },
+    "minecraft:test_block": {
+      "name": "テストブロック",
+      "yomi": "てすとぶろっく"
+    },
+    "minecraft:test_instance_block": {
+      "name": "テストインスタンスブロック",
+      "yomi": "てすといんすたんすぶろっく"
     },
     "minecraft:tinted_glass": {
       "name": "遮光ガラス",
@@ -1485,9 +3926,101 @@
       "name": "TNT",
       "yomi": "てぃーえぬてぃー"
     },
+    "minecraft:torch": {
+      "name": "松明"
+    },
+    "minecraft:torchflower": {
+      "name": "トーチフラワー",
+      "yomi": "とーちふらわー"
+    },
+    "minecraft:torchflower_crop": {
+      "name": "トーチフラワー",
+      "yomi": "とーちふらわー"
+    },
+    "minecraft:trapped_chest": {
+      "name": "トラップチェスト",
+      "yomi": "とらっぷちぇすと"
+    },
+    "minecraft:trial_spawner": {
+      "name": "試練のスポナー"
+    },
+    "minecraft:tripwire": {
+      "name": "トリップワイヤー",
+      "yomi": "とりっぷわいやー"
+    },
+    "minecraft:tripwire_hook": {
+      "name": "トリップワイヤーフック",
+      "yomi": "とりっぷわいやーふっく"
+    },
+    "minecraft:tube_coral": {
+      "name": "クダサンゴ",
+      "yomi": "くださんご"
+    },
+    "minecraft:tube_coral_block": {
+      "name": "クダサンゴブロック",
+      "yomi": "くださんごぶろっく"
+    },
+    "minecraft:tube_coral_fan": {
+      "name": "クダウチワサンゴ",
+      "yomi": "くだうちわさんご"
+    },
+    "minecraft:tube_coral_wall_fan": {
+      "name": "壁付きのクダウチワサンゴ"
+    },
     "minecraft:tuff": {
       "name": "凝灰岩",
       "yomi": "ぎょうかいがん"
+    },
+    "minecraft:tuff_brick_slab": {
+      "name": "凝灰岩レンガのハーフブロック"
+    },
+    "minecraft:tuff_brick_stairs": {
+      "name": "凝灰岩レンガの階段"
+    },
+    "minecraft:tuff_brick_wall": {
+      "name": "凝灰岩レンガの塀"
+    },
+    "minecraft:tuff_bricks": {
+      "name": "凝灰岩レンガ"
+    },
+    "minecraft:tuff_slab": {
+      "name": "凝灰岩のハーフブロック"
+    },
+    "minecraft:tuff_stairs": {
+      "name": "凝灰岩の階段"
+    },
+    "minecraft:tuff_wall": {
+      "name": "凝灰岩の塀"
+    },
+    "minecraft:turtle_egg": {
+      "name": "カメの卵"
+    },
+    "minecraft:twisting_vines": {
+      "name": "ねじれツタ",
+      "yomi": "ねじれつた"
+    },
+    "minecraft:twisting_vines_plant": {
+      "name": "ねじれツタのつる",
+      "yomi": "ねじれつたのつる"
+    },
+    "minecraft:vault": {
+      "name": "宝物庫"
+    },
+    "minecraft:verdant_froglight": {
+      "name": "新緑色のフロッグライト"
+    },
+    "minecraft:vine": {
+      "name": "ツタ",
+      "yomi": "つた"
+    },
+    "minecraft:void_air": {
+      "name": "奈落の空気"
+    },
+    "minecraft:wall_sign": {
+      "name": "壁に付けられた看板"
+    },
+    "minecraft:wall_torch": {
+      "name": "壁に付けられた松明"
     },
     "minecraft:warped_button": {
       "name": "歪んだボタン",
@@ -1517,6 +4050,9 @@
       "name": "歪んだ菌糸",
       "yomi": "ゆがんだきんし"
     },
+    "minecraft:warped_nylium": {
+      "name": "歪んだナイリウム"
+    },
     "minecraft:warped_planks": {
       "name": "歪んだ板材",
       "yomi": "ゆがんだいたざい"
@@ -1524,6 +4060,12 @@
     "minecraft:warped_pressure_plate": {
       "name": "歪んだ感圧板",
       "yomi": "ゆがんだかんあつばん"
+    },
+    "minecraft:warped_roots": {
+      "name": "歪んだ根"
+    },
+    "minecraft:warped_shelf": {
+      "name": "歪んだ棚"
     },
     "minecraft:warped_sign": {
       "name": "歪んだ看板",
@@ -1545,41 +4087,403 @@
       "name": "歪んだトラップドア",
       "yomi": "ゆがんだとらっぷどあ"
     },
+    "minecraft:warped_wall_hanging_sign": {
+      "name": "壁に付けられた歪んだ吊り看板"
+    },
+    "minecraft:warped_wall_sign": {
+      "name": "壁に付けられた歪んだ看板"
+    },
+    "minecraft:warped_wart_block": {
+      "name": "歪んだウォートブロック"
+    },
     "minecraft:water": {
       "name": "水",
       "yomi": "みず"
+    },
+    "minecraft:water_cauldron": {
+      "name": "水入りの大釜"
+    },
+    "minecraft:waxed_chiseled_copper": {
+      "name": "錆止めされた模様入りの銅"
+    },
+    "minecraft:waxed_copper_bars": {
+      "name": "錆止めされた銅格子"
+    },
+    "minecraft:waxed_copper_block": {
+      "name": "錆止めされた銅ブロック"
+    },
+    "minecraft:waxed_copper_bulb": {
+      "name": "錆止めされた銅の電球"
+    },
+    "minecraft:waxed_copper_chain": {
+      "name": "錆止めされた銅の鎖"
+    },
+    "minecraft:waxed_copper_chest": {
+      "name": "錆止めされた銅のチェスト"
+    },
+    "minecraft:waxed_copper_door": {
+      "name": "錆止めされた銅のドア"
+    },
+    "minecraft:waxed_copper_golem_statue": {
+      "name": "錆止めされたカッパーゴーレムの像"
+    },
+    "minecraft:waxed_copper_grate": {
+      "name": "錆止めされた銅の金網"
+    },
+    "minecraft:waxed_copper_lantern": {
+      "name": "錆止めされた銅のランタン"
+    },
+    "minecraft:waxed_copper_trapdoor": {
+      "name": "錆止めされた銅のトラップドア"
+    },
+    "minecraft:waxed_cut_copper": {
+      "name": "錆止めされた切り込み入りの銅"
+    },
+    "minecraft:waxed_cut_copper_slab": {
+      "name": "錆止めされた切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:waxed_cut_copper_stairs": {
+      "name": "錆止めされた切り込み入りの銅の階段"
+    },
+    "minecraft:waxed_exposed_chiseled_copper": {
+      "name": "錆止めされた風化した模様入りの銅"
+    },
+    "minecraft:waxed_exposed_copper": {
+      "name": "錆止めされた風化した銅"
+    },
+    "minecraft:waxed_exposed_copper_bars": {
+      "name": "錆止めされた風化した銅格子"
+    },
+    "minecraft:waxed_exposed_copper_bulb": {
+      "name": "錆止めされた風化した銅の電球"
+    },
+    "minecraft:waxed_exposed_copper_chain": {
+      "name": "錆止めされた風化した銅の鎖"
+    },
+    "minecraft:waxed_exposed_copper_chest": {
+      "name": "錆止めされた風化した銅のチェスト"
+    },
+    "minecraft:waxed_exposed_copper_door": {
+      "name": "錆止めされた風化した銅のドア"
+    },
+    "minecraft:waxed_exposed_copper_golem_statue": {
+      "name": "錆止めされた風化したカッパーゴーレムの像"
+    },
+    "minecraft:waxed_exposed_copper_grate": {
+      "name": "錆止めされた風化した銅の金網"
+    },
+    "minecraft:waxed_exposed_copper_lantern": {
+      "name": "錆止めされた風化した銅のランタン"
+    },
+    "minecraft:waxed_exposed_copper_trapdoor": {
+      "name": "錆止めされた風化した銅のトラップドア"
+    },
+    "minecraft:waxed_exposed_cut_copper": {
+      "name": "錆止めされた風化した切り込み入りの銅"
+    },
+    "minecraft:waxed_exposed_cut_copper_slab": {
+      "name": "錆止めされた風化した切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:waxed_exposed_cut_copper_stairs": {
+      "name": "錆止めされた風化した切り込み入りの銅の階段"
+    },
+    "minecraft:waxed_exposed_lightning_rod": {
+      "name": "錆止めされた風化した避雷針"
+    },
+    "minecraft:waxed_lightning_rod": {
+      "name": "錆止めされた避雷針"
+    },
+    "minecraft:waxed_oxidized_chiseled_copper": {
+      "name": "錆止めされた酸化した模様入りの銅"
+    },
+    "minecraft:waxed_oxidized_copper": {
+      "name": "錆止めされた酸化した銅"
+    },
+    "minecraft:waxed_oxidized_copper_bars": {
+      "name": "錆止めされた酸化した銅格子"
+    },
+    "minecraft:waxed_oxidized_copper_bulb": {
+      "name": "錆止めされた酸化した銅の電球"
+    },
+    "minecraft:waxed_oxidized_copper_chain": {
+      "name": "錆止めされた酸化した銅の鎖"
+    },
+    "minecraft:waxed_oxidized_copper_chest": {
+      "name": "錆止めされた酸化した銅のチェスト"
+    },
+    "minecraft:waxed_oxidized_copper_door": {
+      "name": "錆止めされた酸化した銅のドア"
+    },
+    "minecraft:waxed_oxidized_copper_golem_statue": {
+      "name": "錆止めされた酸化したカッパーゴーレムの像"
+    },
+    "minecraft:waxed_oxidized_copper_grate": {
+      "name": "錆止めされた酸化した銅の金網"
+    },
+    "minecraft:waxed_oxidized_copper_lantern": {
+      "name": "錆止めされた酸化した銅のランタン"
+    },
+    "minecraft:waxed_oxidized_copper_trapdoor": {
+      "name": "錆止めされた酸化した銅のトラップドア"
+    },
+    "minecraft:waxed_oxidized_cut_copper": {
+      "name": "錆止めされた酸化した切り込み入りの銅"
+    },
+    "minecraft:waxed_oxidized_cut_copper_slab": {
+      "name": "錆止めされた酸化した切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:waxed_oxidized_cut_copper_stairs": {
+      "name": "錆止めされた酸化した切り込み入りの銅の階段"
+    },
+    "minecraft:waxed_oxidized_lightning_rod": {
+      "name": "錆止めされた酸化した避雷針"
+    },
+    "minecraft:waxed_weathered_chiseled_copper": {
+      "name": "錆止めされた錆びた模様入りの銅"
+    },
+    "minecraft:waxed_weathered_copper": {
+      "name": "錆止めされた錆びた銅"
+    },
+    "minecraft:waxed_weathered_copper_bars": {
+      "name": "錆止めされた錆びた銅格子"
+    },
+    "minecraft:waxed_weathered_copper_bulb": {
+      "name": "錆止めされた錆びた銅の電球"
+    },
+    "minecraft:waxed_weathered_copper_chain": {
+      "name": "錆止めされた錆びた銅の鎖"
+    },
+    "minecraft:waxed_weathered_copper_chest": {
+      "name": "錆止めされた錆びた銅のチェスト"
+    },
+    "minecraft:waxed_weathered_copper_door": {
+      "name": "錆止めされた錆びた銅のドア"
+    },
+    "minecraft:waxed_weathered_copper_golem_statue": {
+      "name": "錆止めされた錆びたカッパーゴーレムの像"
+    },
+    "minecraft:waxed_weathered_copper_grate": {
+      "name": "錆止めされた錆びた銅の金網"
+    },
+    "minecraft:waxed_weathered_copper_lantern": {
+      "name": "錆止めされた錆びた銅のランタン"
+    },
+    "minecraft:waxed_weathered_copper_trapdoor": {
+      "name": "錆止めされた錆びた銅のトラップドア"
+    },
+    "minecraft:waxed_weathered_cut_copper": {
+      "name": "錆止めされた錆びた切り込み入りの銅"
+    },
+    "minecraft:waxed_weathered_cut_copper_slab": {
+      "name": "錆止めされた錆びた切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:waxed_weathered_cut_copper_stairs": {
+      "name": "錆止めされた錆びた切り込み入りの銅の階段"
+    },
+    "minecraft:waxed_weathered_lightning_rod": {
+      "name": "錆止めされた錆びた避雷針"
+    },
+    "minecraft:weathered_chiseled_copper": {
+      "name": "錆びた模様入りの銅"
+    },
+    "minecraft:weathered_copper": {
+      "name": "錆びた銅"
+    },
+    "minecraft:weathered_copper_bars": {
+      "name": "錆びた銅格子"
+    },
+    "minecraft:weathered_copper_bulb": {
+      "name": "錆びた銅の電球"
+    },
+    "minecraft:weathered_copper_chain": {
+      "name": "錆びた銅の鎖"
+    },
+    "minecraft:weathered_copper_chest": {
+      "name": "錆びた銅のチェスト"
+    },
+    "minecraft:weathered_copper_door": {
+      "name": "錆びた銅のドア"
+    },
+    "minecraft:weathered_copper_golem_statue": {
+      "name": "錆びたカッパーゴーレムの像"
+    },
+    "minecraft:weathered_copper_grate": {
+      "name": "錆びた銅の金網"
+    },
+    "minecraft:weathered_copper_lantern": {
+      "name": "錆びた銅のランタン"
+    },
+    "minecraft:weathered_copper_trapdoor": {
+      "name": "錆びた銅のトラップドア"
+    },
+    "minecraft:weathered_cut_copper": {
+      "name": "錆びた切り込み入りの銅"
+    },
+    "minecraft:weathered_cut_copper_slab": {
+      "name": "錆びた切り込み入りの銅のハーフブロック"
+    },
+    "minecraft:weathered_cut_copper_stairs": {
+      "name": "錆びた切り込み入りの銅の階段"
+    },
+    "minecraft:weathered_lightning_rod": {
+      "name": "錆びた避雷針"
+    },
+    "minecraft:weeping_vines": {
+      "name": "しだれツタ",
+      "yomi": "しだれつた"
+    },
+    "minecraft:weeping_vines_plant": {
+      "name": "しだれツタのつる",
+      "yomi": "しだれつたのつる"
+    },
+    "minecraft:wet_sponge": {
+      "name": "濡れたスポンジ"
+    },
+    "minecraft:wheat": {
+      "name": "小麦"
+    },
+    "minecraft:white_banner": {
+      "name": "白色の旗"
+    },
+    "minecraft:white_bed": {
+      "name": "白色のベッド"
+    },
+    "minecraft:white_candle": {
+      "name": "白色のろうそく"
+    },
+    "minecraft:white_candle_cake": {
+      "name": "白色のろうそくが立てられたケーキ",
+      "aliases": ["白色のろうそく付きケーキ"]
+    },
+    "minecraft:white_carpet": {
+      "name": "白色のカーペット"
     },
     "minecraft:white_concrete": {
       "name": "白色のコンクリート",
       "yomi": "しろいろのこんくりーと"
     },
+    "minecraft:white_concrete_powder": {
+      "name": "白色のコンクリートパウダー"
+    },
+    "minecraft:white_concrete_slab": {
+      "name": "白色のコンクリートのハーフブロック"
+    },
+    "minecraft:white_concrete_stairs": {
+      "name": "白色のコンクリートの階段"
+    },
+    "minecraft:white_glazed_terracotta": {
+      "name": "白色の彩釉テラコッタ"
+    },
+    "minecraft:white_shulker_box": {
+      "name": "白色のシュルカーボックス"
+    },
     "minecraft:white_stained_glass": {
       "name": "白色の色付きガラス",
       "yomi": "しろいろのいろつきがらす"
+    },
+    "minecraft:white_stained_glass_pane": {
+      "name": "白色の色付きガラス板"
     },
     "minecraft:white_terracotta": {
       "name": "白色のテラコッタ",
       "yomi": "しろいろのてらこった"
     },
+    "minecraft:white_tulip": {
+      "name": "白色のチューリップ"
+    },
+    "minecraft:white_wall_banner": {
+      "name": "白色の旗"
+    },
     "minecraft:white_wool": {
       "name": "白色の羊毛",
       "yomi": "しろいろのようもう"
+    },
+    "minecraft:white_wool_slab": {
+      "name": "白色の羊毛のハーフブロック"
+    },
+    "minecraft:white_wool_stairs": {
+      "name": "白色の羊毛の階段"
+    },
+    "minecraft:wildflowers": {
+      "name": "野花"
+    },
+    "minecraft:wither_rose": {
+      "name": "ウィザーローズ",
+      "yomi": "うぃざーろーず"
+    },
+    "minecraft:wither_skeleton_skull": {
+      "name": "ウィザースケルトンの頭蓋骨"
+    },
+    "minecraft:wither_skeleton_wall_skull": {
+      "name": "壁に付けられたウィザースケルトンの頭蓋骨"
+    },
+    "minecraft:yellow_banner": {
+      "name": "黄色の旗"
+    },
+    "minecraft:yellow_bed": {
+      "name": "黄色のベッド"
+    },
+    "minecraft:yellow_candle": {
+      "name": "黄色のろうそく"
+    },
+    "minecraft:yellow_candle_cake": {
+      "name": "黄色のろうそくが立てられたケーキ",
+      "aliases": ["黄色のろうそく付きケーキ"]
+    },
+    "minecraft:yellow_carpet": {
+      "name": "黄色のカーペット"
     },
     "minecraft:yellow_concrete": {
       "name": "黄色のコンクリート",
       "yomi": "きいろのこんくりーと"
     },
+    "minecraft:yellow_concrete_powder": {
+      "name": "黄色のコンクリートパウダー"
+    },
+    "minecraft:yellow_concrete_slab": {
+      "name": "黄色のコンクリートのハーフブロック"
+    },
+    "minecraft:yellow_concrete_stairs": {
+      "name": "黄色のコンクリートの階段"
+    },
+    "minecraft:yellow_glazed_terracotta": {
+      "name": "黄色の彩釉テラコッタ"
+    },
+    "minecraft:yellow_poplar_leaves": {
+      "name": "黄色のポプラの葉"
+    },
+    "minecraft:yellow_shulker_box": {
+      "name": "黄色のシュルカーボックス"
+    },
     "minecraft:yellow_stained_glass": {
       "name": "黄色の色付きガラス",
       "yomi": "きいろのいろつきがらす"
+    },
+    "minecraft:yellow_stained_glass_pane": {
+      "name": "黄色の色付きガラス板"
     },
     "minecraft:yellow_terracotta": {
       "name": "黄色のテラコッタ",
       "yomi": "きいろのてらこった"
     },
+    "minecraft:yellow_wall_banner": {
+      "name": "黄色の旗"
+    },
     "minecraft:yellow_wool": {
       "name": "黄色の羊毛",
       "yomi": "きいろのようもう"
+    },
+    "minecraft:yellow_wool_slab": {
+      "name": "黄色の羊毛のハーフブロック"
+    },
+    "minecraft:yellow_wool_stairs": {
+      "name": "黄色の羊毛の階段"
+    },
+    "minecraft:zombie_head": {
+      "name": "ゾンビの頭"
+    },
+    "minecraft:zombie_wall_head": {
+      "name": "壁に付けられたゾンビの頭"
     }
   }
 }
